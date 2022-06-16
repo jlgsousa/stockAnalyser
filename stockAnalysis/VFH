@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "VFH",
+  "date" : 1629756000000,
+  "open" : 93.900002,
+  "low" : 93.699997,
+  "high" : 94.370003,
+  "close" : 94.18,
+  "adjClose" : 93.636444,
+  "volume" : 259800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1629842400000,
+  "open" : 94.5,
+  "low" : 94.279999,
+  "high" : 95.82,
+  "close" : 95.300003,
+  "adjClose" : 94.749985,
+  "volume" : 433900,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1629928800000,
+  "open" : 95.589996,
+  "low" : 94.629997,
+  "high" : 95.699997,
+  "close" : 94.720001,
+  "adjClose" : 94.173332,
+  "volume" : 457500,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630015200000,
+  "open" : 94.910004,
+  "low" : 94.839996,
+  "high" : 96.129997,
+  "close" : 96.089996,
+  "adjClose" : 95.535416,
+  "volume" : 452300,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630274400000,
+  "open" : 96.099998,
+  "low" : 94.699997,
+  "high" : 96.199997,
+  "close" : 94.720001,
+  "adjClose" : 94.173332,
+  "volume" : 707700,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630360800000,
+  "open" : 94.720001,
+  "low" : 94.330002,
+  "high" : 95.400002,
+  "close" : 94.800003,
+  "adjClose" : 94.252869,
+  "volume" : 422100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630447200000,
+  "open" : 94.879997,
+  "low" : 93.879997,
+  "high" : 94.949997,
+  "close" : 94.339996,
+  "adjClose" : 93.795517,
+  "volume" : 368500,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630533600000,
+  "open" : 94.510002,
+  "low" : 94.279999,
+  "high" : 94.959999,
+  "close" : 94.629997,
+  "adjClose" : 94.083847,
+  "volume" : 273500,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630620000000,
+  "open" : 94.5,
+  "low" : 93.889999,
+  "high" : 94.669998,
+  "close" : 94.169998,
+  "adjClose" : 93.626503,
+  "volume" : 244800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1630965600000,
+  "open" : 94.290001,
+  "low" : 93.459999,
+  "high" : 94.400002,
+  "close" : 93.57,
+  "adjClose" : 93.029961,
+  "volume" : 273800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631052000000,
+  "open" : 93.279999,
+  "low" : 92.720001,
+  "high" : 93.660004,
+  "close" : 93.209999,
+  "adjClose" : 92.672043,
+  "volume" : 285800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631138400000,
+  "open" : 93.059998,
+  "low" : 93.010002,
+  "high" : 94.309998,
+  "close" : 93.449997,
+  "adjClose" : 92.910652,
+  "volume" : 530300,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631224800000,
+  "open" : 94.059998,
+  "low" : 92.690002,
+  "high" : 94.07,
+  "close" : 92.699997,
+  "adjClose" : 92.164986,
+  "volume" : 279600,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631484000000,
+  "open" : 93.449997,
+  "low" : 93.07,
+  "high" : 93.839996,
+  "close" : 93.720001,
+  "adjClose" : 93.1791,
+  "volume" : 369700,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631570400000,
+  "open" : 94.089996,
+  "low" : 92.18,
+  "high" : 94.339996,
+  "close" : 92.400002,
+  "adjClose" : 91.866722,
+  "volume" : 285100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631656800000,
+  "open" : 92.529999,
+  "low" : 92.419998,
+  "high" : 93.650002,
+  "close" : 93.360001,
+  "adjClose" : 92.821175,
+  "volume" : 296200,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631743200000,
+  "open" : 93.709999,
+  "low" : 92.75,
+  "high" : 94.199997,
+  "close" : 93.199997,
+  "adjClose" : 92.662094,
+  "volume" : 234300,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1631829600000,
+  "open" : 93.150002,
+  "low" : 92.550003,
+  "high" : 93.610001,
+  "close" : 92.839996,
+  "adjClose" : 92.304176,
+  "volume" : 261500,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632088800000,
+  "open" : 90.730003,
+  "low" : 89.290001,
+  "high" : 91.019997,
+  "close" : 90.610001,
+  "adjClose" : 90.087051,
+  "volume" : 849300,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632175200000,
+  "open" : 91.160004,
+  "low" : 90.239998,
+  "high" : 91.449997,
+  "close" : 90.5,
+  "adjClose" : 89.977684,
+  "volume" : 346100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632261600000,
+  "open" : 91.5,
+  "low" : 91.43,
+  "high" : 92.540001,
+  "close" : 91.879997,
+  "adjClose" : 91.349716,
+  "volume" : 435600,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632348000000,
+  "open" : 92.809998,
+  "low" : 92.709999,
+  "high" : 94.580002,
+  "close" : 94.089996,
+  "adjClose" : 93.546959,
+  "volume" : 359200,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632434400000,
+  "open" : 93.959999,
+  "low" : 93.870003,
+  "high" : 94.879997,
+  "close" : 94.650002,
+  "adjClose" : 94.103729,
+  "volume" : 866100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632693600000,
+  "open" : 95.32,
+  "low" : 95.25,
+  "high" : 96.260002,
+  "close" : 96.019997,
+  "adjClose" : 95.46582,
+  "volume" : 855000,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632780000000,
+  "open" : 96.059998,
+  "low" : 94.290001,
+  "high" : 96.349998,
+  "close" : 94.43,
+  "adjClose" : 93.885002,
+  "volume" : 755100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632866400000,
+  "open" : 94.220001,
+  "low" : 93.519997,
+  "high" : 94.419998,
+  "close" : 94.040001,
+  "adjClose" : 94.040001,
+  "volume" : 345600,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1632952800000,
+  "open" : 94.470001,
+  "low" : 92.650002,
+  "high" : 94.559998,
+  "close" : 92.650002,
+  "adjClose" : 92.650002,
+  "volume" : 743000,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633039200000,
+  "open" : 92.839996,
+  "low" : 92.550003,
+  "high" : 94.779999,
+  "close" : 94.110001,
+  "adjClose" : 94.110001,
+  "volume" : 696900,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633298400000,
+  "open" : 94.019997,
+  "low" : 93.260002,
+  "high" : 95.239998,
+  "close" : 93.519997,
+  "adjClose" : 93.519997,
+  "volume" : 630100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633384800000,
+  "open" : 94.139999,
+  "low" : 93.699997,
+  "high" : 95.529999,
+  "close" : 95.099998,
+  "adjClose" : 95.099998,
+  "volume" : 627400,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633471200000,
+  "open" : 94.260002,
+  "low" : 93.5,
+  "high" : 95.25,
+  "close" : 95.230003,
+  "adjClose" : 95.230003,
+  "volume" : 448800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633557600000,
+  "open" : 96.029999,
+  "low" : 95.75,
+  "high" : 96.75,
+  "close" : 95.860001,
+  "adjClose" : 95.860001,
+  "volume" : 298100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633644000000,
+  "open" : 95.919998,
+  "low" : 95.580002,
+  "high" : 96.709999,
+  "close" : 96.400002,
+  "adjClose" : 96.400002,
+  "volume" : 359200,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633903200000,
+  "open" : 96.57,
+  "low" : 95.400002,
+  "high" : 97.260002,
+  "close" : 95.400002,
+  "adjClose" : 95.400002,
+  "volume" : 461900,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1633989600000,
+  "open" : 95.470001,
+  "low" : 95.0,
+  "high" : 95.839996,
+  "close" : 95.279999,
+  "adjClose" : 95.279999,
+  "volume" : 840900,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634076000000,
+  "open" : 95.309998,
+  "low" : 93.5,
+  "high" : 95.309998,
+  "close" : 94.889999,
+  "adjClose" : 94.889999,
+  "volume" : 408700,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634162400000,
+  "open" : 95.989998,
+  "low" : 95.120003,
+  "high" : 96.480003,
+  "close" : 96.419998,
+  "adjClose" : 96.419998,
+  "volume" : 385900,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634248800000,
+  "open" : 97.339996,
+  "low" : 97.110001,
+  "high" : 98.199997,
+  "close" : 97.599998,
+  "adjClose" : 97.599998,
+  "volume" : 614800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634508000000,
+  "open" : 97.529999,
+  "low" : 97.25,
+  "high" : 98.230003,
+  "close" : 97.650002,
+  "adjClose" : 97.650002,
+  "volume" : 591800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634594400000,
+  "open" : 98.199997,
+  "low" : 97.82,
+  "high" : 98.629997,
+  "close" : 98.57,
+  "adjClose" : 98.57,
+  "volume" : 365700,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634680800000,
+  "open" : 98.559998,
+  "low" : 98.269997,
+  "high" : 99.529999,
+  "close" : 99.519997,
+  "adjClose" : 99.519997,
+  "volume" : 1205100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634767200000,
+  "open" : 99.519997,
+  "low" : 98.790001,
+  "high" : 99.849998,
+  "close" : 99.25,
+  "adjClose" : 99.25,
+  "volume" : 790100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1634853600000,
+  "open" : 99.769997,
+  "low" : 99.650002,
+  "high" : 100.699997,
+  "close" : 100.470001,
+  "adjClose" : 100.470001,
+  "volume" : 761800,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635112800000,
+  "open" : 100.75,
+  "low" : 100.269997,
+  "high" : 100.889999,
+  "close" : 100.470001,
+  "adjClose" : 100.470001,
+  "volume" : 420000,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635199200000,
+  "open" : 100.82,
+  "low" : 100.43,
+  "high" : 101.209999,
+  "close" : 100.480003,
+  "adjClose" : 100.480003,
+  "volume" : 767000,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635285600000,
+  "open" : 100.220001,
+  "low" : 98.580002,
+  "high" : 100.580002,
+  "close" : 98.629997,
+  "adjClose" : 98.629997,
+  "volume" : 430000,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635372000000,
+  "open" : 99.110001,
+  "low" : 99.110001,
+  "high" : 99.980003,
+  "close" : 99.879997,
+  "adjClose" : 99.879997,
+  "volume" : 436100,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635458400000,
+  "open" : 99.959999,
+  "low" : 99.389999,
+  "high" : 100.18,
+  "close" : 99.650002,
+  "adjClose" : 99.650002,
+  "volume" : 352300,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635721200000,
+  "open" : 100.290001,
+  "low" : 99.550003,
+  "high" : 100.519997,
+  "close" : 100.099998,
+  "adjClose" : 100.099998,
+  "volume" : 499700,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635807600000,
+  "open" : 100.019997,
+  "low" : 99.75,
+  "high" : 100.510002,
+  "close" : 100.290001,
+  "adjClose" : 100.290001,
+  "volume" : 494200,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635894000000,
+  "open" : 100.0,
+  "low" : 99.980003,
+  "high" : 101.260002,
+  "close" : 100.949997,
+  "adjClose" : 100.949997,
+  "volume" : 394000,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1635980400000,
+  "open" : 100.779999,
+  "low" : 98.980003,
+  "high" : 100.779999,
+  "close" : 99.68,
+  "adjClose" : 99.68,
+  "volume" : 491900,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1636066800000,
+  "open" : 100.370003,
+  "low" : 99.519997,
+  "high" : 100.900002,
+  "close" : 99.919998,
+  "adjClose" : 99.919998,
+  "volume" : 430200,
+  "invalid" : false
+}, {
+  "symbol" : "VFH",
+  "date" : 1641855600000,
+  "open" : 101.07,
+  "low" : 100.199997,
+  "high" : 101.760002,
+  "close" : 101.739998,
+  "adjClose" : 101.739998,
+  "volume" : 1087700,
+  "invalid" : false
+} ],
+"averageTrueRange":1.4303766037735834,
+"stockAnalysis":{
+  "averageTrueRange" : 1.4303766037735834,
+  "longEntry" : 101.760002,
+  "longExit" : 93.5,
+  "longStop" : 99.0,
+  "shortEntry" : 89.290001,
+  "shortExit" : 101.760002,
+  "shortStop" : 105.0,
+  "investAmount" : 2843.0,
+  "high" : 102.3886,
+  "low" : 101.25,
+  "stockName" : "Vanguard Financials Index Fund ETF Shares",
+  "currentPrice" : 101.68
+}}

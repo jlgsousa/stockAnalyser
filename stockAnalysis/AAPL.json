@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "AAPL",
+  "date" : 1629842400000,
+  "open" : 149.809998,
+  "low" : 147.800003,
+  "high" : 150.320007,
+  "close" : 148.360001,
+  "adjClose" : 148.143784,
+  "volume" : 58991300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1629928800000,
+  "open" : 148.350006,
+  "low" : 147.509995,
+  "high" : 149.119995,
+  "close" : 147.539993,
+  "adjClose" : 147.324982,
+  "volume" : 48597200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630015200000,
+  "open" : 147.479996,
+  "low" : 146.830002,
+  "high" : 148.75,
+  "close" : 148.600006,
+  "adjClose" : 148.383453,
+  "volume" : 55721500,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630274400000,
+  "open" : 149.0,
+  "low" : 148.610001,
+  "high" : 153.490005,
+  "close" : 153.119995,
+  "adjClose" : 152.896851,
+  "volume" : 90956700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630360800000,
+  "open" : 152.660004,
+  "low" : 151.289993,
+  "high" : 152.800003,
+  "close" : 151.830002,
+  "adjClose" : 151.608734,
+  "volume" : 86453100,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630447200000,
+  "open" : 152.830002,
+  "low" : 152.339996,
+  "high" : 154.979996,
+  "close" : 152.509995,
+  "adjClose" : 152.287735,
+  "volume" : 80313700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630533600000,
+  "open" : 153.869995,
+  "low" : 152.399994,
+  "high" : 154.720001,
+  "close" : 153.649994,
+  "adjClose" : 153.426071,
+  "volume" : 71115500,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630620000000,
+  "open" : 153.759995,
+  "low" : 153.089996,
+  "high" : 154.630005,
+  "close" : 154.300003,
+  "adjClose" : 154.075134,
+  "volume" : 57808700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1630965600000,
+  "open" : 154.970001,
+  "low" : 154.389999,
+  "high" : 157.259995,
+  "close" : 156.690002,
+  "adjClose" : 156.461655,
+  "volume" : 82278300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631052000000,
+  "open" : 156.979996,
+  "low" : 153.979996,
+  "high" : 157.039993,
+  "close" : 155.110001,
+  "adjClose" : 154.883957,
+  "volume" : 74420200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631138400000,
+  "open" : 155.490005,
+  "low" : 153.949997,
+  "high" : 156.110001,
+  "close" : 154.070007,
+  "adjClose" : 153.845474,
+  "volume" : 57305700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631224800000,
+  "open" : 155.0,
+  "low" : 148.699997,
+  "high" : 155.479996,
+  "close" : 148.970001,
+  "adjClose" : 148.752899,
+  "volume" : 140646400,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631484000000,
+  "open" : 150.630005,
+  "low" : 148.75,
+  "high" : 151.419998,
+  "close" : 149.550003,
+  "adjClose" : 149.332062,
+  "volume" : 102404300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631570400000,
+  "open" : 150.350006,
+  "low" : 146.910004,
+  "high" : 151.070007,
+  "close" : 148.119995,
+  "adjClose" : 147.904129,
+  "volume" : 109296300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631656800000,
+  "open" : 148.559998,
+  "low" : 146.369995,
+  "high" : 149.440002,
+  "close" : 149.029999,
+  "adjClose" : 148.812805,
+  "volume" : 83281300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631743200000,
+  "open" : 148.440002,
+  "low" : 147.220001,
+  "high" : 148.970001,
+  "close" : 148.789993,
+  "adjClose" : 148.573151,
+  "volume" : 68034100,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1631829600000,
+  "open" : 148.820007,
+  "low" : 145.759995,
+  "high" : 148.820007,
+  "close" : 146.059998,
+  "adjClose" : 145.847137,
+  "volume" : 129868800,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632088800000,
+  "open" : 143.800003,
+  "low" : 141.270004,
+  "high" : 144.839996,
+  "close" : 142.940002,
+  "adjClose" : 142.731689,
+  "volume" : 123478900,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632175200000,
+  "open" : 143.929993,
+  "low" : 142.779999,
+  "high" : 144.600006,
+  "close" : 143.429993,
+  "adjClose" : 143.220963,
+  "volume" : 75834000,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632261600000,
+  "open" : 144.449997,
+  "low" : 143.699997,
+  "high" : 146.429993,
+  "close" : 145.850006,
+  "adjClose" : 145.637451,
+  "volume" : 76404300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632348000000,
+  "open" : 146.649994,
+  "low" : 145.639999,
+  "high" : 147.080002,
+  "close" : 146.830002,
+  "adjClose" : 146.616028,
+  "volume" : 64838200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632434400000,
+  "open" : 145.660004,
+  "low" : 145.559998,
+  "high" : 147.470001,
+  "close" : 146.919998,
+  "adjClose" : 146.705887,
+  "volume" : 53477900,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632693600000,
+  "open" : 145.470001,
+  "low" : 143.820007,
+  "high" : 145.960007,
+  "close" : 145.369995,
+  "adjClose" : 145.158142,
+  "volume" : 74150700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632780000000,
+  "open" : 143.25,
+  "low" : 141.690002,
+  "high" : 144.75,
+  "close" : 141.910004,
+  "adjClose" : 141.703186,
+  "volume" : 108972300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632866400000,
+  "open" : 142.470001,
+  "low" : 142.029999,
+  "high" : 144.449997,
+  "close" : 142.830002,
+  "adjClose" : 142.621857,
+  "volume" : 74602000,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1632952800000,
+  "open" : 143.660004,
+  "low" : 141.279999,
+  "high" : 144.380005,
+  "close" : 141.5,
+  "adjClose" : 141.293793,
+  "volume" : 88934200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633039200000,
+  "open" : 141.899994,
+  "low" : 139.110001,
+  "high" : 142.919998,
+  "close" : 142.649994,
+  "adjClose" : 142.442108,
+  "volume" : 94639600,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633298400000,
+  "open" : 141.759995,
+  "low" : 138.270004,
+  "high" : 142.210007,
+  "close" : 139.139999,
+  "adjClose" : 138.937225,
+  "volume" : 98322000,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633384800000,
+  "open" : 139.490005,
+  "low" : 139.360001,
+  "high" : 142.240005,
+  "close" : 141.110001,
+  "adjClose" : 140.904358,
+  "volume" : 80861100,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633471200000,
+  "open" : 139.470001,
+  "low" : 138.369995,
+  "high" : 142.149994,
+  "close" : 142.0,
+  "adjClose" : 141.79306,
+  "volume" : 83221100,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633557600000,
+  "open" : 143.059998,
+  "low" : 142.720001,
+  "high" : 144.220001,
+  "close" : 143.289993,
+  "adjClose" : 143.081177,
+  "volume" : 61732700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633644000000,
+  "open" : 144.029999,
+  "low" : 142.559998,
+  "high" : 144.179993,
+  "close" : 142.899994,
+  "adjClose" : 142.691742,
+  "volume" : 58718700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633903200000,
+  "open" : 142.270004,
+  "low" : 141.809998,
+  "high" : 144.809998,
+  "close" : 142.809998,
+  "adjClose" : 142.601883,
+  "volume" : 64452200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1633989600000,
+  "open" : 143.229996,
+  "low" : 141.039993,
+  "high" : 143.25,
+  "close" : 141.509995,
+  "adjClose" : 141.303772,
+  "volume" : 73035900,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634076000000,
+  "open" : 141.240005,
+  "low" : 139.199997,
+  "high" : 141.399994,
+  "close" : 140.910004,
+  "adjClose" : 140.704651,
+  "volume" : 78762700,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634162400000,
+  "open" : 142.110001,
+  "low" : 141.509995,
+  "high" : 143.880005,
+  "close" : 143.759995,
+  "adjClose" : 143.550491,
+  "volume" : 69907100,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634248800000,
+  "open" : 143.770004,
+  "low" : 143.509995,
+  "high" : 144.899994,
+  "close" : 144.839996,
+  "adjClose" : 144.628922,
+  "volume" : 67885200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634508000000,
+  "open" : 143.449997,
+  "low" : 143.160004,
+  "high" : 146.839996,
+  "close" : 146.550003,
+  "adjClose" : 146.336426,
+  "volume" : 85589200,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634594400000,
+  "open" : 147.009995,
+  "low" : 146.550003,
+  "high" : 149.169998,
+  "close" : 148.759995,
+  "adjClose" : 148.543198,
+  "volume" : 76378900,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634680800000,
+  "open" : 148.699997,
+  "low" : 148.119995,
+  "high" : 149.75,
+  "close" : 149.259995,
+  "adjClose" : 149.04248,
+  "volume" : 58418800,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634767200000,
+  "open" : 148.809998,
+  "low" : 147.869995,
+  "high" : 149.639999,
+  "close" : 149.479996,
+  "adjClose" : 149.262146,
+  "volume" : 61421000,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1634853600000,
+  "open" : 149.690002,
+  "low" : 148.639999,
+  "high" : 150.179993,
+  "close" : 148.690002,
+  "adjClose" : 148.473312,
+  "volume" : 58883400,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635112800000,
+  "open" : 148.679993,
+  "low" : 147.619995,
+  "high" : 149.369995,
+  "close" : 148.639999,
+  "adjClose" : 148.423386,
+  "volume" : 50720600,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635199200000,
+  "open" : 149.330002,
+  "low" : 149.009995,
+  "high" : 150.839996,
+  "close" : 149.320007,
+  "adjClose" : 149.102402,
+  "volume" : 60893400,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635285600000,
+  "open" : 149.360001,
+  "low" : 148.490005,
+  "high" : 149.729996,
+  "close" : 148.850006,
+  "adjClose" : 148.633087,
+  "volume" : 56094900,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635372000000,
+  "open" : 149.820007,
+  "low" : 149.720001,
+  "high" : 153.169998,
+  "close" : 152.570007,
+  "adjClose" : 152.347656,
+  "volume" : 100077900,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635458400000,
+  "open" : 147.220001,
+  "low" : 146.410004,
+  "high" : 149.940002,
+  "close" : 149.800003,
+  "adjClose" : 149.581696,
+  "volume" : 124850400,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635721200000,
+  "open" : 148.990005,
+  "low" : 147.800003,
+  "high" : 149.699997,
+  "close" : 148.960007,
+  "adjClose" : 148.74292,
+  "volume" : 74588300,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635807600000,
+  "open" : 148.660004,
+  "low" : 148.649994,
+  "high" : 151.570007,
+  "close" : 150.020004,
+  "adjClose" : 149.801376,
+  "volume" : 69122000,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635894000000,
+  "open" : 150.389999,
+  "low" : 149.820007,
+  "high" : 151.970001,
+  "close" : 151.490005,
+  "adjClose" : 151.269241,
+  "volume" : 54511500,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1635980400000,
+  "open" : 151.580002,
+  "low" : 150.639999,
+  "high" : 152.429993,
+  "close" : 150.960007,
+  "adjClose" : 150.740005,
+  "volume" : 60394600,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1636066800000,
+  "open" : 151.889999,
+  "low" : 150.059998,
+  "high" : 152.199997,
+  "close" : 151.279999,
+  "adjClose" : 151.279999,
+  "volume" : 65414600,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1641855600000,
+  "open" : 172.320007,
+  "low" : 170.820007,
+  "high" : 175.179993,
+  "close" : 175.080002,
+  "adjClose" : 175.080002,
+  "volume" : 76015600,
+  "invalid" : false
+}, {
+  "symbol" : "AAPL",
+  "date" : 1651788000000,
+  "open" : 156.009995,
+  "low" : 154.181107,
+  "high" : 159.440002,
+  "close" : 157.279999,
+  "adjClose" : 157.279999,
+  "volume" : 116124647,
+  "invalid" : false
+} ],
+"averageTrueRange":3.5069596981132087,
+"stockAnalysis":{
+  "averageTrueRange" : 3.5069596981132087,
+  "longEntry" : 175.179993,
+  "longExit" : 141.509995,
+  "longStop" : 150.0,
+  "shortEntry" : 138.270004,
+  "shortExit" : 175.179993,
+  "shortStop" : 164.0,
+  "investAmount" : 1794.0,
+  "high" : 159.44,
+  "low" : 154.1811,
+  "stockName" : "Apple Inc.",
+  "currentPrice" : 157.28
+}}

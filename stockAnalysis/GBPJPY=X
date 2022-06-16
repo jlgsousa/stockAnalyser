@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "GBPJPY=X",
+  "date" : 1630965600000,
+  "open" : 151.972,
+  "low" : 151.507004,
+  "high" : 152.214996,
+  "close" : 151.977005,
+  "adjClose" : 151.977005,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631052000000,
+  "open" : 151.964005,
+  "low" : 151.464996,
+  "high" : 152.074005,
+  "close" : 151.970001,
+  "adjClose" : 151.970001,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631138400000,
+  "open" : 151.720001,
+  "low" : 151.391006,
+  "high" : 152.154007,
+  "close" : 151.729996,
+  "adjClose" : 151.729996,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631224800000,
+  "open" : 151.891998,
+  "low" : 151.759995,
+  "high" : 152.621002,
+  "close" : 151.910004,
+  "adjClose" : 151.910004,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631484000000,
+  "open" : 152.100006,
+  "low" : 151.921005,
+  "high" : 152.322006,
+  "close" : 152.100006,
+  "adjClose" : 152.100006,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631570400000,
+  "open" : 152.223999,
+  "low" : 151.774994,
+  "high" : 152.820999,
+  "close" : 152.197006,
+  "adjClose" : 152.197006,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631656800000,
+  "open" : 151.483002,
+  "low" : 150.822006,
+  "high" : 151.526993,
+  "close" : 151.470001,
+  "adjClose" : 151.470001,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631743200000,
+  "open" : 151.455002,
+  "low" : 150.904999,
+  "high" : 151.541,
+  "close" : 151.466003,
+  "adjClose" : 151.466003,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1631829600000,
+  "open" : 151.343994,
+  "low" : 151.072006,
+  "high" : 151.916,
+  "close" : 151.350998,
+  "adjClose" : 151.350998,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632088800000,
+  "open" : 150.957993,
+  "low" : 149.414993,
+  "high" : 151.033997,
+  "close" : 150.979004,
+  "adjClose" : 150.979004,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632175200000,
+  "open" : 149.468994,
+  "low" : 148.940002,
+  "high" : 150.132004,
+  "close" : 149.494995,
+  "adjClose" : 149.494995,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632261600000,
+  "open" : 149.050003,
+  "low" : 148.995392,
+  "high" : 149.804993,
+  "close" : 149.053528,
+  "adjClose" : 149.053528,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632348000000,
+  "open" : 149.546005,
+  "low" : 149.520004,
+  "high" : 151.451004,
+  "close" : 149.524994,
+  "adjClose" : 149.524994,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632434400000,
+  "open" : 151.363007,
+  "low" : 151.011002,
+  "high" : 151.712997,
+  "close" : 151.365997,
+  "adjClose" : 151.365997,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632693600000,
+  "open" : 151.352005,
+  "low" : 151.115005,
+  "high" : 152.173004,
+  "close" : 151.389999,
+  "adjClose" : 151.389999,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632780000000,
+  "open" : 151.998001,
+  "low" : 150.542999,
+  "high" : 152.565994,
+  "close" : 152.018005,
+  "adjClose" : 152.018005,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632866400000,
+  "open" : 150.970001,
+  "low" : 149.927994,
+  "high" : 151.166,
+  "close" : 150.979996,
+  "adjClose" : 150.979996,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1632952800000,
+  "open" : 150.244003,
+  "low" : 150.093002,
+  "high" : 150.925995,
+  "close" : 150.279999,
+  "adjClose" : 150.279999,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633039200000,
+  "open" : 150.110001,
+  "low" : 149.244003,
+  "high" : 150.692993,
+  "close" : 150.110992,
+  "adjClose" : 150.110992,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633298400000,
+  "open" : 150.550003,
+  "low" : 150.210007,
+  "high" : 151.511002,
+  "close" : 150.548004,
+  "adjClose" : 150.548004,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633384800000,
+  "open" : 150.985992,
+  "low" : 150.742996,
+  "high" : 152.024002,
+  "close" : 150.975998,
+  "adjClose" : 150.975998,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633471200000,
+  "open" : 151.934998,
+  "low" : 150.826004,
+  "high" : 152.108994,
+  "close" : 151.903,
+  "adjClose" : 151.903,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633557600000,
+  "open" : 151.410004,
+  "low" : 151.009995,
+  "high" : 152.003006,
+  "close" : 151.412994,
+  "adjClose" : 151.412994,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633644000000,
+  "open" : 152.078995,
+  "low" : 152.003998,
+  "high" : 152.925995,
+  "close" : 152.059998,
+  "adjClose" : 152.059998,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633903200000,
+  "open" : 152.880005,
+  "low" : 152.880005,
+  "high" : 154.498001,
+  "close" : 152.862,
+  "adjClose" : 152.862,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1633989600000,
+  "open" : 154.136993,
+  "low" : 153.707001,
+  "high" : 154.807007,
+  "close" : 154.100006,
+  "adjClose" : 154.100006,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634076000000,
+  "open" : 154.126999,
+  "low" : 154.119995,
+  "high" : 154.944,
+  "close" : 154.125,
+  "adjClose" : 154.125,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634162400000,
+  "open" : 154.850998,
+  "low" : 154.813004,
+  "high" : 155.723007,
+  "close" : 154.858994,
+  "adjClose" : 154.858994,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634248800000,
+  "open" : 155.589996,
+  "low" : 155.576004,
+  "high" : 157.406998,
+  "close" : 155.570007,
+  "adjClose" : 155.570007,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634508000000,
+  "open" : 157.272995,
+  "low" : 156.615997,
+  "high" : 157.281998,
+  "close" : 157.320999,
+  "adjClose" : 157.320999,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634594400000,
+  "open" : 157.014999,
+  "low" : 156.882996,
+  "high" : 158.035995,
+  "close" : 156.973007,
+  "adjClose" : 156.973007,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634680800000,
+  "open" : 157.985001,
+  "low" : 157.020004,
+  "high" : 158.201996,
+  "close" : 157.960007,
+  "adjClose" : 157.960007,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634767200000,
+  "open" : 158.098007,
+  "low" : 156.953003,
+  "high" : 158.156006,
+  "close" : 158.095993,
+  "adjClose" : 158.095993,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1634853600000,
+  "open" : 156.990005,
+  "low" : 156.056,
+  "high" : 157.632004,
+  "close" : 157.001007,
+  "adjClose" : 157.001007,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635112800000,
+  "open" : 156.429001,
+  "low" : 156.164993,
+  "high" : 156.796997,
+  "close" : 156.380005,
+  "adjClose" : 156.380005,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635199200000,
+  "open" : 156.578995,
+  "low" : 156.490005,
+  "high" : 157.748001,
+  "close" : 156.570007,
+  "adjClose" : 156.570007,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635285600000,
+  "open" : 157.188004,
+  "low" : 155.710007,
+  "high" : 157.240005,
+  "close" : 157.169998,
+  "adjClose" : 157.169998,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635372000000,
+  "open" : 156.210007,
+  "low" : 155.910004,
+  "high" : 156.561005,
+  "close" : 156.222,
+  "adjClose" : 156.222,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635458400000,
+  "open" : 156.755005,
+  "low" : 156.042999,
+  "high" : 157.082993,
+  "close" : 156.716995,
+  "adjClose" : 156.716995,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635721200000,
+  "open" : 156.307999,
+  "low" : 155.815994,
+  "high" : 156.468002,
+  "close" : 156.296005,
+  "adjClose" : 156.296005,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635807600000,
+  "open" : 155.809006,
+  "low" : 154.658005,
+  "high" : 155.809006,
+  "close" : 155.779007,
+  "adjClose" : 155.779007,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635894000000,
+  "open" : 155.162994,
+  "low" : 154.962006,
+  "high" : 155.891998,
+  "close" : 155.158005,
+  "adjClose" : 155.158005,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1635980400000,
+  "open" : 156.179001,
+  "low" : 153.121002,
+  "high" : 156.203995,
+  "close" : 156.188004,
+  "adjClose" : 156.188004,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1636066800000,
+  "open" : 153.731995,
+  "low" : 152.819,
+  "high" : 153.731995,
+  "close" : 153.759003,
+  "adjClose" : 153.759003,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1636326000000,
+  "open" : 153.046997,
+  "low" : 152.679993,
+  "high" : 153.296997,
+  "close" : 153.110992,
+  "adjClose" : 153.110992,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1636066800000,
+  "open" : 153.731995,
+  "low" : 152.819,
+  "high" : 153.731995,
+  "close" : 153.759003,
+  "adjClose" : 153.759003,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1636326000000,
+  "open" : 153.046997,
+  "low" : 152.679993,
+  "high" : 153.429001,
+  "close" : 153.248993,
+  "adjClose" : 153.248993,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1636066800000,
+  "open" : 153.731995,
+  "low" : 152.819,
+  "high" : 153.731995,
+  "close" : 153.759003,
+  "adjClose" : 153.759003,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1636326000000,
+  "open" : 153.046997,
+  "low" : 152.679993,
+  "high" : 153.429001,
+  "close" : 153.261993,
+  "adjClose" : 153.261993,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1641855600000,
+  "open" : 156.535995,
+  "low" : 156.417007,
+  "high" : 157.199997,
+  "close" : 156.528,
+  "adjClose" : 156.528,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1641942000000,
+  "open" : 157.171005,
+  "low" : 157.029007,
+  "high" : 157.709,
+  "close" : 157.061005,
+  "adjClose" : 157.061005,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1641855600000,
+  "open" : 156.535995,
+  "low" : 156.417007,
+  "high" : 157.199997,
+  "close" : 156.528,
+  "adjClose" : 156.528,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1641942000000,
+  "open" : 157.171005,
+  "low" : 157.009995,
+  "high" : 157.709,
+  "close" : 157.121994,
+  "adjClose" : 157.121994,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1641855600000,
+  "open" : 156.535995,
+  "low" : 156.417007,
+  "high" : 157.199997,
+  "close" : 156.528000,
+  "adjClose" : 156.528000,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GBPJPY=X",
+  "date" : 1641942000000,
+  "open" : 157.171005,
+  "low" : 157.009995,
+  "high" : 157.709000,
+  "close" : 157.130005,
+  "adjClose" : 157.130005,
+  "volume" : 0,
+  "invalid" : false
+} ],
+"averageTrueRange":1.4239459999999984,
+"stockAnalysis":{
+  "averageTrueRange" : 1.4239459999999984,
+  "longEntry" : 158.201996,
+  "longExit" : 152.679993,
+  "longStop" : 154.0,
+  "shortEntry" : 148.940002,
+  "shortExit" : 157.748001,
+  "shortStop" : 160.0,
+  "investAmount" : 4414.0,
+  "high" : 157.709,
+  "low" : 157.01,
+  "stockName" : "GBP/JPY",
+  "currentPrice" : 157.127
+}}

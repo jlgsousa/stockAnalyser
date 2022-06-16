@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "NVDA",
+  "date" : 1629756000000,
+  "open" : 217.529999,
+  "low" : 215.350006,
+  "high" : 219.589996,
+  "close" : 217.929993,
+  "adjClose" : 217.891571,
+  "volume" : 29729900,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1629842400000,
+  "open" : 217.369995,
+  "low" : 217.220001,
+  "high" : 224.699997,
+  "close" : 222.130005,
+  "adjClose" : 222.090836,
+  "volume" : 34770100,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1629928800000,
+  "open" : 222.0,
+  "low" : 217.899994,
+  "high" : 223.399994,
+  "close" : 220.679993,
+  "adjClose" : 220.641083,
+  "volume" : 23794000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630015200000,
+  "open" : 221.839996,
+  "low" : 221.669998,
+  "high" : 227.220001,
+  "close" : 226.360001,
+  "adjClose" : 226.320084,
+  "volume" : 30426700,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630274400000,
+  "open" : 228.300003,
+  "low" : 225.509995,
+  "high" : 230.429993,
+  "close" : 226.880005,
+  "adjClose" : 226.839996,
+  "volume" : 26258000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630360800000,
+  "open" : 226.949997,
+  "low" : 221.199997,
+  "high" : 226.949997,
+  "close" : 223.850006,
+  "adjClose" : 223.850006,
+  "volume" : 25985000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630447200000,
+  "open" : 224.850006,
+  "low" : 223.570007,
+  "high" : 226.970001,
+  "close" : 224.410004,
+  "adjClose" : 224.410004,
+  "volume" : 20176700,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630533600000,
+  "open" : 225.179993,
+  "low" : 222.949997,
+  "high" : 225.929993,
+  "close" : 223.960007,
+  "adjClose" : 223.960007,
+  "volume" : 18783400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630620000000,
+  "open" : 223.25,
+  "low" : 222.0,
+  "high" : 229.860001,
+  "close" : 228.429993,
+  "adjClose" : 228.429993,
+  "volume" : 28053200,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1630965600000,
+  "open" : 228.330002,
+  "low" : 225.220001,
+  "high" : 228.990005,
+  "close" : 226.619995,
+  "adjClose" : 226.619995,
+  "volume" : 19810700,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631052000000,
+  "open" : 225.130005,
+  "low" : 219.770004,
+  "high" : 226.100006,
+  "close" : 223.389999,
+  "adjClose" : 223.389999,
+  "volume" : 25443400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631138400000,
+  "open" : 223.119995,
+  "low" : 221.309998,
+  "high" : 225.380005,
+  "close" : 221.770004,
+  "adjClose" : 221.770004,
+  "volume" : 19685600,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631224800000,
+  "open" : 223.479996,
+  "low" : 222.699997,
+  "high" : 226.259995,
+  "close" : 224.779999,
+  "adjClose" : 224.779999,
+  "volume" : 24814900,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631484000000,
+  "open" : 226.839996,
+  "low" : 218.580002,
+  "high" : 229.639999,
+  "close" : 221.520004,
+  "adjClose" : 221.520004,
+  "volume" : 29750000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631570400000,
+  "open" : 222.75,
+  "low" : 220.860001,
+  "high" : 224.100006,
+  "close" : 222.419998,
+  "adjClose" : 222.419998,
+  "volume" : 19975500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631656800000,
+  "open" : 223.089996,
+  "low" : 219.660004,
+  "high" : 223.669998,
+  "close" : 223.410004,
+  "adjClose" : 223.410004,
+  "volume" : 16653800,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631743200000,
+  "open" : 221.830002,
+  "low" : 219.270004,
+  "high" : 222.770004,
+  "close" : 222.419998,
+  "adjClose" : 222.419998,
+  "volume" : 15603300,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1631829600000,
+  "open" : 223.0,
+  "low" : 218.300003,
+  "high" : 223.210007,
+  "close" : 219.0,
+  "adjClose" : 219.0,
+  "volume" : 29450300,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632088800000,
+  "open" : 211.460007,
+  "low" : 206.619995,
+  "high" : 214.330002,
+  "close" : 211.130005,
+  "adjClose" : 211.130005,
+  "volume" : 34944000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632175200000,
+  "open" : 214.169998,
+  "low" : 209.5,
+  "high" : 214.25,
+  "close" : 212.460007,
+  "adjClose" : 212.460007,
+  "volume" : 20468800,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632261600000,
+  "open" : 213.660004,
+  "low" : 211.960007,
+  "high" : 219.600006,
+  "close" : 219.410004,
+  "adjClose" : 219.410004,
+  "volume" : 26872600,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632348000000,
+  "open" : 221.399994,
+  "low" : 218.899994,
+  "high" : 225.350006,
+  "close" : 224.820007,
+  "adjClose" : 224.820007,
+  "volume" : 24855500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632434400000,
+  "open" : 220.699997,
+  "low" : 218.610001,
+  "high" : 221.490005,
+  "close" : 220.809998,
+  "adjClose" : 220.809998,
+  "volume" : 21765500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632693600000,
+  "open" : 217.100006,
+  "low" : 213.25,
+  "high" : 217.990005,
+  "close" : 216.600006,
+  "adjClose" : 216.600006,
+  "volume" : 24521500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632780000000,
+  "open" : 212.139999,
+  "low" : 206.509995,
+  "high" : 214.190002,
+  "close" : 206.990005,
+  "adjClose" : 206.990005,
+  "volume" : 34306900,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632866400000,
+  "open" : 209.399994,
+  "low" : 204.669998,
+  "high" : 210.169998,
+  "close" : 205.169998,
+  "adjClose" : 205.169998,
+  "volume" : 21839400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1632952800000,
+  "open" : 207.679993,
+  "low" : 206.880005,
+  "high" : 210.660004,
+  "close" : 207.160004,
+  "adjClose" : 207.160004,
+  "volume" : 22080400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633039200000,
+  "open" : 207.5,
+  "low" : 202.029999,
+  "high" : 208.589996,
+  "close" : 207.419998,
+  "adjClose" : 207.419998,
+  "volume" : 24097800,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633298400000,
+  "open" : 205.039993,
+  "low" : 195.550003,
+  "high" : 205.419998,
+  "close" : 197.320007,
+  "adjClose" : 197.320007,
+  "volume" : 34563500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633384800000,
+  "open" : 199.5,
+  "low" : 198.539993,
+  "high" : 206.479996,
+  "close" : 204.509995,
+  "adjClose" : 204.509995,
+  "volume" : 27928200,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633471200000,
+  "open" : 201.199997,
+  "low" : 200.800003,
+  "high" : 207.199997,
+  "close" : 207.0,
+  "adjClose" : 207.0,
+  "volume" : 29720200,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633557600000,
+  "open" : 210.919998,
+  "low" : 209.720001,
+  "high" : 213.220001,
+  "close" : 210.75,
+  "adjClose" : 210.75,
+  "volume" : 25691900,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633644000000,
+  "open" : 211.009995,
+  "low" : 207.75,
+  "high" : 212.059998,
+  "close" : 208.309998,
+  "adjClose" : 208.309998,
+  "volume" : 15102500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633903200000,
+  "open" : 205.75,
+  "low" : 205.110001,
+  "high" : 210.630005,
+  "close" : 206.949997,
+  "adjClose" : 206.949997,
+  "volume" : 16338800,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1633989600000,
+  "open" : 208.279999,
+  "low" : 205.279999,
+  "high" : 210.570007,
+  "close" : 206.710007,
+  "adjClose" : 206.710007,
+  "volume" : 16213400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634076000000,
+  "open" : 209.179993,
+  "low" : 207.130005,
+  "high" : 209.899994,
+  "close" : 209.389999,
+  "adjClose" : 209.389999,
+  "volume" : 18065200,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634162400000,
+  "open" : 212.880005,
+  "low" : 211.220001,
+  "high" : 217.550003,
+  "close" : 217.460007,
+  "adjClose" : 217.460007,
+  "volume" : 24358900,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634248800000,
+  "open" : 218.100006,
+  "low" : 216.619995,
+  "high" : 219.309998,
+  "close" : 218.619995,
+  "adjClose" : 218.619995,
+  "volume" : 22679500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634508000000,
+  "open" : 217.490005,
+  "low" : 216.440002,
+  "high" : 222.910004,
+  "close" : 222.220001,
+  "adjClose" : 222.220001,
+  "volume" : 18949400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634594400000,
+  "open" : 222.759995,
+  "low" : 220.369995,
+  "high" : 223.789993,
+  "close" : 222.899994,
+  "adjClose" : 222.899994,
+  "volume" : 16147300,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634680800000,
+  "open" : 223.050003,
+  "low" : 219.820007,
+  "high" : 224.330002,
+  "close" : 221.029999,
+  "adjClose" : 221.029999,
+  "volume" : 14627600,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634767200000,
+  "open" : 220.970001,
+  "low" : 220.830002,
+  "high" : 227.110001,
+  "close" : 226.919998,
+  "adjClose" : 226.919998,
+  "volume" : 18759000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1634853600000,
+  "open" : 228.229996,
+  "low" : 225.610001,
+  "high" : 231.300003,
+  "close" : 227.259995,
+  "adjClose" : 227.259995,
+  "volume" : 24938400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635112800000,
+  "open" : 229.729996,
+  "low" : 227.699997,
+  "high" : 233.550003,
+  "close" : 231.660004,
+  "adjClose" : 231.660004,
+  "volume" : 23023500,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635199200000,
+  "open" : 239.889999,
+  "low" : 239.240005,
+  "high" : 252.589996,
+  "close" : 247.169998,
+  "adjClose" : 247.169998,
+  "volume" : 48589800,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635285600000,
+  "open" : 244.740005,
+  "low" : 242.820007,
+  "high" : 250.899994,
+  "close" : 244.509995,
+  "adjClose" : 244.509995,
+  "volume" : 24599000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635372000000,
+  "open" : 248.779999,
+  "low" : 245.229996,
+  "high" : 249.5,
+  "close" : 249.410004,
+  "adjClose" : 249.410004,
+  "volume" : 23420400,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635458400000,
+  "open" : 250.009995,
+  "low" : 250.0,
+  "high" : 257.089996,
+  "close" : 255.669998,
+  "adjClose" : 255.669998,
+  "volume" : 29213700,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635721200000,
+  "open" : 256.48999,
+  "low" : 252.270004,
+  "high" : 258.940002,
+  "close" : 258.269989,
+  "adjClose" : 258.269989,
+  "volume" : 26574000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635807600000,
+  "open" : 258.220001,
+  "low" : 258.0,
+  "high" : 266.779999,
+  "close" : 264.01001,
+  "adjClose" : 264.01001,
+  "volume" : 29411200,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635894000000,
+  "open" : 266.700012,
+  "low" : 262.350006,
+  "high" : 267.839996,
+  "close" : 265.980011,
+  "adjClose" : 265.980011,
+  "volume" : 23991000,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1635980400000,
+  "open" : 272.290009,
+  "low" : 271.179993,
+  "high" : 313.649994,
+  "close" : 298.01001,
+  "adjClose" : 298.01001,
+  "volume" : 115363100,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1636066800000,
+  "open" : 301.869995,
+  "low" : 294.100006,
+  "high" : 314.0,
+  "close" : 297.519989,
+  "adjClose" : 297.519989,
+  "volume" : 85072800,
+  "invalid" : false
+}, {
+  "symbol" : "NVDA",
+  "date" : 1641855600000,
+  "open" : 273.230011,
+  "low" : 268.390015,
+  "high" : 280.649994,
+  "close" : 278.170013,
+  "adjClose" : 278.170013,
+  "volume" : 40333900,
+  "invalid" : false
+} ],
+"averageTrueRange":7.894149452830188,
+"stockAnalysis":{
+  "averageTrueRange" : 7.894149452830188,
+  "longEntry" : 314.0,
+  "longExit" : 207.130005,
+  "longStop" : 264.0,
+  "shortEntry" : 195.550003,
+  "shortExit" : 314.0,
+  "shortStop" : 295.0,
+  "investAmount" : 1416.0,
+  "high" : 285.95,
+  "low" : 276.0801,
+  "stockName" : "NVIDIA Corporation",
+  "currentPrice" : 279.55
+}}

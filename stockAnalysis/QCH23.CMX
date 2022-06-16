@@ -1,0 +1,496 @@
+{ "historicalQuotes":[ {
+  "symbol" : "QCH23.CMX",
+  "date" : 1630447200000,
+  "open" : 1.5189,
+  "low" : 1.5189,
+  "high" : 1.5189,
+  "close" : 1.5189,
+  "adjClose" : 1.5189,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1630533600000,
+  "open" : 1.515,
+  "low" : 1.515,
+  "high" : 1.515,
+  "close" : 1.515,
+  "adjClose" : 1.515,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1630620000000,
+  "open" : 1.5115,
+  "low" : 1.5115,
+  "high" : 1.5115,
+  "close" : 1.5115,
+  "adjClose" : 1.5115,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1630965600000,
+  "open" : 1.5213,
+  "low" : 1.5213,
+  "high" : 1.5213,
+  "close" : 1.5213,
+  "adjClose" : 1.5213,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631052000000,
+  "open" : 1.5222,
+  "low" : 1.5222,
+  "high" : 1.5222,
+  "close" : 1.5222,
+  "adjClose" : 1.5222,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631138400000,
+  "open" : 1.52,
+  "low" : 1.52,
+  "high" : 1.52,
+  "close" : 1.52,
+  "adjClose" : 1.52,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631224800000,
+  "open" : 1.5193,
+  "low" : 1.5193,
+  "high" : 1.5193,
+  "close" : 1.5193,
+  "adjClose" : 1.5193,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631484000000,
+  "open" : 1.5187,
+  "low" : 1.5187,
+  "high" : 1.5187,
+  "close" : 1.5187,
+  "adjClose" : 1.5187,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631570400000,
+  "open" : 1.5214,
+  "low" : 1.5214,
+  "high" : 1.5214,
+  "close" : 1.5214,
+  "adjClose" : 1.5214,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631656800000,
+  "open" : 1.5161,
+  "low" : 1.5161,
+  "high" : 1.5161,
+  "close" : 1.5161,
+  "adjClose" : 1.5161,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631743200000,
+  "open" : 1.5141,
+  "low" : 1.5141,
+  "high" : 1.5141,
+  "close" : 1.5141,
+  "adjClose" : 1.5141,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1631829600000,
+  "open" : 1.5195,
+  "low" : 1.5195,
+  "high" : 1.5195,
+  "close" : 1.5195,
+  "adjClose" : 1.5195,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632088800000,
+  "open" : 1.5283,
+  "low" : 1.5283,
+  "high" : 1.5283,
+  "close" : 1.5283,
+  "adjClose" : 1.5283,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632175200000,
+  "open" : 1.5266,
+  "low" : 1.5266,
+  "high" : 1.5266,
+  "close" : 1.5266,
+  "adjClose" : 1.5266,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632261600000,
+  "open" : 1.518,
+  "low" : 1.518,
+  "high" : 1.518,
+  "close" : 1.518,
+  "adjClose" : 1.518,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632348000000,
+  "open" : 1.5104,
+  "low" : 1.5104,
+  "high" : 1.5104,
+  "close" : 1.5104,
+  "adjClose" : 1.5104,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632434400000,
+  "open" : 1.5082,
+  "low" : 1.5082,
+  "high" : 1.5082,
+  "close" : 1.5082,
+  "adjClose" : 1.5082,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632693600000,
+  "open" : 1.5014,
+  "low" : 1.5014,
+  "high" : 1.5014,
+  "close" : 1.5014,
+  "adjClose" : 1.5014,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632780000000,
+  "open" : 1.5054,
+  "low" : 1.5054,
+  "high" : 1.5054,
+  "close" : 1.5054,
+  "adjClose" : 1.5054,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632866400000,
+  "open" : 1.5037,
+  "low" : 1.5037,
+  "high" : 1.5037,
+  "close" : 1.5037,
+  "adjClose" : 1.5037,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1632952800000,
+  "open" : 1.4909,
+  "low" : 1.4909,
+  "high" : 1.4909,
+  "close" : 1.4909,
+  "adjClose" : 1.4909,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633039200000,
+  "open" : 1.4897,
+  "low" : 1.4897,
+  "high" : 1.4897,
+  "close" : 1.4897,
+  "adjClose" : 1.4897,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633298400000,
+  "open" : 1.4867,
+  "low" : 1.4867,
+  "high" : 1.4867,
+  "close" : 1.4867,
+  "adjClose" : 1.4867,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633384800000,
+  "open" : 1.4831,
+  "low" : 1.4831,
+  "high" : 1.4831,
+  "close" : 1.4831,
+  "adjClose" : 1.4831,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633471200000,
+  "open" : 1.4787,
+  "low" : 1.4787,
+  "high" : 1.4787,
+  "close" : 1.4787,
+  "adjClose" : 1.4787,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633557600000,
+  "open" : 1.4746,
+  "low" : 1.4746,
+  "high" : 1.4746,
+  "close" : 1.4746,
+  "adjClose" : 1.4746,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633644000000,
+  "open" : 1.4672,
+  "low" : 1.4672,
+  "high" : 1.4672,
+  "close" : 1.4672,
+  "adjClose" : 1.4672,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633903200000,
+  "open" : 1.4672,
+  "low" : 1.4672,
+  "high" : 1.4672,
+  "close" : 1.4672,
+  "adjClose" : 1.4672,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1633989600000,
+  "open" : 1.462,
+  "low" : 1.462,
+  "high" : 1.462,
+  "close" : 1.462,
+  "adjClose" : 1.462,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634076000000,
+  "open" : 1.4667,
+  "low" : 1.4667,
+  "high" : 1.4667,
+  "close" : 1.4667,
+  "adjClose" : 1.4667,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634162400000,
+  "open" : 1.46,
+  "low" : 1.46,
+  "high" : 1.46,
+  "close" : 1.46,
+  "adjClose" : 1.46,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634248800000,
+  "open" : 1.4631,
+  "low" : 1.4631,
+  "high" : 1.4631,
+  "close" : 1.4631,
+  "adjClose" : 1.4631,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634508000000,
+  "open" : 1.4637,
+  "low" : 1.4637,
+  "high" : 1.4637,
+  "close" : 1.4637,
+  "adjClose" : 1.4637,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634594400000,
+  "open" : 1.4654,
+  "low" : 1.4654,
+  "high" : 1.4654,
+  "close" : 1.4654,
+  "adjClose" : 1.4654,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634680800000,
+  "open" : 1.462,
+  "low" : 1.462,
+  "high" : 1.462,
+  "close" : 1.462,
+  "adjClose" : 1.462,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634767200000,
+  "open" : 1.4657,
+  "low" : 1.4657,
+  "high" : 1.4657,
+  "close" : 1.4657,
+  "adjClose" : 1.4657,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1634853600000,
+  "open" : 1.4661,
+  "low" : 1.4661,
+  "high" : 1.4661,
+  "close" : 1.4661,
+  "adjClose" : 1.4661,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635112800000,
+  "open" : 1.4652,
+  "low" : 1.4652,
+  "high" : 1.4652,
+  "close" : 1.4652,
+  "adjClose" : 1.4652,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635199200000,
+  "open" : 1.4634,
+  "low" : 1.4634,
+  "high" : 1.4634,
+  "close" : 1.4634,
+  "adjClose" : 1.4634,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635285600000,
+  "open" : 1.4645,
+  "low" : 1.4645,
+  "high" : 1.4645,
+  "close" : 1.4645,
+  "adjClose" : 1.4645,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635372000000,
+  "open" : 1.473,
+  "low" : 1.473,
+  "high" : 1.473,
+  "close" : 1.473,
+  "adjClose" : 1.473,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635458400000,
+  "open" : 1.461,
+  "low" : 1.461,
+  "high" : 1.461,
+  "close" : 1.461,
+  "adjClose" : 1.461,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635721200000,
+  "open" : 1.4661,
+  "low" : 1.4661,
+  "high" : 1.4661,
+  "close" : 1.4661,
+  "adjClose" : 1.4661,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635807600000,
+  "open" : 1.4677,
+  "low" : 1.4677,
+  "high" : 1.4677,
+  "close" : 1.4677,
+  "adjClose" : 1.4677,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635894000000,
+  "open" : 1.4702,
+  "low" : 1.4702,
+  "high" : 1.4702,
+  "close" : 1.4702,
+  "adjClose" : 1.4702,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1635980400000,
+  "open" : 1.4697,
+  "low" : 1.4697,
+  "high" : 1.4697,
+  "close" : 1.4697,
+  "adjClose" : 1.4697,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1636066800000,
+  "open" : 1.4681,
+  "low" : 1.4681,
+  "high" : 1.4681,
+  "close" : 1.4681,
+  "adjClose" : 1.4681,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QCH23.CMX",
+  "date" : 1641855600000,
+  "open" : 1.4575,
+  "low" : 1.4575,
+  "high" : 1.4575,
+  "close" : 1.4575,
+  "adjClose" : 1.4575,
+  "volume" : 0,
+  "invalid" : false
+} ],
+"averageTrueRange":0.004055319148936167,
+"stockAnalysis":{
+  "averageTrueRange" : 0.004055319148936167,
+  "longEntry" : 1.5283,
+  "longExit" : 1.4575,
+  "longStop" : 3.0,
+  "shortEntry" : 1.4575,
+  "shortExit" : 1.473,
+  "shortStop" : 3.0,
+  "investAmount" : 27973.0,
+  "high" : 0.0,
+  "low" : 0.0,
+  "stockName" : "E-mini Copper Futures,Mar-2023",
+  "currentPrice" : 2.836
+}}

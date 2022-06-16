@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "SQ",
+  "date" : 1629756000000,
+  "open" : 272.399994,
+  "low" : 269.130005,
+  "high" : 274.187988,
+  "close" : 270.170013,
+  "adjClose" : 270.170013,
+  "volume" : 4258100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1629842400000,
+  "open" : 269.529999,
+  "low" : 266.220001,
+  "high" : 270.325012,
+  "close" : 267.570007,
+  "adjClose" : 267.570007,
+  "volume" : 3428700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1629928800000,
+  "open" : 268.0,
+  "low" : 260.940002,
+  "high" : 268.0,
+  "close" : 262.130005,
+  "adjClose" : 262.130005,
+  "volume" : 4314400,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630015200000,
+  "open" : 262.0,
+  "low" : 261.61499,
+  "high" : 270.484009,
+  "close" : 268.01001,
+  "adjClose" : 268.01001,
+  "volume" : 4640300,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630274400000,
+  "open" : 271.0,
+  "low" : 268.5,
+  "high" : 273.869995,
+  "close" : 271.920013,
+  "adjClose" : 271.920013,
+  "volume" : 6348100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630360800000,
+  "open" : 273.5,
+  "low" : 266.26001,
+  "high" : 276.140015,
+  "close" : 268.070007,
+  "adjClose" : 268.070007,
+  "volume" : 6309300,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630447200000,
+  "open" : 269.01001,
+  "low" : 267.940002,
+  "high" : 273.149994,
+  "close" : 268.25,
+  "adjClose" : 268.25,
+  "volume" : 3942000,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630533600000,
+  "open" : 272.369995,
+  "low" : 265.470001,
+  "high" : 274.369995,
+  "close" : 265.940002,
+  "adjClose" : 265.940002,
+  "volume" : 5215000,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630620000000,
+  "open" : 266.540009,
+  "low" : 263.679993,
+  "high" : 270.630005,
+  "close" : 269.73999,
+  "adjClose" : 269.73999,
+  "volume" : 4901800,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1630965600000,
+  "open" : 270.079987,
+  "low" : 263.75,
+  "high" : 270.450012,
+  "close" : 265.829987,
+  "adjClose" : 265.829987,
+  "volume" : 5672200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631052000000,
+  "open" : 264.76001,
+  "low" : 251.729996,
+  "high" : 265.0,
+  "close" : 254.720001,
+  "adjClose" : 254.720001,
+  "volume" : 10481800,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631138400000,
+  "open" : 256.0,
+  "low" : 251.380005,
+  "high" : 258.630005,
+  "close" : 251.539993,
+  "adjClose" : 251.539993,
+  "volume" : 5606200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631224800000,
+  "open" : 253.009995,
+  "low" : 247.380005,
+  "high" : 254.75,
+  "close" : 247.899994,
+  "adjClose" : 247.899994,
+  "volume" : 6497700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631484000000,
+  "open" : 248.740005,
+  "low" : 237.910004,
+  "high" : 248.839996,
+  "close" : 246.679993,
+  "adjClose" : 246.679993,
+  "volume" : 7879100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631570400000,
+  "open" : 249.100006,
+  "low" : 245.679993,
+  "high" : 253.419998,
+  "close" : 247.050003,
+  "adjClose" : 247.050003,
+  "volume" : 4940400,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631656800000,
+  "open" : 247.729996,
+  "low" : 245.070007,
+  "high" : 248.899994,
+  "close" : 248.800003,
+  "adjClose" : 248.800003,
+  "volume" : 4092200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631743200000,
+  "open" : 248.800003,
+  "low" : 247.479996,
+  "high" : 255.490005,
+  "close" : 255.089996,
+  "adjClose" : 255.089996,
+  "volume" : 5795100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1631829600000,
+  "open" : 256.059998,
+  "low" : 252.380005,
+  "high" : 257.269989,
+  "close" : 255.789993,
+  "adjClose" : 255.789993,
+  "volume" : 5564700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632088800000,
+  "open" : 245.330002,
+  "low" : 244.610001,
+  "high" : 251.720001,
+  "close" : 250.229996,
+  "adjClose" : 250.229996,
+  "volume" : 5861500,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632175200000,
+  "open" : 252.820007,
+  "low" : 249.830002,
+  "high" : 254.100006,
+  "close" : 251.300003,
+  "adjClose" : 251.300003,
+  "volume" : 4658700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632261600000,
+  "open" : 253.0,
+  "low" : 252.289993,
+  "high" : 261.790009,
+  "close" : 261.070007,
+  "adjClose" : 261.070007,
+  "volume" : 6271000,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632348000000,
+  "open" : 263.48999,
+  "low" : 262.700012,
+  "high" : 268.170013,
+  "close" : 266.720001,
+  "adjClose" : 266.720001,
+  "volume" : 7837900,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632434400000,
+  "open" : 263.98999,
+  "low" : 257.910004,
+  "high" : 264.970001,
+  "close" : 262.5,
+  "adjClose" : 262.5,
+  "volume" : 6958900,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632693600000,
+  "open" : 258.100006,
+  "low" : 255.792999,
+  "high" : 259.859985,
+  "close" : 258.109985,
+  "adjClose" : 258.109985,
+  "volume" : 4683200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632780000000,
+  "open" : 252.509995,
+  "low" : 241.619995,
+  "high" : 252.850006,
+  "close" : 242.699997,
+  "adjClose" : 242.699997,
+  "volume" : 11052200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632866400000,
+  "open" : 245.520004,
+  "low" : 235.220001,
+  "high" : 246.240005,
+  "close" : 236.039993,
+  "adjClose" : 236.039993,
+  "volume" : 7323700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1632952800000,
+  "open" : 236.690002,
+  "low" : 236.270004,
+  "high" : 243.270004,
+  "close" : 239.839996,
+  "adjClose" : 239.839996,
+  "volume" : 5464100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633039200000,
+  "open" : 239.440002,
+  "low" : 236.880005,
+  "high" : 242.050003,
+  "close" : 239.289993,
+  "adjClose" : 239.289993,
+  "volume" : 5934600,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633298400000,
+  "open" : 235.610001,
+  "low" : 222.919998,
+  "high" : 236.285004,
+  "close" : 226.25,
+  "adjClose" : 226.25,
+  "volume" : 12376700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633384800000,
+  "open" : 226.910004,
+  "low" : 226.259995,
+  "high" : 239.139999,
+  "close" : 235.979996,
+  "adjClose" : 235.979996,
+  "volume" : 9928200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633471200000,
+  "open" : 231.970001,
+  "low" : 231.330002,
+  "high" : 241.0,
+  "close" : 239.119995,
+  "adjClose" : 239.119995,
+  "volume" : 7079600,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633557600000,
+  "open" : 246.089996,
+  "low" : 244.919998,
+  "high" : 251.649994,
+  "close" : 249.160004,
+  "adjClose" : 249.160004,
+  "volume" : 9170900,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633644000000,
+  "open" : 249.300003,
+  "low" : 238.119995,
+  "high" : 251.440002,
+  "close" : 238.490005,
+  "adjClose" : 238.490005,
+  "volume" : 8468700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633903200000,
+  "open" : 238.490005,
+  "low" : 232.0,
+  "high" : 240.720001,
+  "close" : 232.330002,
+  "adjClose" : 232.330002,
+  "volume" : 7632300,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1633989600000,
+  "open" : 237.75,
+  "low" : 234.080002,
+  "high" : 240.320007,
+  "close" : 237.410004,
+  "adjClose" : 237.410004,
+  "volume" : 5800300,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634076000000,
+  "open" : 239.300003,
+  "low" : 238.669998,
+  "high" : 243.529999,
+  "close" : 242.729996,
+  "adjClose" : 242.729996,
+  "volume" : 5422800,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634162400000,
+  "open" : 248.115005,
+  "low" : 247.100006,
+  "high" : 251.339996,
+  "close" : 247.410004,
+  "adjClose" : 247.410004,
+  "volume" : 6747800,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634248800000,
+  "open" : 250.0,
+  "low" : 246.509995,
+  "high" : 250.460007,
+  "close" : 249.0,
+  "adjClose" : 249.0,
+  "volume" : 4660600,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634508000000,
+  "open" : 247.449997,
+  "low" : 244.160004,
+  "high" : 253.600006,
+  "close" : 252.199997,
+  "adjClose" : 252.199997,
+  "volume" : 6911100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634594400000,
+  "open" : 253.940002,
+  "low" : 251.809998,
+  "high" : 256.970001,
+  "close" : 254.410004,
+  "adjClose" : 254.410004,
+  "volume" : 5248600,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634680800000,
+  "open" : 257.890015,
+  "low" : 253.020004,
+  "high" : 260.380005,
+  "close" : 255.350006,
+  "adjClose" : 255.350006,
+  "volume" : 4695100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634767200000,
+  "open" : 255.539993,
+  "low" : 253.600006,
+  "high" : 265.649994,
+  "close" : 265.079987,
+  "adjClose" : 265.079987,
+  "volume" : 7003100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1634853600000,
+  "open" : 259.880005,
+  "low" : 251.940002,
+  "high" : 262.0,
+  "close" : 253.059998,
+  "adjClose" : 253.059998,
+  "volume" : 7656200,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635112800000,
+  "open" : 252.550003,
+  "low" : 252.529999,
+  "high" : 262.410004,
+  "close" : 262.0,
+  "adjClose" : 262.0,
+  "volume" : 5747700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635199200000,
+  "open" : 263.029999,
+  "low" : 259.059998,
+  "high" : 270.160004,
+  "close" : 263.390015,
+  "adjClose" : 263.390015,
+  "volume" : 7089500,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635285600000,
+  "open" : 261.920013,
+  "low" : 252.279999,
+  "high" : 262.309998,
+  "close" : 253.020004,
+  "adjClose" : 253.020004,
+  "volume" : 6305700,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635372000000,
+  "open" : 257.190002,
+  "low" : 254.664993,
+  "high" : 261.609985,
+  "close" : 261.329987,
+  "adjClose" : 261.329987,
+  "volume" : 4912900,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635458400000,
+  "open" : 258.160004,
+  "low" : 253.975006,
+  "high" : 258.75,
+  "close" : 254.5,
+  "adjClose" : 254.5,
+  "volume" : 4093800,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635721200000,
+  "open" : 255.119995,
+  "low" : 251.119995,
+  "high" : 255.539993,
+  "close" : 255.039993,
+  "adjClose" : 255.039993,
+  "volume" : 4426600,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635807600000,
+  "open" : 253.039993,
+  "low" : 247.399994,
+  "high" : 255.223999,
+  "close" : 249.009995,
+  "adjClose" : 249.009995,
+  "volume" : 5465900,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635894000000,
+  "open" : 249.399994,
+  "low" : 248.229996,
+  "high" : 252.820007,
+  "close" : 252.479996,
+  "adjClose" : 252.479996,
+  "volume" : 4205600,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1635980400000,
+  "open" : 252.639999,
+  "low" : 244.550003,
+  "high" : 253.320007,
+  "close" : 247.460007,
+  "adjClose" : 247.460007,
+  "volume" : 10195300,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1636066800000,
+  "open" : 247.639999,
+  "low" : 237.080002,
+  "high" : 255.949997,
+  "close" : 237.380005,
+  "adjClose" : 237.380005,
+  "volume" : 15216100,
+  "invalid" : false
+}, {
+  "symbol" : "SQ",
+  "date" : 1641855600000,
+  "open" : 142.190002,
+  "low" : 141.839996,
+  "high" : 151.5,
+  "close" : 148.429993,
+  "adjClose" : 148.429993,
+  "volume" : 10846900,
+  "invalid" : false
+} ],
+"averageTrueRange":10.405471716981134,
+"stockAnalysis":{
+  "averageTrueRange" : 10.405471716981134,
+  "longEntry" : 276.140015,
+  "longExit" : 141.839996,
+  "longStop" : 127.0,
+  "shortEntry" : 141.839996,
+  "shortExit" : 270.160004,
+  "shortStop" : 168.0,
+  "investAmount" : 566.0,
+  "high" : 152.7,
+  "low" : 145.645,
+  "stockName" : "Block, Inc.",
+  "currentPrice" : 147.3507
+}}

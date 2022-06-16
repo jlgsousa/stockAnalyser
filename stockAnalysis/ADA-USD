@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "ADA-USD",
+  "date" : 1632866400000,
+  "open" : 2.039015,
+  "low" : 2.023027,
+  "high" : 2.144665,
+  "close" : 2.065688,
+  "adjClose" : 2.065688,
+  "volume" : 2869486117,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1632952800000,
+  "open" : 2.066589,
+  "low" : 2.053454,
+  "high" : 2.134077,
+  "close" : 2.114452,
+  "adjClose" : 2.114452,
+  "volume" : 2621620164,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633039200000,
+  "open" : 2.116249,
+  "low" : 2.096256,
+  "high" : 2.274002,
+  "close" : 2.258127,
+  "adjClose" : 2.258127,
+  "volume" : 3235813427,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633125600000,
+  "open" : 2.254531,
+  "low" : 2.195434,
+  "high" : 2.320416,
+  "close" : 2.251459,
+  "adjClose" : 2.251459,
+  "volume" : 2911039833,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633212000000,
+  "open" : 2.249317,
+  "low" : 2.223882,
+  "high" : 2.307575,
+  "close" : 2.252873,
+  "adjClose" : 2.252873,
+  "volume" : 2331706759,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633298400000,
+  "open" : 2.251848,
+  "low" : 2.1558,
+  "high" : 2.253159,
+  "close" : 2.189235,
+  "adjClose" : 2.189235,
+  "volume" : 2249001043,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633384800000,
+  "open" : 2.189178,
+  "low" : 2.181561,
+  "high" : 2.256643,
+  "close" : 2.233124,
+  "adjClose" : 2.233124,
+  "volume" : 2090074822,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633471200000,
+  "open" : 2.233087,
+  "low" : 2.116876,
+  "high" : 2.250027,
+  "close" : 2.212155,
+  "adjClose" : 2.212155,
+  "volume" : 2719301133,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633557600000,
+  "open" : 2.210038,
+  "low" : 2.153612,
+  "high" : 2.369656,
+  "close" : 2.276995,
+  "adjClose" : 2.276995,
+  "volume" : 3265277489,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633644000000,
+  "open" : 2.277983,
+  "low" : 2.223705,
+  "high" : 2.309177,
+  "close" : 2.237176,
+  "adjClose" : 2.237176,
+  "volume" : 1977478611,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633730400000,
+  "open" : 2.234527,
+  "low" : 2.221574,
+  "high" : 2.297457,
+  "close" : 2.266615,
+  "adjClose" : 2.266615,
+  "volume" : 1953066446,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633816800000,
+  "open" : 2.267288,
+  "low" : 2.174145,
+  "high" : 2.276212,
+  "close" : 2.197214,
+  "adjClose" : 2.197214,
+  "volume" : 2036732421,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633903200000,
+  "open" : 2.191907,
+  "low" : 2.122026,
+  "high" : 2.249355,
+  "close" : 2.173389,
+  "adjClose" : 2.173389,
+  "volume" : 2386202338,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1633989600000,
+  "open" : 2.173525,
+  "low" : 2.075584,
+  "high" : 2.173575,
+  "close" : 2.11919,
+  "adjClose" : 2.11919,
+  "volume" : 3467823586,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634076000000,
+  "open" : 2.119377,
+  "low" : 2.089565,
+  "high" : 2.196761,
+  "close" : 2.189053,
+  "adjClose" : 2.189053,
+  "volume" : 3088601173,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634162400000,
+  "open" : 2.187248,
+  "low" : 2.158867,
+  "high" : 2.221947,
+  "close" : 2.170363,
+  "adjClose" : 2.170363,
+  "volume" : 2171800205,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634248800000,
+  "open" : 2.172978,
+  "low" : 2.139135,
+  "high" : 2.240569,
+  "close" : 2.214651,
+  "adjClose" : 2.214651,
+  "volume" : 3419909583,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634335200000,
+  "open" : 2.215554,
+  "low" : 2.171732,
+  "high" : 2.247748,
+  "close" : 2.177713,
+  "adjClose" : 2.177713,
+  "volume" : 2415050040,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634421600000,
+  "open" : 2.177637,
+  "low" : 2.09656,
+  "high" : 2.187675,
+  "close" : 2.156963,
+  "adjClose" : 2.156963,
+  "volume" : 2044782419,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634508000000,
+  "open" : 2.157833,
+  "low" : 2.109943,
+  "high" : 2.16989,
+  "close" : 2.128263,
+  "adjClose" : 2.128263,
+  "volume" : 2594342479,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634594400000,
+  "open" : 2.128213,
+  "low" : 2.096606,
+  "high" : 2.155572,
+  "close" : 2.112962,
+  "adjClose" : 2.112962,
+  "volume" : 3071082063,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634680800000,
+  "open" : 2.111303,
+  "low" : 2.095114,
+  "high" : 2.206168,
+  "close" : 2.18595,
+  "adjClose" : 2.18595,
+  "volume" : 3023618047,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634767200000,
+  "open" : 2.18964,
+  "low" : 2.13471,
+  "high" : 2.29641,
+  "close" : 2.136591,
+  "adjClose" : 2.136591,
+  "volume" : 3967007331,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634853600000,
+  "open" : 2.137513,
+  "low" : 2.133419,
+  "high" : 2.20874,
+  "close" : 2.154199,
+  "adjClose" : 2.154199,
+  "volume" : 2785878320,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1634940000000,
+  "open" : 2.156006,
+  "low" : 2.134751,
+  "high" : 2.174763,
+  "close" : 2.166815,
+  "adjClose" : 2.166815,
+  "volume" : 2115938187,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635026400000,
+  "open" : 2.166816,
+  "low" : 2.095419,
+  "high" : 2.169683,
+  "close" : 2.123435,
+  "adjClose" : 2.123435,
+  "volume" : 2188895748,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635112800000,
+  "open" : 2.119801,
+  "low" : 2.115651,
+  "high" : 2.176252,
+  "close" : 2.144066,
+  "adjClose" : 2.144066,
+  "volume" : 2398064828,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635199200000,
+  "open" : 2.143916,
+  "low" : 2.128982,
+  "high" : 2.199589,
+  "close" : 2.138777,
+  "adjClose" : 2.138777,
+  "volume" : 2803084142,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635285600000,
+  "open" : 2.137858,
+  "low" : 1.83342,
+  "high" : 2.154367,
+  "close" : 1.913237,
+  "adjClose" : 1.913237,
+  "volume" : 5058404282,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635372000000,
+  "open" : 1.912248,
+  "low" : 1.910781,
+  "high" : 2.054593,
+  "close" : 1.988219,
+  "adjClose" : 1.988219,
+  "volume" : 4494724914,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635458400000,
+  "open" : 1.987413,
+  "low" : 1.982498,
+  "high" : 2.044696,
+  "close" : 2.012187,
+  "adjClose" : 2.012187,
+  "volume" : 2884450462,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635544800000,
+  "open" : 2.012207,
+  "low" : 1.932392,
+  "high" : 2.016995,
+  "close" : 1.957422,
+  "adjClose" : 1.957422,
+  "volume" : 2313950989,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635631200000,
+  "open" : 1.955862,
+  "low" : 1.923054,
+  "high" : 2.022236,
+  "close" : 1.965026,
+  "adjClose" : 1.965026,
+  "volume" : 2446176744,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635721200000,
+  "open" : 1.964962,
+  "low" : 1.91796,
+  "high" : 2.015316,
+  "close" : 1.950002,
+  "adjClose" : 1.950002,
+  "volume" : 2649338831,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635807600000,
+  "open" : 1.949818,
+  "low" : 1.934827,
+  "high" : 1.99654,
+  "close" : 1.971377,
+  "adjClose" : 1.971377,
+  "volume" : 2459979881,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635894000000,
+  "open" : 1.971404,
+  "low" : 1.950845,
+  "high" : 2.144626,
+  "close" : 2.063701,
+  "adjClose" : 2.063701,
+  "volume" : 4722705987,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1635980400000,
+  "open" : 2.064559,
+  "low" : 1.956403,
+  "high" : 2.100966,
+  "close" : 1.984882,
+  "adjClose" : 1.984882,
+  "volume" : 3301214469,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636066800000,
+  "open" : 1.984745,
+  "low" : 1.963668,
+  "high" : 2.018975,
+  "close" : 1.986206,
+  "adjClose" : 1.986206,
+  "volume" : 2274851985,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636153200000,
+  "open" : 1.985306,
+  "low" : 1.946815,
+  "high" : 2.03994,
+  "close" : 2.006609,
+  "adjClose" : 2.006609,
+  "volume" : 1883049324,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636326000000,
+  "open" : 2.023948,
+  "low" : 2.013493,
+  "high" : 2.058202,
+  "close" : 2.043745,
+  "adjClose" : 2.043745,
+  "volume" : 2251539200,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636066800000,
+  "open" : 1.984745,
+  "low" : 1.963668,
+  "high" : 2.018975,
+  "close" : 1.986206,
+  "adjClose" : 1.986206,
+  "volume" : 2274851985,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636153200000,
+  "open" : 1.985306,
+  "low" : 1.946815,
+  "high" : 2.03994,
+  "close" : 2.006609,
+  "adjClose" : 2.006609,
+  "volume" : 1883049324,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636326000000,
+  "open" : 2.023948,
+  "low" : 2.013493,
+  "high" : 2.058202,
+  "close" : 2.037318,
+  "adjClose" : 2.037318,
+  "volume" : 2239041536,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636066800000,
+  "open" : 1.984745,
+  "low" : 1.963668,
+  "high" : 2.018975,
+  "close" : 1.986206,
+  "adjClose" : 1.986206,
+  "volume" : 2274851985,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636153200000,
+  "open" : 1.985306,
+  "low" : 1.946815,
+  "high" : 2.03994,
+  "close" : 2.006609,
+  "adjClose" : 2.006609,
+  "volume" : 1883049324,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1636326000000,
+  "open" : 2.023948,
+  "low" : 2.013493,
+  "high" : 2.058202,
+  "close" : 2.037519,
+  "adjClose" : 2.037519,
+  "volume" : 2245548544,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1641855600000,
+  "open" : 1.127857,
+  "low" : 1.125648,
+  "high" : 1.193615,
+  "close" : 1.18511,
+  "adjClose" : 1.18511,
+  "volume" : 1089929557,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1641942000000,
+  "open" : 1.197445,
+  "low" : 1.191529,
+  "high" : 1.286068,
+  "close" : 1.28309,
+  "adjClose" : 1.28309,
+  "volume" : 1485243648,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1641855600000,
+  "open" : 1.127857,
+  "low" : 1.125648,
+  "high" : 1.193615,
+  "close" : 1.18511,
+  "adjClose" : 1.18511,
+  "volume" : 1089929557,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1641942000000,
+  "open" : 1.197445,
+  "low" : 1.191529,
+  "high" : 1.286068,
+  "close" : 1.284045,
+  "adjClose" : 1.284045,
+  "volume" : 1494365184,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1641855600000,
+  "open" : 1.127857,
+  "low" : 1.125648,
+  "high" : 1.193615,
+  "close" : 1.185110,
+  "adjClose" : 1.185110,
+  "volume" : 1089929557,
+  "invalid" : false
+}, {
+  "symbol" : "ADA-USD",
+  "date" : 1641942000000,
+  "open" : 1.197445,
+  "low" : 1.191529,
+  "high" : 1.286846,
+  "close" : 1.286846,
+  "adjClose" : 1.286846,
+  "volume" : 1496801280,
+  "invalid" : false
+} ],
+"averageTrueRange":0.12201377083333331,
+"stockAnalysis":{
+  "averageTrueRange" : 0.12201377083333331,
+  "longEntry" : 2.369656,
+  "longExit" : 1.125648,
+  "longStop" : 1.0,
+  "shortEntry" : 1.125648,
+  "shortExit" : 2.144626,
+  "shortStop" : 2.0,
+  "investAmount" : 421.0,
+  "high" : 1.286068,
+  "low" : 1.1915289,
+  "stockName" : "Cardano USD",
+  "currentPrice" : 1.2847269
+}}

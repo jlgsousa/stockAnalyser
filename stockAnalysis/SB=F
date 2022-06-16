@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "SB=F",
+  "date" : 1630965600000,
+  "open" : 19.629999,
+  "low" : 19.440001,
+  "high" : 19.719999,
+  "close" : 19.48,
+  "adjClose" : 19.48,
+  "volume" : 66787,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631052000000,
+  "open" : 19.5,
+  "low" : 19.450001,
+  "high" : 19.76,
+  "close" : 19.49,
+  "adjClose" : 19.49,
+  "volume" : 103479,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631138400000,
+  "open" : 19.51,
+  "low" : 19.1,
+  "high" : 19.549999,
+  "close" : 19.24,
+  "adjClose" : 19.24,
+  "volume" : 113303,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631224800000,
+  "open" : 19.25,
+  "low" : 18.73,
+  "high" : 19.25,
+  "close" : 18.790001,
+  "adjClose" : 18.790001,
+  "volume" : 97486,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631484000000,
+  "open" : 18.809999,
+  "low" : 18.57,
+  "high" : 19.02,
+  "close" : 18.98,
+  "adjClose" : 18.98,
+  "volume" : 84095,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631570400000,
+  "open" : 19.059999,
+  "low" : 18.799999,
+  "high" : 19.18,
+  "close" : 18.959999,
+  "adjClose" : 18.959999,
+  "volume" : 94848,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631656800000,
+  "open" : 18.99,
+  "low" : 18.959999,
+  "high" : 19.65,
+  "close" : 19.52,
+  "adjClose" : 19.52,
+  "volume" : 123298,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631743200000,
+  "open" : 19.52,
+  "low" : 19.299999,
+  "high" : 19.700001,
+  "close" : 19.49,
+  "adjClose" : 19.49,
+  "volume" : 66174,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1631829600000,
+  "open" : 19.52,
+  "low" : 19.040001,
+  "high" : 19.59,
+  "close" : 19.18,
+  "adjClose" : 19.18,
+  "volume" : 30195,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632088800000,
+  "open" : 19.0,
+  "low" : 18.809999,
+  "high" : 19.1,
+  "close" : 18.860001,
+  "adjClose" : 18.860001,
+  "volume" : 33680,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632175200000,
+  "open" : 18.889999,
+  "low" : 18.82,
+  "high" : 19.24,
+  "close" : 18.969999,
+  "adjClose" : 18.969999,
+  "volume" : 25973,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632261600000,
+  "open" : 19.040001,
+  "low" : 19.02,
+  "high" : 19.379999,
+  "close" : 19.33,
+  "adjClose" : 19.33,
+  "volume" : 38593,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632348000000,
+  "open" : 19.4,
+  "low" : 19.290001,
+  "high" : 19.540001,
+  "close" : 19.49,
+  "adjClose" : 19.49,
+  "volume" : 30693,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632434400000,
+  "open" : 19.549999,
+  "low" : 19.049999,
+  "high" : 19.549999,
+  "close" : 19.1,
+  "adjClose" : 19.1,
+  "volume" : 29316,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632693600000,
+  "open" : 19.24,
+  "low" : 18.719999,
+  "high" : 19.290001,
+  "close" : 18.73,
+  "adjClose" : 18.73,
+  "volume" : 45653,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632780000000,
+  "open" : 18.76,
+  "low" : 18.49,
+  "high" : 19.049999,
+  "close" : 18.98,
+  "adjClose" : 18.98,
+  "volume" : 16890,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632866400000,
+  "open" : 18.959999,
+  "low" : 18.870001,
+  "high" : 19.32,
+  "close" : 18.940001,
+  "adjClose" : 18.940001,
+  "volume" : 7937,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1632952800000,
+  "open" : 19.08,
+  "low" : 18.73,
+  "high" : 19.93,
+  "close" : 19.83,
+  "adjClose" : 19.83,
+  "volume" : 56454,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633039200000,
+  "open" : 20.309999,
+  "low" : 20.02,
+  "high" : 20.35,
+  "close" : 20.059999,
+  "adjClose" : 20.059999,
+  "volume" : 39699,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633298400000,
+  "open" : 20.030001,
+  "low" : 19.629999,
+  "high" : 20.1,
+  "close" : 19.690001,
+  "adjClose" : 19.690001,
+  "volume" : 47481,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633384800000,
+  "open" : 19.74,
+  "low" : 19.620001,
+  "high" : 20.040001,
+  "close" : 19.85,
+  "adjClose" : 19.85,
+  "volume" : 36898,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633471200000,
+  "open" : 19.799999,
+  "low" : 19.65,
+  "high" : 19.870001,
+  "close" : 19.77,
+  "adjClose" : 19.77,
+  "volume" : 29675,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633557600000,
+  "open" : 19.77,
+  "low" : 19.76,
+  "high" : 20.02,
+  "close" : 19.84,
+  "adjClose" : 19.84,
+  "volume" : 32009,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633644000000,
+  "open" : 19.889999,
+  "low" : 19.84,
+  "high" : 20.34,
+  "close" : 20.290001,
+  "adjClose" : 20.290001,
+  "volume" : 45555,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633903200000,
+  "open" : 20.34,
+  "low" : 20.219999,
+  "high" : 20.610001,
+  "close" : 20.33,
+  "adjClose" : 20.33,
+  "volume" : 44428,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1633989600000,
+  "open" : 20.32,
+  "low" : 20.030001,
+  "high" : 20.379999,
+  "close" : 20.07,
+  "adjClose" : 20.07,
+  "volume" : 38159,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634076000000,
+  "open" : 20.110001,
+  "low" : 19.83,
+  "high" : 20.15,
+  "close" : 19.860001,
+  "adjClose" : 19.860001,
+  "volume" : 44155,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634162400000,
+  "open" : 19.879999,
+  "low" : 19.48,
+  "high" : 20.01,
+  "close" : 19.59,
+  "adjClose" : 19.59,
+  "volume" : 74891,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634248800000,
+  "open" : 19.6,
+  "low" : 19.59,
+  "high" : 19.969999,
+  "close" : 19.799999,
+  "adjClose" : 19.799999,
+  "volume" : 48617,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634508000000,
+  "open" : 19.77,
+  "low" : 19.139999,
+  "high" : 19.799999,
+  "close" : 19.35,
+  "adjClose" : 19.35,
+  "volume" : 68103,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634594400000,
+  "open" : 19.35,
+  "low" : 18.82,
+  "high" : 19.440001,
+  "close" : 18.870001,
+  "adjClose" : 18.870001,
+  "volume" : 78462,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634680800000,
+  "open" : 19.01,
+  "low" : 18.84,
+  "high" : 19.110001,
+  "close" : 18.969999,
+  "adjClose" : 18.969999,
+  "volume" : 48794,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634767200000,
+  "open" : 19.0,
+  "low" : 18.870001,
+  "high" : 19.190001,
+  "close" : 18.940001,
+  "adjClose" : 18.940001,
+  "volume" : 41910,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1634853600000,
+  "open" : 19.030001,
+  "low" : 18.92,
+  "high" : 19.15,
+  "close" : 19.08,
+  "adjClose" : 19.08,
+  "volume" : 33440,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635112800000,
+  "open" : 19.15,
+  "low" : 18.98,
+  "high" : 19.440001,
+  "close" : 19.389999,
+  "adjClose" : 19.389999,
+  "volume" : 46854,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635199200000,
+  "open" : 19.370001,
+  "low" : 19.32,
+  "high" : 19.690001,
+  "close" : 19.66,
+  "adjClose" : 19.66,
+  "volume" : 41996,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635285600000,
+  "open" : 19.6,
+  "low" : 19.530001,
+  "high" : 19.860001,
+  "close" : 19.700001,
+  "adjClose" : 19.700001,
+  "volume" : 42565,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635372000000,
+  "open" : 19.700001,
+  "low" : 19.5,
+  "high" : 19.83,
+  "close" : 19.620001,
+  "adjClose" : 19.620001,
+  "volume" : 41433,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635458400000,
+  "open" : 19.620001,
+  "low" : 19.209999,
+  "high" : 19.700001,
+  "close" : 19.27,
+  "adjClose" : 19.27,
+  "volume" : 41160,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635721200000,
+  "open" : 19.280001,
+  "low" : 19.190001,
+  "high" : 19.540001,
+  "close" : 19.370001,
+  "adjClose" : 19.370001,
+  "volume" : 29774,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635807600000,
+  "open" : 19.370001,
+  "low" : 19.290001,
+  "high" : 19.65,
+  "close" : 19.540001,
+  "adjClose" : 19.540001,
+  "volume" : 38147,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635894000000,
+  "open" : 19.530001,
+  "low" : 19.33,
+  "high" : 19.530001,
+  "close" : 19.379999,
+  "adjClose" : 19.379999,
+  "volume" : 31455,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1635980400000,
+  "open" : 19.42,
+  "low" : 19.379999,
+  "high" : 19.83,
+  "close" : 19.629999,
+  "adjClose" : 19.629999,
+  "volume" : 55253,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1636066800000,
+  "open" : 19.66,
+  "low" : 19.559999,
+  "high" : 19.99,
+  "close" : 19.940001,
+  "adjClose" : 19.940001,
+  "volume" : 55253,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1636326000000,
+  "open" : 19.99,
+  "low" : 19.940001,
+  "high" : 20.1,
+  "close" : 20.059999,
+  "adjClose" : 20.059999,
+  "volume" : 9773,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1636066800000,
+  "open" : 19.66,
+  "low" : 19.559999,
+  "high" : 19.99,
+  "close" : 19.940001,
+  "adjClose" : 19.940001,
+  "volume" : 55253,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1636326000000,
+  "open" : 19.99,
+  "low" : 19.940001,
+  "high" : 20.1,
+  "close" : 20.08,
+  "adjClose" : 20.08,
+  "volume" : 9925,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1636066800000,
+  "open" : 19.66,
+  "low" : 19.559999,
+  "high" : 19.99,
+  "close" : 19.940001,
+  "adjClose" : 19.940001,
+  "volume" : 55253,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1636326000000,
+  "open" : 19.99,
+  "low" : 19.940001,
+  "high" : 20.1,
+  "close" : 20.07,
+  "adjClose" : 20.07,
+  "volume" : 9975,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1641855600000,
+  "open" : 17.950001,
+  "low" : 17.85,
+  "high" : 18.209999,
+  "close" : 18.110001,
+  "adjClose" : 18.110001,
+  "volume" : 75293,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1641942000000,
+  "open" : 18.190001,
+  "low" : 18.15,
+  "high" : 18.469999,
+  "close" : 18.4,
+  "adjClose" : 18.4,
+  "volume" : 36411,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1641855600000,
+  "open" : 17.950001,
+  "low" : 17.85,
+  "high" : 18.209999,
+  "close" : 18.110001,
+  "adjClose" : 18.110001,
+  "volume" : 75293,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1641942000000,
+  "open" : 18.190001,
+  "low" : 18.15,
+  "high" : 18.469999,
+  "close" : 18.379999,
+  "adjClose" : 18.379999,
+  "volume" : 36777,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1641855600000,
+  "open" : 17.950001,
+  "low" : 17.850000,
+  "high" : 18.209999,
+  "close" : 18.110001,
+  "adjClose" : 18.110001,
+  "volume" : 75293,
+  "invalid" : false
+}, {
+  "symbol" : "SB=F",
+  "date" : 1641942000000,
+  "open" : 18.190001,
+  "low" : 18.150000,
+  "high" : 18.469999,
+  "close" : 18.400000,
+  "adjClose" : 18.400000,
+  "volume" : 37065,
+  "invalid" : false
+} ],
+"averageTrueRange":0.4555555925925926,
+"stockAnalysis":{
+  "averageTrueRange" : 0.4555555925925926,
+  "longEntry" : 20.610001,
+  "longExit" : 17.85,
+  "longStop" : 17.0,
+  "shortEntry" : 17.85,
+  "shortExit" : 20.1,
+  "shortStop" : 19.0,
+  "investAmount" : 1616.0,
+  "high" : 18.47,
+  "low" : 18.15,
+  "stockName" : "Sugar #11 Mar 22",
+  "currentPrice" : 18.41
+}}

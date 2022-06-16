@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "BTC-EUR",
+  "date" : 1632866400000,
+  "open" : 35139.882813,
+  "low" : 34946.441406,
+  "high" : 36501.917969,
+  "close" : 35828.773438,
+  "adjClose" : 35828.773438,
+  "volume" : 26379448455,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1632952800000,
+  "open" : 35817.484375,
+  "low" : 35731.652344,
+  "high" : 38067.214844,
+  "close" : 37835.902344,
+  "adjClose" : 37835.902344,
+  "volume" : 26906818025,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633039200000,
+  "open" : 37858.234375,
+  "low" : 37424.382813,
+  "high" : 41776.980469,
+  "close" : 41501.777344,
+  "adjClose" : 41501.777344,
+  "volume" : 36959492526,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633125600000,
+  "open" : 41519.480469,
+  "low" : 40939.890625,
+  "high" : 41644.195313,
+  "close" : 41152.0625,
+  "adjClose" : 41152.0625,
+  "volume" : 26405455522,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633212000000,
+  "open" : 41124.929688,
+  "low" : 40674.054688,
+  "high" : 42376.15625,
+  "close" : 41527.535156,
+  "adjClose" : 41527.535156,
+  "volume" : 22950548222,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633298400000,
+  "open" : 41535.253906,
+  "low" : 40473.238281,
+  "high" : 42535.84375,
+  "close" : 42279.28125,
+  "adjClose" : 42279.28125,
+  "volume" : 28738204927,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633384800000,
+  "open" : 42332.707031,
+  "low" : 42237.53125,
+  "high" : 44701.359375,
+  "close" : 44425.191406,
+  "adjClose" : 44425.191406,
+  "volume" : 30936829914,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633471200000,
+  "open" : 44400.917969,
+  "low" : 43739.535156,
+  "high" : 48092.617188,
+  "close" : 47910.851563,
+  "adjClose" : 47910.851563,
+  "volume" : 42435587147,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633557600000,
+  "open" : 47891.097656,
+  "low" : 46308.523438,
+  "high" : 47891.097656,
+  "close" : 46546.964844,
+  "adjClose" : 46546.964844,
+  "volume" : 31842075157,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633644000000,
+  "open" : 46543.644531,
+  "low" : 46490.472656,
+  "high" : 48419.515625,
+  "close" : 46648.671875,
+  "adjClose" : 46648.671875,
+  "volume" : 30081144601,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633730400000,
+  "open" : 46615.769531,
+  "low" : 46447.527344,
+  "high" : 47879.667969,
+  "close" : 47508.265625,
+  "adjClose" : 47508.265625,
+  "volume" : 28081699148,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633816800000,
+  "open" : 47494.953125,
+  "low" : 46899.835938,
+  "high" : 48723.902344,
+  "close" : 47357.207031,
+  "adjClose" : 47357.207031,
+  "volume" : 34176954639,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633903200000,
+  "open" : 47324.820313,
+  "low" : 47119.632813,
+  "high" : 50008.027344,
+  "close" : 49755.960938,
+  "adjClose" : 49755.960938,
+  "volume" : 36904742451,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1633989600000,
+  "open" : 49792.347656,
+  "low" : 47242.480469,
+  "high" : 49838.777344,
+  "close" : 48601.886719,
+  "adjClose" : 48601.886719,
+  "volume" : 35630095368,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634076000000,
+  "open" : 48599.457031,
+  "low" : 47064.277344,
+  "high" : 49756.46875,
+  "close" : 49497.367188,
+  "adjClose" : 49497.367188,
+  "volume" : 35944622965,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634162400000,
+  "open" : 49472.996094,
+  "low" : 49136.925781,
+  "high" : 50443.347656,
+  "close" : 49455.808594,
+  "adjClose" : 49455.808594,
+  "volume" : 31591335859,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634248800000,
+  "open" : 49476.839844,
+  "low" : 49035.863281,
+  "high" : 54100.472656,
+  "close" : 53099.589844,
+  "adjClose" : 53099.589844,
+  "volume" : 44639142500,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634335200000,
+  "open" : 53113.019531,
+  "low" : 51903.152344,
+  "high" : 53686.265625,
+  "close" : 52494.601563,
+  "adjClose" : 52494.601563,
+  "volume" : 29527448010,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634421600000,
+  "open" : 52490.699219,
+  "low" : 51034.914063,
+  "high" : 53143.308594,
+  "close" : 53079.347656,
+  "adjClose" : 53079.347656,
+  "volume" : 25035394378,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634508000000,
+  "open" : 53075.195313,
+  "low" : 51725.234375,
+  "high" : 54052.417969,
+  "close" : 53408.671875,
+  "adjClose" : 53408.671875,
+  "volume" : 32768426725,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634594400000,
+  "open" : 53423.382813,
+  "low" : 52881.78125,
+  "high" : 55387.925781,
+  "close" : 55238.773438,
+  "adjClose" : 55238.773438,
+  "volume" : 34788514253,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634680800000,
+  "open" : 55258.195313,
+  "low" : 54619.558594,
+  "high" : 57457.261719,
+  "close" : 56634.0625,
+  "adjClose" : 56634.0625,
+  "volume" : 35004469846,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634767200000,
+  "open" : 56642.125,
+  "low" : 53432.027344,
+  "high" : 57214.132813,
+  "close" : 53515.742188,
+  "adjClose" : 53515.742188,
+  "volume" : 39492048235,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634853600000,
+  "open" : 53539.585938,
+  "low" : 51720.335938,
+  "high" : 54746.941406,
+  "close" : 52123.003906,
+  "adjClose" : 52123.003906,
+  "volume" : 33007497760,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1634940000000,
+  "open" : 52125.03125,
+  "low" : 51379.496094,
+  "high" : 53026.136719,
+  "close" : 52734.601563,
+  "adjClose" : 52734.601563,
+  "volume" : 23091004859,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635026400000,
+  "open" : 52712.890625,
+  "low" : 51231.1875,
+  "high" : 52830.964844,
+  "close" : 52347.996094,
+  "adjClose" : 52347.996094,
+  "volume" : 23468371588,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635112800000,
+  "open" : 52316.289063,
+  "low" : 52119.6875,
+  "high" : 54906.253906,
+  "close" : 54303.453125,
+  "adjClose" : 54303.453125,
+  "volume" : 26759780838,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635199200000,
+  "open" : 54297.367188,
+  "low" : 51741.355469,
+  "high" : 54507.089844,
+  "close" : 52053.449219,
+  "adjClose" : 52053.449219,
+  "volume" : 30077143516,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635285600000,
+  "open" : 52043.277344,
+  "low" : 50162.480469,
+  "high" : 52939.003906,
+  "close" : 50421.9375,
+  "adjClose" : 50421.9375,
+  "volume" : 37639952956,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635372000000,
+  "open" : 50411.882813,
+  "low" : 49810.277344,
+  "high" : 53186.023438,
+  "close" : 51892.304688,
+  "adjClose" : 51892.304688,
+  "volume" : 38739882231,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635458400000,
+  "open" : 51894.648438,
+  "low" : 51632.074219,
+  "high" : 54531.996094,
+  "close" : 53825.324219,
+  "adjClose" : 53825.324219,
+  "volume" : 31880097022,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635544800000,
+  "open" : 53835.179688,
+  "low" : 52692.574219,
+  "high" : 53913.707031,
+  "close" : 53531.980469,
+  "adjClose" : 53531.980469,
+  "volume" : 27815652165,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635631200000,
+  "open" : 53498.816406,
+  "low" : 51994.210938,
+  "high" : 53979.464844,
+  "close" : 53060.582031,
+  "adjClose" : 53060.582031,
+  "volume" : 27898987362,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635721200000,
+  "open" : 53061.871094,
+  "low" : 51686.597656,
+  "high" : 53961.042969,
+  "close" : 52591.960938,
+  "adjClose" : 52591.960938,
+  "volume" : 31165444999,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635807600000,
+  "open" : 52556.480469,
+  "low" : 52312.246094,
+  "high" : 55465.6875,
+  "close" : 54603.773438,
+  "adjClose" : 54603.773438,
+  "volume" : 32598888626,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635894000000,
+  "open" : 54627.898438,
+  "low" : 52820.171875,
+  "high" : 54845.921875,
+  "close" : 54214.628906,
+  "adjClose" : 54214.628906,
+  "volume" : 31101912716,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1635980400000,
+  "open" : 54190.3125,
+  "low" : 52647.949219,
+  "high" : 54351.234375,
+  "close" : 53180.636719,
+  "adjClose" : 53180.636719,
+  "volume" : 28225688676,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636066800000,
+  "open" : 53187.429688,
+  "low" : 52592.558594,
+  "high" : 54139.523438,
+  "close" : 52915.761719,
+  "adjClose" : 52915.761719,
+  "volume" : 26494469926,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636153200000,
+  "open" : 52866.589844,
+  "low" : 52083.0625,
+  "high" : 53318.316406,
+  "close" : 53263.601563,
+  "adjClose" : 53263.601563,
+  "volume" : 25187135416,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636326000000,
+  "open" : 54905.898438,
+  "low" : 54911.359375,
+  "high" : 57356.660156,
+  "close" : 57048.394531,
+  "adjClose" : 57048.394531,
+  "volume" : 29512914944,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636066800000,
+  "open" : 53187.429688,
+  "low" : 52592.558594,
+  "high" : 54139.523438,
+  "close" : 52915.761719,
+  "adjClose" : 52915.761719,
+  "volume" : 26494469926,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636153200000,
+  "open" : 52866.589844,
+  "low" : 52083.0625,
+  "high" : 53318.316406,
+  "close" : 53263.601563,
+  "adjClose" : 53263.601563,
+  "volume" : 25187135416,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636326000000,
+  "open" : 54905.898438,
+  "low" : 54911.359375,
+  "high" : 57356.660156,
+  "close" : 56962.796875,
+  "adjClose" : 56962.796875,
+  "volume" : 29456947200,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636066800000,
+  "open" : 53187.429688,
+  "low" : 52592.558594,
+  "high" : 54139.523438,
+  "close" : 52915.761719,
+  "adjClose" : 52915.761719,
+  "volume" : 26494469926,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636153200000,
+  "open" : 52866.589844,
+  "low" : 52083.0625,
+  "high" : 53318.316406,
+  "close" : 53263.601563,
+  "adjClose" : 53263.601563,
+  "volume" : 25187135416,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1636326000000,
+  "open" : 54905.898438,
+  "low" : 54911.359375,
+  "high" : 57356.660156,
+  "close" : 56977.523438,
+  "adjClose" : 56977.523438,
+  "volume" : 29434284032,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1641855600000,
+  "open" : 36910.648438,
+  "low" : 36550.128906,
+  "high" : 37828.117188,
+  "close" : 37599.601563,
+  "adjClose" : 37599.601563,
+  "volume" : 23163434090,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1641942000000,
+  "open" : 37641.941406,
+  "low" : 37402.1875,
+  "high" : 38473.753906,
+  "close" : 38099.28125,
+  "adjClose" : 38099.28125,
+  "volume" : 23050110976,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1641855600000,
+  "open" : 36910.648438,
+  "low" : 36550.128906,
+  "high" : 37828.117188,
+  "close" : 37599.601563,
+  "adjClose" : 37599.601563,
+  "volume" : 23163434090,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1641942000000,
+  "open" : 37641.941406,
+  "low" : 37402.1875,
+  "high" : 38473.753906,
+  "close" : 38093.28125,
+  "adjClose" : 38093.28125,
+  "volume" : 23008047104,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1641855600000,
+  "open" : 36910.648438,
+  "low" : 36550.128906,
+  "high" : 37828.117188,
+  "close" : 37599.601563,
+  "adjClose" : 37599.601563,
+  "volume" : 23163434090,
+  "invalid" : false
+}, {
+  "symbol" : "BTC-EUR",
+  "date" : 1641942000000,
+  "open" : 37641.941406,
+  "low" : 37402.187500,
+  "high" : 38473.753906,
+  "close" : 38151.253906,
+  "adjClose" : 38151.253906,
+  "volume" : 22946039808,
+  "invalid" : false
+} ],
+"averageTrueRange":2681.4217121875004,
+"stockAnalysis":{
+  "averageTrueRange" : 2681.4217121875004,
+  "longEntry" : 57457.261719,
+  "longExit" : 36550.128906,
+  "longStop" : 32749.0,
+  "shortEntry" : 35731.652344,
+  "shortExit" : 54845.921875,
+  "shortStop" : 43474.0,
+  "investAmount" : 569.0,
+  "high" : 38473.754,
+  "low" : 37402.188,
+  "stockName" : "Bitcoin EUR",
+  "currentPrice" : 38111.504
+}}

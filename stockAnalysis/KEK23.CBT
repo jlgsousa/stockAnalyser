@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "KEK23.CBT",
+  "date" : 1629756000000,
+  "open" : 706.0,
+  "low" : 706.0,
+  "high" : 706.0,
+  "close" : 706.0,
+  "adjClose" : 706.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1629842400000,
+  "open" : 703.25,
+  "low" : 703.25,
+  "high" : 703.25,
+  "close" : 703.25,
+  "adjClose" : 703.25,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1629928800000,
+  "open" : 706.75,
+  "low" : 706.75,
+  "high" : 706.75,
+  "close" : 706.75,
+  "adjClose" : 706.75,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630015200000,
+  "open" : 710.0,
+  "low" : 710.0,
+  "high" : 710.0,
+  "close" : 710.0,
+  "adjClose" : 710.0,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630274400000,
+  "open" : 704.0,
+  "low" : 704.0,
+  "high" : 704.0,
+  "close" : 704.0,
+  "adjClose" : 704.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630360800000,
+  "open" : 708.25,
+  "low" : 708.25,
+  "high" : 708.25,
+  "close" : 708.25,
+  "adjClose" : 708.25,
+  "volume" : 5,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630447200000,
+  "open" : 708.0,
+  "low" : 708.0,
+  "high" : 708.0,
+  "close" : 708.0,
+  "adjClose" : 708.0,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630533600000,
+  "open" : 709.25,
+  "low" : 709.25,
+  "high" : 709.25,
+  "close" : 709.25,
+  "adjClose" : 709.25,
+  "volume" : 9,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630620000000,
+  "open" : 716.75,
+  "low" : 716.75,
+  "high" : 716.75,
+  "close" : 716.75,
+  "adjClose" : 716.75,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1630965600000,
+  "open" : 710.75,
+  "low" : 710.75,
+  "high" : 710.75,
+  "close" : 710.75,
+  "adjClose" : 710.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631052000000,
+  "open" : 703.5,
+  "low" : 703.5,
+  "high" : 703.5,
+  "close" : 703.5,
+  "adjClose" : 703.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631138400000,
+  "open" : 688.5,
+  "low" : 688.5,
+  "high" : 688.5,
+  "close" : 688.5,
+  "adjClose" : 688.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631224800000,
+  "open" : 691.5,
+  "low" : 691.5,
+  "high" : 691.5,
+  "close" : 691.5,
+  "adjClose" : 691.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631484000000,
+  "open" : 693.0,
+  "low" : 693.0,
+  "high" : 693.0,
+  "close" : 693.0,
+  "adjClose" : 693.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631570400000,
+  "open" : 710.0,
+  "low" : 710.0,
+  "high" : 710.0,
+  "close" : 710.0,
+  "adjClose" : 710.0,
+  "volume" : 5,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631656800000,
+  "open" : 718.0,
+  "low" : 718.0,
+  "high" : 720.0,
+  "close" : 720.0,
+  "adjClose" : 720.0,
+  "volume" : 65,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631743200000,
+  "open" : 721.75,
+  "low" : 721.75,
+  "high" : 721.75,
+  "close" : 721.75,
+  "adjClose" : 721.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1631829600000,
+  "open" : 718.75,
+  "low" : 718.75,
+  "high" : 718.75,
+  "close" : 718.75,
+  "adjClose" : 718.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632088800000,
+  "open" : 710.5,
+  "low" : 710.5,
+  "high" : 710.5,
+  "close" : 710.5,
+  "adjClose" : 710.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632175200000,
+  "open" : 705.5,
+  "low" : 705.5,
+  "high" : 705.5,
+  "close" : 705.5,
+  "adjClose" : 705.5,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632261600000,
+  "open" : 715.5,
+  "low" : 715.5,
+  "high" : 715.5,
+  "close" : 715.5,
+  "adjClose" : 715.5,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632348000000,
+  "open" : 725.75,
+  "low" : 725.75,
+  "high" : 725.75,
+  "close" : 725.75,
+  "adjClose" : 725.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632434400000,
+  "open" : 723.25,
+  "low" : 723.25,
+  "high" : 723.25,
+  "close" : 723.25,
+  "adjClose" : 723.25,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632693600000,
+  "open" : 722.25,
+  "low" : 722.25,
+  "high" : 722.25,
+  "close" : 722.25,
+  "adjClose" : 722.25,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632780000000,
+  "open" : 709.5,
+  "low" : 709.5,
+  "high" : 709.5,
+  "close" : 709.5,
+  "adjClose" : 709.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632866400000,
+  "open" : 714.0,
+  "low" : 714.0,
+  "high" : 714.0,
+  "close" : 714.0,
+  "adjClose" : 714.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1632952800000,
+  "open" : 730.0,
+  "low" : 730.0,
+  "high" : 730.0,
+  "close" : 730.0,
+  "adjClose" : 730.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633039200000,
+  "open" : 749.75,
+  "low" : 749.75,
+  "high" : 749.75,
+  "close" : 749.75,
+  "adjClose" : 749.75,
+  "volume" : 5,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633298400000,
+  "open" : 752.5,
+  "low" : 752.5,
+  "high" : 752.5,
+  "close" : 752.5,
+  "adjClose" : 752.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633384800000,
+  "open" : 743.0,
+  "low" : 742.0,
+  "high" : 743.0,
+  "close" : 742.0,
+  "adjClose" : 742.0,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633471200000,
+  "open" : 746.75,
+  "low" : 746.75,
+  "high" : 746.75,
+  "close" : 746.75,
+  "adjClose" : 746.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633557600000,
+  "open" : 745.25,
+  "low" : 745.25,
+  "high" : 745.25,
+  "close" : 745.25,
+  "adjClose" : 745.25,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633644000000,
+  "open" : 741.5,
+  "low" : 741.5,
+  "high" : 741.5,
+  "close" : 741.5,
+  "adjClose" : 741.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633903200000,
+  "open" : 741.0,
+  "low" : 741.0,
+  "high" : 741.0,
+  "close" : 741.0,
+  "adjClose" : 741.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1633989600000,
+  "open" : 744.0,
+  "low" : 744.0,
+  "high" : 744.0,
+  "close" : 744.0,
+  "adjClose" : 744.0,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634076000000,
+  "open" : 729.25,
+  "low" : 729.25,
+  "high" : 729.25,
+  "close" : 729.25,
+  "adjClose" : 729.25,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634162400000,
+  "open" : 737.75,
+  "low" : 737.75,
+  "high" : 737.75,
+  "close" : 737.75,
+  "adjClose" : 737.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634248800000,
+  "open" : 747.25,
+  "low" : 747.25,
+  "high" : 747.25,
+  "close" : 747.25,
+  "adjClose" : 747.25,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634508000000,
+  "open" : 749.25,
+  "low" : 749.25,
+  "high" : 749.25,
+  "close" : 749.25,
+  "adjClose" : 749.25,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634594400000,
+  "open" : 744.5,
+  "low" : 744.5,
+  "high" : 747.75,
+  "close" : 747.75,
+  "adjClose" : 747.75,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634680800000,
+  "open" : 759.75,
+  "low" : 759.75,
+  "high" : 759.75,
+  "close" : 759.75,
+  "adjClose" : 759.75,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634767200000,
+  "open" : 749.75,
+  "low" : 749.75,
+  "high" : 749.75,
+  "close" : 749.75,
+  "adjClose" : 749.75,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1634853600000,
+  "open" : 761.5,
+  "low" : 761.5,
+  "high" : 761.5,
+  "close" : 761.5,
+  "adjClose" : 761.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635112800000,
+  "open" : 766.0,
+  "low" : 766.0,
+  "high" : 766.0,
+  "close" : 766.0,
+  "adjClose" : 766.0,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635199200000,
+  "open" : 767.25,
+  "low" : 767.25,
+  "high" : 767.25,
+  "close" : 767.25,
+  "adjClose" : 767.25,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635285600000,
+  "open" : 775.25,
+  "low" : 775.25,
+  "high" : 775.25,
+  "close" : 775.25,
+  "adjClose" : 775.25,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635372000000,
+  "open" : 777.5,
+  "low" : 777.5,
+  "high" : 777.5,
+  "close" : 777.5,
+  "adjClose" : 777.5,
+  "volume" : 205,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635458400000,
+  "open" : 774.0,
+  "low" : 774.0,
+  "high" : 774.0,
+  "close" : 774.0,
+  "adjClose" : 774.0,
+  "volume" : 205,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635721200000,
+  "open" : 792.0,
+  "low" : 792.0,
+  "high" : 792.0,
+  "close" : 792.0,
+  "adjClose" : 792.0,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635807600000,
+  "open" : 789.0,
+  "low" : 789.0,
+  "high" : 789.0,
+  "close" : 789.0,
+  "adjClose" : 789.0,
+  "volume" : 47,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635894000000,
+  "open" : 782.5,
+  "low" : 782.5,
+  "high" : 782.5,
+  "close" : 782.5,
+  "adjClose" : 782.5,
+  "volume" : 59,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1635980400000,
+  "open" : 778.5,
+  "low" : 778.5,
+  "high" : 778.5,
+  "close" : 778.5,
+  "adjClose" : 778.5,
+  "volume" : 59,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1636066800000,
+  "open" : 773.0,
+  "low" : 773.0,
+  "high" : 773.0,
+  "close" : 773.0,
+  "adjClose" : 773.0,
+  "volume" : 79,
+  "invalid" : false
+}, {
+  "symbol" : "KEK23.CBT",
+  "date" : 1641855600000,
+  "open" : 789.25,
+  "low" : 789.25,
+  "high" : 789.25,
+  "close" : 789.25,
+  "adjClose" : 789.25,
+  "volume" : 33,
+  "invalid" : false
+} ],
+"averageTrueRange":6.716981132075475,
+"stockAnalysis":{
+  "averageTrueRange" : 6.716981132075475,
+  "longEntry" : 792.0,
+  "longExit" : 729.25,
+  "longStop" : 765.0,
+  "shortEntry" : 688.5,
+  "shortExit" : 792.0,
+  "shortStop" : 791.0,
+  "investAmount" : 4633.0,
+  "high" : 778.0,
+  "low" : 778.0,
+  "stockName" : "KC HRW Wheat Futures,May-2023",
+  "currentPrice" : 778.0
+}}

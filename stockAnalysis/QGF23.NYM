@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "QGF23.NYM",
+  "date" : 1629756000000,
+  "open" : 3.615,
+  "low" : 3.615,
+  "high" : 3.615,
+  "close" : 3.615,
+  "adjClose" : 3.615,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1629842400000,
+  "open" : 3.62,
+  "low" : 3.618,
+  "high" : 3.62,
+  "close" : 3.62,
+  "adjClose" : 3.62,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1629928800000,
+  "open" : 3.675,
+  "low" : 3.675,
+  "high" : 3.675,
+  "close" : 3.675,
+  "adjClose" : 3.675,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630015200000,
+  "open" : 3.73,
+  "low" : 3.729,
+  "high" : 3.73,
+  "close" : 3.73,
+  "adjClose" : 3.73,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630274400000,
+  "open" : 3.69,
+  "low" : 3.69,
+  "high" : 3.691,
+  "close" : 3.69,
+  "adjClose" : 3.69,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630360800000,
+  "open" : 3.725,
+  "low" : 3.725,
+  "high" : 3.727,
+  "close" : 3.725,
+  "adjClose" : 3.725,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630447200000,
+  "open" : 3.78,
+  "low" : 3.78,
+  "high" : 3.782,
+  "close" : 3.78,
+  "adjClose" : 3.78,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630533600000,
+  "open" : 3.815,
+  "low" : 3.814,
+  "high" : 3.815,
+  "close" : 3.815,
+  "adjClose" : 3.815,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630620000000,
+  "open" : 3.86,
+  "low" : 3.86,
+  "high" : 3.86,
+  "close" : 3.86,
+  "adjClose" : 3.86,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1630965600000,
+  "open" : 3.87,
+  "low" : 3.87,
+  "high" : 3.87,
+  "close" : 3.87,
+  "adjClose" : 3.87,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631052000000,
+  "open" : 3.985,
+  "low" : 3.983,
+  "high" : 3.985,
+  "close" : 3.985,
+  "adjClose" : 3.985,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631138400000,
+  "open" : 4.065,
+  "low" : 4.063,
+  "high" : 4.065,
+  "close" : 4.065,
+  "adjClose" : 4.065,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631224800000,
+  "open" : 4.09,
+  "low" : 4.09,
+  "high" : 4.092,
+  "close" : 4.09,
+  "adjClose" : 4.09,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631484000000,
+  "open" : 4.17,
+  "low" : 4.17,
+  "high" : 4.171,
+  "close" : 4.17,
+  "adjClose" : 4.17,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631570400000,
+  "open" : 4.175,
+  "low" : 4.175,
+  "high" : 4.175,
+  "close" : 4.175,
+  "adjClose" : 4.175,
+  "volume" : 5,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631656800000,
+  "open" : 4.15,
+  "low" : 4.149,
+  "high" : 4.15,
+  "close" : 4.15,
+  "adjClose" : 4.15,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631743200000,
+  "open" : 4.08,
+  "low" : 4.08,
+  "high" : 4.08,
+  "close" : 4.08,
+  "adjClose" : 4.08,
+  "volume" : 13,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1631829600000,
+  "open" : 3.975,
+  "low" : 3.975,
+  "high" : 3.976,
+  "close" : 3.975,
+  "adjClose" : 3.975,
+  "volume" : 13,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632088800000,
+  "open" : 3.945,
+  "low" : 3.944,
+  "high" : 3.945,
+  "close" : 3.945,
+  "adjClose" : 3.945,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632175200000,
+  "open" : 3.945,
+  "low" : 3.945,
+  "high" : 3.955,
+  "close" : 3.955,
+  "adjClose" : 3.955,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632261600000,
+  "open" : 3.975,
+  "low" : 3.975,
+  "high" : 3.975,
+  "close" : 3.975,
+  "adjClose" : 3.975,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632348000000,
+  "open" : 4.075,
+  "low" : 4.074,
+  "high" : 4.075,
+  "close" : 4.075,
+  "adjClose" : 4.075,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632434400000,
+  "open" : 4.155,
+  "low" : 4.155,
+  "high" : 4.157,
+  "close" : 4.155,
+  "adjClose" : 4.155,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632693600000,
+  "open" : 4.31,
+  "low" : 4.31,
+  "high" : 4.311,
+  "close" : 4.31,
+  "adjClose" : 4.31,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632780000000,
+  "open" : 4.225,
+  "low" : 4.224,
+  "high" : 4.225,
+  "close" : 4.225,
+  "adjClose" : 4.225,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632866400000,
+  "open" : 4.13,
+  "low" : 4.13,
+  "high" : 4.132,
+  "close" : 4.13,
+  "adjClose" : 4.13,
+  "volume" : 64,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1632952800000,
+  "open" : 4.225,
+  "low" : 4.224,
+  "high" : 4.225,
+  "close" : 4.225,
+  "adjClose" : 4.225,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633039200000,
+  "open" : 4.2,
+  "low" : 4.2,
+  "high" : 4.202,
+  "close" : 4.2,
+  "adjClose" : 4.2,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633298400000,
+  "open" : 4.285,
+  "low" : 4.285,
+  "high" : 4.285,
+  "close" : 4.285,
+  "adjClose" : 4.285,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633384800000,
+  "open" : 4.41,
+  "low" : 4.409,
+  "high" : 4.41,
+  "close" : 4.41,
+  "adjClose" : 4.41,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633471200000,
+  "open" : 4.26,
+  "low" : 4.26,
+  "high" : 4.261,
+  "close" : 4.26,
+  "adjClose" : 4.26,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633557600000,
+  "open" : 4.26,
+  "low" : 4.26,
+  "high" : 4.26,
+  "close" : 4.26,
+  "adjClose" : 4.26,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633644000000,
+  "open" : 4.285,
+  "low" : 4.285,
+  "high" : 4.286,
+  "close" : 4.285,
+  "adjClose" : 4.285,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633903200000,
+  "open" : 4.23,
+  "low" : 4.23,
+  "high" : 4.256,
+  "close" : 4.255,
+  "adjClose" : 4.255,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1633989600000,
+  "open" : 4.325,
+  "low" : 4.323,
+  "high" : 4.325,
+  "close" : 4.325,
+  "adjClose" : 4.325,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634076000000,
+  "open" : 4.41,
+  "low" : 4.41,
+  "high" : 4.412,
+  "close" : 4.41,
+  "adjClose" : 4.41,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634162400000,
+  "open" : 4.465,
+  "low" : 4.464,
+  "high" : 4.465,
+  "close" : 4.465,
+  "adjClose" : 4.465,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634248800000,
+  "open" : 4.45,
+  "low" : 4.45,
+  "high" : 4.45,
+  "close" : 4.45,
+  "adjClose" : 4.45,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634508000000,
+  "open" : 4.33,
+  "low" : 4.328,
+  "high" : 4.33,
+  "close" : 4.33,
+  "adjClose" : 4.33,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634594400000,
+  "open" : 4.325,
+  "low" : 4.324,
+  "high" : 4.325,
+  "close" : 4.325,
+  "adjClose" : 4.325,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634680800000,
+  "open" : 4.315,
+  "low" : 4.314,
+  "high" : 4.315,
+  "close" : 4.315,
+  "adjClose" : 4.315,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634767200000,
+  "open" : 4.37,
+  "low" : 4.368,
+  "high" : 4.37,
+  "close" : 4.37,
+  "adjClose" : 4.37,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1634853600000,
+  "open" : 4.385,
+  "low" : 4.333,
+  "high" : 4.385,
+  "close" : 4.335,
+  "adjClose" : 4.335,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635112800000,
+  "open" : 4.485,
+  "low" : 4.485,
+  "high" : 4.485,
+  "close" : 4.485,
+  "adjClose" : 4.485,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635199200000,
+  "open" : 4.49,
+  "low" : 4.488,
+  "high" : 4.49,
+  "close" : 4.49,
+  "adjClose" : 4.49,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635285600000,
+  "open" : 4.52,
+  "low" : 4.52,
+  "high" : 4.52,
+  "close" : 4.52,
+  "adjClose" : 4.52,
+  "volume" : 5,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635372000000,
+  "open" : 4.435,
+  "low" : 4.435,
+  "high" : 4.46,
+  "close" : 4.46,
+  "adjClose" : 4.46,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635458400000,
+  "open" : 4.43,
+  "low" : 4.395,
+  "high" : 4.43,
+  "close" : 4.395,
+  "adjClose" : 4.395,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635721200000,
+  "open" : 4.245,
+  "low" : 4.245,
+  "high" : 4.245,
+  "close" : 4.245,
+  "adjClose" : 4.245,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635807600000,
+  "open" : 4.245,
+  "low" : 4.245,
+  "high" : 4.375,
+  "close" : 4.375,
+  "adjClose" : 4.375,
+  "volume" : 16,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635894000000,
+  "open" : 4.365,
+  "low" : 4.365,
+  "high" : 4.377,
+  "close" : 4.375,
+  "adjClose" : 4.375,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1635980400000,
+  "open" : 4.425,
+  "low" : 4.424,
+  "high" : 4.425,
+  "close" : 4.425,
+  "adjClose" : 4.425,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1636066800000,
+  "open" : 4.41,
+  "low" : 4.395,
+  "high" : 4.41,
+  "close" : 4.395,
+  "adjClose" : 4.395,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "QGF23.NYM",
+  "date" : 1641855600000,
+  "open" : 4.28,
+  "low" : 4.28,
+  "high" : 4.375,
+  "close" : 4.375,
+  "adjClose" : 4.375,
+  "volume" : 26,
+  "invalid" : false
+} ],
+"averageTrueRange":0.061962264150943296,
+"stockAnalysis":{
+  "averageTrueRange" : 0.061962264150943296,
+  "longEntry" : 4.52,
+  "longExit" : 4.245,
+  "longStop" : 4.0,
+  "shortEntry" : 3.618,
+  "shortExit" : 4.52,
+  "shortStop" : 4.0,
+  "investAmount" : 2795.0,
+  "high" : 4.33,
+  "low" : 4.28,
+  "stockName" : "E-mini Natural Gas Futures,Jan-",
+  "currentPrice" : 4.33
+}}

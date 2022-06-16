@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "XOM",
+  "date" : 1629756000000,
+  "open" : 55.290001,
+  "low" : 55.009998,
+  "high" : 55.849998,
+  "close" : 55.360001,
+  "adjClose" : 55.360001,
+  "volume" : 17915600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1629842400000,
+  "open" : 55.240002,
+  "low" : 54.869999,
+  "high" : 55.77,
+  "close" : 55.459999,
+  "adjClose" : 55.459999,
+  "volume" : 13270300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1629928800000,
+  "open" : 55.200001,
+  "low" : 54.630001,
+  "high" : 55.540001,
+  "close" : 54.709999,
+  "adjClose" : 54.709999,
+  "volume" : 11842600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630015200000,
+  "open" : 55.400002,
+  "low" : 55.400002,
+  "high" : 56.209999,
+  "close" : 55.77,
+  "adjClose" : 55.77,
+  "volume" : 15817900,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630274400000,
+  "open" : 56.240002,
+  "low" : 55.119999,
+  "high" : 56.34,
+  "close" : 55.16,
+  "adjClose" : 55.16,
+  "volume" : 14086100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630360800000,
+  "open" : 54.93,
+  "low" : 54.459999,
+  "high" : 55.310001,
+  "close" : 54.52,
+  "adjClose" : 54.52,
+  "volume" : 27104100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630447200000,
+  "open" : 54.490002,
+  "low" : 53.599998,
+  "high" : 54.759998,
+  "close" : 53.77,
+  "adjClose" : 53.77,
+  "volume" : 21644100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630533600000,
+  "open" : 54.290001,
+  "low" : 54.27,
+  "high" : 55.639999,
+  "close" : 55.080002,
+  "adjClose" : 55.080002,
+  "volume" : 23293300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630620000000,
+  "open" : 55.119999,
+  "low" : 54.599998,
+  "high" : 55.32,
+  "close" : 54.869999,
+  "adjClose" : 54.869999,
+  "volume" : 13840000,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1630965600000,
+  "open" : 54.669998,
+  "low" : 54.470001,
+  "high" : 55.27,
+  "close" : 54.549999,
+  "adjClose" : 54.549999,
+  "volume" : 14354400,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631052000000,
+  "open" : 54.790001,
+  "low" : 54.009998,
+  "high" : 55.18,
+  "close" : 54.049999,
+  "adjClose" : 54.049999,
+  "volume" : 18756700,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631138400000,
+  "open" : 53.619999,
+  "low" : 53.299999,
+  "high" : 55.0,
+  "close" : 54.09,
+  "adjClose" : 54.09,
+  "volume" : 19110800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631224800000,
+  "open" : 55.189999,
+  "low" : 53.950001,
+  "high" : 55.23,
+  "close" : 53.98,
+  "adjClose" : 53.98,
+  "volume" : 15116400,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631484000000,
+  "open" : 54.650002,
+  "low" : 54.619999,
+  "high" : 55.93,
+  "close" : 55.369999,
+  "adjClose" : 55.369999,
+  "volume" : 22052300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631570400000,
+  "open" : 55.689999,
+  "low" : 54.41,
+  "high" : 55.77,
+  "close" : 54.580002,
+  "adjClose" : 54.580002,
+  "volume" : 19940300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631656800000,
+  "open" : 55.369999,
+  "low" : 55.310001,
+  "high" : 56.529999,
+  "close" : 56.419998,
+  "adjClose" : 56.419998,
+  "volume" : 23240900,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631743200000,
+  "open" : 56.459999,
+  "low" : 55.5,
+  "high" : 56.459999,
+  "close" : 55.82,
+  "adjClose" : 55.82,
+  "volume" : 17907200,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1631829600000,
+  "open" : 55.34,
+  "low" : 55.099998,
+  "high" : 56.75,
+  "close" : 55.16,
+  "adjClose" : 55.16,
+  "volume" : 30000400,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632088800000,
+  "open" : 53.779999,
+  "low" : 52.959999,
+  "high" : 54.169998,
+  "close" : 53.689999,
+  "adjClose" : 53.689999,
+  "volume" : 27555100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632175200000,
+  "open" : 54.369999,
+  "low" : 53.25,
+  "high" : 54.509998,
+  "close" : 53.639999,
+  "adjClose" : 53.639999,
+  "volume" : 19696800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632261600000,
+  "open" : 54.43,
+  "low" : 54.369999,
+  "high" : 55.91,
+  "close" : 55.209999,
+  "adjClose" : 55.209999,
+  "volume" : 25690600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632348000000,
+  "open" : 55.419998,
+  "low" : 55.279999,
+  "high" : 57.240002,
+  "close" : 57.080002,
+  "adjClose" : 57.080002,
+  "volume" : 23069400,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632434400000,
+  "open" : 56.700001,
+  "low" : 56.68,
+  "high" : 57.82,
+  "close" : 57.59,
+  "adjClose" : 57.59,
+  "volume" : 22328600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632693600000,
+  "open" : 58.849998,
+  "low" : 58.82,
+  "high" : 59.799999,
+  "close" : 59.299999,
+  "adjClose" : 59.299999,
+  "volume" : 32972200,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632780000000,
+  "open" : 59.900002,
+  "low" : 59.509998,
+  "high" : 60.48,
+  "close" : 59.919998,
+  "adjClose" : 59.919998,
+  "volume" : 37619300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632866400000,
+  "open" : 59.84,
+  "low" : 59.049999,
+  "high" : 60.189999,
+  "close" : 59.880001,
+  "adjClose" : 59.880001,
+  "volume" : 23422800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1632952800000,
+  "open" : 60.119999,
+  "low" : 58.810001,
+  "high" : 60.169998,
+  "close" : 58.82,
+  "adjClose" : 58.82,
+  "volume" : 31274800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633039200000,
+  "open" : 59.41,
+  "low" : 59.41,
+  "high" : 60.990002,
+  "close" : 60.93,
+  "adjClose" : 60.93,
+  "volume" : 24407300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633298400000,
+  "open" : 61.32,
+  "low" : 60.950001,
+  "high" : 62.07,
+  "close" : 61.720001,
+  "adjClose" : 61.720001,
+  "volume" : 33946700,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633384800000,
+  "open" : 62.52,
+  "low" : 61.02,
+  "high" : 62.700001,
+  "close" : 61.619999,
+  "adjClose" : 61.619999,
+  "volume" : 29641600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633471200000,
+  "open" : 60.470001,
+  "low" : 59.75,
+  "high" : 61.119999,
+  "close" : 60.490002,
+  "adjClose" : 60.490002,
+  "volume" : 25284900,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633557600000,
+  "open" : 60.610001,
+  "low" : 60.139999,
+  "high" : 61.080002,
+  "close" : 60.66,
+  "adjClose" : 60.66,
+  "volume" : 19513600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633644000000,
+  "open" : 61.25,
+  "low" : 61.25,
+  "high" : 62.419998,
+  "close" : 62.18,
+  "adjClose" : 62.18,
+  "volume" : 22179100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633903200000,
+  "open" : 63.029999,
+  "low" : 61.5,
+  "high" : 63.060001,
+  "close" : 61.560001,
+  "adjClose" : 61.560001,
+  "volume" : 22121500,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1633989600000,
+  "open" : 61.57,
+  "low" : 60.849998,
+  "high" : 61.98,
+  "close" : 61.240002,
+  "adjClose" : 61.240002,
+  "volume" : 20198600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634076000000,
+  "open" : 60.779999,
+  "low" : 60.209999,
+  "high" : 61.389999,
+  "close" : 61.07,
+  "adjClose" : 61.07,
+  "volume" : 14991700,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634162400000,
+  "open" : 61.709999,
+  "low" : 61.169998,
+  "high" : 62.220001,
+  "close" : 62.0,
+  "adjClose" : 62.0,
+  "volume" : 18594500,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634248800000,
+  "open" : 62.73,
+  "low" : 62.439999,
+  "high" : 63.07,
+  "close" : 62.59,
+  "adjClose" : 62.59,
+  "volume" : 16087500,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634508000000,
+  "open" : 63.09,
+  "low" : 62.27,
+  "high" : 63.139999,
+  "close" : 62.560001,
+  "adjClose" : 62.560001,
+  "volume" : 18282800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634594400000,
+  "open" : 62.869999,
+  "low" : 62.669998,
+  "high" : 63.610001,
+  "close" : 63.5,
+  "adjClose" : 63.5,
+  "volume" : 18933200,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634680800000,
+  "open" : 62.889999,
+  "low" : 62.720001,
+  "high" : 63.869999,
+  "close" : 63.849998,
+  "adjClose" : 63.849998,
+  "volume" : 14305200,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634767200000,
+  "open" : 63.470001,
+  "low" : 62.349998,
+  "high" : 63.639999,
+  "close" : 62.689999,
+  "adjClose" : 62.689999,
+  "volume" : 16564600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1634853600000,
+  "open" : 62.77,
+  "low" : 62.349998,
+  "high" : 63.220001,
+  "close" : 63.119999,
+  "adjClose" : 63.119999,
+  "volume" : 14266800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635112800000,
+  "open" : 63.720001,
+  "low" : 63.580002,
+  "high" : 64.419998,
+  "close" : 64.349998,
+  "adjClose" : 64.349998,
+  "volume" : 17939800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635199200000,
+  "open" : 64.489998,
+  "low" : 64.360001,
+  "high" : 65.940002,
+  "close" : 65.839996,
+  "adjClose" : 65.839996,
+  "volume" : 25585100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635285600000,
+  "open" : 65.160004,
+  "low" : 63.98,
+  "high" : 65.25,
+  "close" : 64.129997,
+  "adjClose" : 64.129997,
+  "volume" : 21764500,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635372000000,
+  "open" : 63.82,
+  "low" : 63.630001,
+  "high" : 64.470001,
+  "close" : 64.309998,
+  "adjClose" : 64.309998,
+  "volume" : 16626400,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635458400000,
+  "open" : 65.050003,
+  "low" : 64.330002,
+  "high" : 65.360001,
+  "close" : 64.470001,
+  "adjClose" : 64.470001,
+  "volume" : 23963300,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635721200000,
+  "open" : 65.07,
+  "low" : 65.019997,
+  "high" : 66.080002,
+  "close" : 65.629997,
+  "adjClose" : 65.629997,
+  "volume" : 19656400,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635807600000,
+  "open" : 65.029999,
+  "low" : 64.660004,
+  "high" : 65.449997,
+  "close" : 64.82,
+  "adjClose" : 64.82,
+  "volume" : 16300000,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635894000000,
+  "open" : 64.040001,
+  "low" : 63.66,
+  "high" : 64.449997,
+  "close" : 63.93,
+  "adjClose" : 63.93,
+  "volume" : 17372800,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1635980400000,
+  "open" : 64.68,
+  "low" : 63.830002,
+  "high" : 64.889999,
+  "close" : 64.410004,
+  "adjClose" : 64.410004,
+  "volume" : 17720100,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1636066800000,
+  "open" : 65.050003,
+  "low" : 64.559998,
+  "high" : 65.330002,
+  "close" : 65.019997,
+  "adjClose" : 65.019997,
+  "volume" : 18554600,
+  "invalid" : false
+}, {
+  "symbol" : "XOM",
+  "date" : 1641855600000,
+  "open" : 68.889999,
+  "low" : 68.580002,
+  "high" : 71.400002,
+  "close" : 71.349998,
+  "adjClose" : 71.349998,
+  "volume" : 32926200,
+  "invalid" : false
+} ],
+"averageTrueRange":1.4447171132075465,
+"stockAnalysis":{
+  "averageTrueRange" : 1.4447171132075465,
+  "longEntry" : 71.400002,
+  "longExit" : 60.209999,
+  "longStop" : 68.0,
+  "shortEntry" : 52.959999,
+  "shortExit" : 71.400002,
+  "shortStop" : 74.0,
+  "investAmount" : 1965.0,
+  "high" : 71.81,
+  "low" : 70.64,
+  "stockName" : "Exxon Mobil Corporation",
+  "currentPrice" : 70.955
+}}

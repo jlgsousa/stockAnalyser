@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "CTH23.NYB",
+  "date" : 1630965600000,
+  "open" : 83.099998,
+  "low" : 83.099998,
+  "high" : 83.099998,
+  "close" : 83.099998,
+  "adjClose" : 83.099998,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631052000000,
+  "open" : 82.910004,
+  "low" : 82.910004,
+  "high" : 82.910004,
+  "close" : 82.910004,
+  "adjClose" : 82.910004,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631138400000,
+  "open" : 82.82,
+  "low" : 82.82,
+  "high" : 82.82,
+  "close" : 82.260002,
+  "adjClose" : 82.260002,
+  "volume" : 15,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631224800000,
+  "open" : 82.589996,
+  "low" : 82.589996,
+  "high" : 82.589996,
+  "close" : 82.589996,
+  "adjClose" : 82.589996,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631484000000,
+  "open" : 82.260002,
+  "low" : 82.260002,
+  "high" : 82.260002,
+  "close" : 82.260002,
+  "adjClose" : 82.260002,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631570400000,
+  "open" : 83.07,
+  "low" : 83.07,
+  "high" : 83.07,
+  "close" : 83.07,
+  "adjClose" : 83.07,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631656800000,
+  "open" : 83.010002,
+  "low" : 83.010002,
+  "high" : 83.010002,
+  "close" : 83.010002,
+  "adjClose" : 83.010002,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631743200000,
+  "open" : 82.25,
+  "low" : 82.25,
+  "high" : 82.25,
+  "close" : 82.25,
+  "adjClose" : 82.25,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1631829600000,
+  "open" : 82.129997,
+  "low" : 82.129997,
+  "high" : 82.129997,
+  "close" : 82.129997,
+  "adjClose" : 82.129997,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632088800000,
+  "open" : 80.269997,
+  "low" : 80.269997,
+  "high" : 80.269997,
+  "close" : 80.269997,
+  "adjClose" : 80.269997,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632175200000,
+  "open" : 80.400002,
+  "low" : 80.199997,
+  "high" : 80.400002,
+  "close" : 80.709999,
+  "adjClose" : 80.709999,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632261600000,
+  "open" : 81.0,
+  "low" : 81.0,
+  "high" : 81.0,
+  "close" : 81.0,
+  "adjClose" : 81.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632348000000,
+  "open" : 81.889999,
+  "low" : 81.889999,
+  "high" : 81.889999,
+  "close" : 81.889999,
+  "adjClose" : 81.889999,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632434400000,
+  "open" : 83.5,
+  "low" : 83.5,
+  "high" : 83.5,
+  "close" : 83.5,
+  "adjClose" : 83.5,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632693600000,
+  "open" : 84.260002,
+  "low" : 84.260002,
+  "high" : 84.260002,
+  "close" : 84.260002,
+  "adjClose" : 84.260002,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632780000000,
+  "open" : 84.989998,
+  "low" : 84.93,
+  "high" : 85.089996,
+  "close" : 85.230003,
+  "adjClose" : 85.230003,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632866400000,
+  "open" : 85.339996,
+  "low" : 85.339996,
+  "high" : 85.339996,
+  "close" : 85.339996,
+  "adjClose" : 85.339996,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1632952800000,
+  "open" : 85.949997,
+  "low" : 85.269997,
+  "high" : 85.949997,
+  "close" : 85.650002,
+  "adjClose" : 85.650002,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633039200000,
+  "open" : 84.790001,
+  "low" : 84.790001,
+  "high" : 84.790001,
+  "close" : 84.790001,
+  "adjClose" : 84.790001,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633298400000,
+  "open" : 85.949997,
+  "low" : 85.349998,
+  "high" : 86.029999,
+  "close" : 85.580002,
+  "adjClose" : 85.580002,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633384800000,
+  "open" : 85.709999,
+  "low" : 85.0,
+  "high" : 86.0,
+  "close" : 86.93,
+  "adjClose" : 86.93,
+  "volume" : 12,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633471200000,
+  "open" : 87.699997,
+  "low" : 87.699997,
+  "high" : 87.699997,
+  "close" : 87.699997,
+  "adjClose" : 87.699997,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633557600000,
+  "open" : 87.620003,
+  "low" : 87.620003,
+  "high" : 88.0,
+  "close" : 88.419998,
+  "adjClose" : 88.419998,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633644000000,
+  "open" : 89.300003,
+  "low" : 89.300003,
+  "high" : 89.300003,
+  "close" : 88.290001,
+  "adjClose" : 88.290001,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633903200000,
+  "open" : 89.0,
+  "low" : 88.599998,
+  "high" : 90.0,
+  "close" : 89.309998,
+  "adjClose" : 89.309998,
+  "volume" : 22,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1633989600000,
+  "open" : 88.739998,
+  "low" : 88.739998,
+  "high" : 88.739998,
+  "close" : 88.739998,
+  "adjClose" : 88.739998,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634076000000,
+  "open" : 88.059998,
+  "low" : 88.059998,
+  "high" : 88.059998,
+  "close" : 88.059998,
+  "adjClose" : 88.059998,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634162400000,
+  "open" : 88.900002,
+  "low" : 88.900002,
+  "high" : 89.089996,
+  "close" : 88.879997,
+  "adjClose" : 88.879997,
+  "volume" : 34,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634248800000,
+  "open" : 89.300003,
+  "low" : 89.300003,
+  "high" : 90.349998,
+  "close" : 89.300003,
+  "adjClose" : 89.300003,
+  "volume" : 34,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634508000000,
+  "open" : 89.239998,
+  "low" : 89.239998,
+  "high" : 89.239998,
+  "close" : 89.239998,
+  "adjClose" : 89.239998,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634594400000,
+  "open" : 89.769997,
+  "low" : 89.769997,
+  "high" : 89.769997,
+  "close" : 89.769997,
+  "adjClose" : 89.769997,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634680800000,
+  "open" : 89.449997,
+  "low" : 89.449997,
+  "high" : 89.449997,
+  "close" : 89.449997,
+  "adjClose" : 89.449997,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634767200000,
+  "open" : 90.0,
+  "low" : 90.0,
+  "high" : 90.0,
+  "close" : 88.019997,
+  "adjClose" : 88.019997,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1634853600000,
+  "open" : 88.0,
+  "low" : 88.0,
+  "high" : 88.379997,
+  "close" : 88.169998,
+  "adjClose" : 88.169998,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635112800000,
+  "open" : 88.25,
+  "low" : 88.239998,
+  "high" : 88.260002,
+  "close" : 88.510002,
+  "adjClose" : 88.510002,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635199200000,
+  "open" : 88.529999,
+  "low" : 88.529999,
+  "high" : 88.529999,
+  "close" : 88.529999,
+  "adjClose" : 88.529999,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635285600000,
+  "open" : 88.639999,
+  "low" : 88.519997,
+  "high" : 88.830002,
+  "close" : 88.82,
+  "adjClose" : 88.82,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635372000000,
+  "open" : 89.489998,
+  "low" : 88.739998,
+  "high" : 89.489998,
+  "close" : 89.419998,
+  "adjClose" : 89.419998,
+  "volume" : 12,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635458400000,
+  "open" : 89.32,
+  "low" : 88.93,
+  "high" : 89.32,
+  "close" : 88.900002,
+  "adjClose" : 88.900002,
+  "volume" : 12,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635721200000,
+  "open" : 89.199997,
+  "low" : 89.0,
+  "high" : 89.199997,
+  "close" : 89.68,
+  "adjClose" : 89.68,
+  "volume" : 39,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635807600000,
+  "open" : 89.260002,
+  "low" : 89.260002,
+  "high" : 89.260002,
+  "close" : 89.260002,
+  "adjClose" : 89.260002,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635894000000,
+  "open" : 89.669998,
+  "low" : 88.699997,
+  "high" : 89.669998,
+  "close" : 89.349998,
+  "adjClose" : 89.349998,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1635980400000,
+  "open" : 88.809998,
+  "low" : 88.809998,
+  "high" : 88.809998,
+  "close" : 88.809998,
+  "adjClose" : 88.809998,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1636066800000,
+  "open" : 88.5,
+  "low" : 88.5,
+  "high" : 88.5,
+  "close" : 88.5,
+  "adjClose" : 88.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1636326000000,
+  "open" : 88.5,
+  "low" : 88.5,
+  "high" : 88.5,
+  "close" : 88.5,
+  "adjClose" : 88.5,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1636066800000,
+  "open" : 88.5,
+  "low" : 88.5,
+  "high" : 88.5,
+  "close" : 88.5,
+  "adjClose" : 88.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1636326000000,
+  "open" : 88.5,
+  "low" : 88.5,
+  "high" : 88.5,
+  "close" : 88.5,
+  "adjClose" : 88.5,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1636066800000,
+  "open" : 88.5,
+  "low" : 88.5,
+  "high" : 88.5,
+  "close" : 88.5,
+  "adjClose" : 88.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1636326000000,
+  "open" : 88.5,
+  "low" : 88.5,
+  "high" : 88.5,
+  "close" : 88.5,
+  "adjClose" : 88.5,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1641855600000,
+  "open" : 91.550003,
+  "low" : 91.43,
+  "high" : 91.779999,
+  "close" : 91.809998,
+  "adjClose" : 91.809998,
+  "volume" : 142,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1641942000000,
+  "open" : 91.5,
+  "low" : 91.489998,
+  "high" : 92.0,
+  "close" : 91.610001,
+  "adjClose" : 91.610001,
+  "volume" : 445,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1641855600000,
+  "open" : 91.550003,
+  "low" : 91.43,
+  "high" : 91.779999,
+  "close" : 91.809998,
+  "adjClose" : 91.809998,
+  "volume" : 142,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1641942000000,
+  "open" : 91.5,
+  "low" : 91.489998,
+  "high" : 92.0,
+  "close" : 91.610001,
+  "adjClose" : 91.610001,
+  "volume" : 445,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1641855600000,
+  "open" : 91.550003,
+  "low" : 91.430000,
+  "high" : 91.779999,
+  "close" : 91.809998,
+  "adjClose" : 91.809998,
+  "volume" : 142,
+  "invalid" : false
+}, {
+  "symbol" : "CTH23.NYB",
+  "date" : 1641942000000,
+  "open" : 91.500000,
+  "low" : 91.489998,
+  "high" : 92.000000,
+  "close" : 91.610001,
+  "adjClose" : 91.610001,
+  "volume" : 445,
+  "invalid" : false
+} ],
+"averageTrueRange":0.5937033518518515,
+"stockAnalysis":{
+  "averageTrueRange" : 0.5937033518518515,
+  "longEntry" : 92.0,
+  "longExit" : 88.5,
+  "longStop" : 90.0,
+  "shortEntry" : 80.199997,
+  "shortExit" : 92.0,
+  "shortStop" : 93.0,
+  "investAmount" : 6172.0,
+  "high" : 92.0,
+  "low" : 91.49,
+  "stockName" : "Cotton Mar 23",
+  "currentPrice" : 91.61
+}}

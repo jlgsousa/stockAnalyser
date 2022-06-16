@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "AMD",
+  "date" : 1629756000000,
+  "open" : 109.449997,
+  "low" : 107.279999,
+  "high" : 109.610001,
+  "close" : 107.650002,
+  "adjClose" : 107.650002,
+  "volume" : 51239300,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1629842400000,
+  "open" : 108.129997,
+  "low" : 107.449997,
+  "high" : 109.910004,
+  "close" : 108.300003,
+  "adjClose" : 108.300003,
+  "volume" : 45485500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1629928800000,
+  "open" : 108.57,
+  "low" : 106.839996,
+  "high" : 109.230003,
+  "close" : 107.269997,
+  "adjClose" : 107.269997,
+  "volume" : 51442500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630015200000,
+  "open" : 108.010002,
+  "low" : 107.800003,
+  "high" : 111.779999,
+  "close" : 111.400002,
+  "adjClose" : 111.400002,
+  "volume" : 60970800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630274400000,
+  "open" : 112.610001,
+  "low" : 111.260002,
+  "high" : 114.489998,
+  "close" : 111.32,
+  "adjClose" : 111.32,
+  "volume" : 56130500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630360800000,
+  "open" : 111.260002,
+  "low" : 109.029999,
+  "high" : 111.260002,
+  "close" : 110.720001,
+  "adjClose" : 110.720001,
+  "volume" : 49339000,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630447200000,
+  "open" : 111.300003,
+  "low" : 109.849998,
+  "high" : 111.849998,
+  "close" : 109.989998,
+  "adjClose" : 109.989998,
+  "volume" : 38579600,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630533600000,
+  "open" : 110.32,
+  "low" : 108.769997,
+  "high" : 110.879997,
+  "close" : 109.199997,
+  "adjClose" : 109.199997,
+  "volume" : 40090500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630620000000,
+  "open" : 108.849998,
+  "low" : 108.5,
+  "high" : 111.169998,
+  "close" : 109.919998,
+  "adjClose" : 109.919998,
+  "volume" : 42605800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1630965600000,
+  "open" : 109.959999,
+  "low" : 108.660004,
+  "high" : 110.580002,
+  "close" : 109.150002,
+  "adjClose" : 109.150002,
+  "volume" : 28815200,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631052000000,
+  "open" : 108.879997,
+  "low" : 105.519997,
+  "high" : 109.300003,
+  "close" : 106.169998,
+  "adjClose" : 106.169998,
+  "volume" : 43067900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631138400000,
+  "open" : 106.559998,
+  "low" : 105.839996,
+  "high" : 107.300003,
+  "close" : 106.150002,
+  "adjClose" : 106.150002,
+  "volume" : 31857900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631224800000,
+  "open" : 106.989998,
+  "low" : 104.980003,
+  "high" : 106.989998,
+  "close" : 105.199997,
+  "adjClose" : 105.199997,
+  "volume" : 32559400,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631484000000,
+  "open" : 105.260002,
+  "low" : 102.629997,
+  "high" : 105.279999,
+  "close" : 104.800003,
+  "adjClose" : 104.800003,
+  "volume" : 37767800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631570400000,
+  "open" : 105.519997,
+  "low" : 104.419998,
+  "high" : 106.82,
+  "close" : 105.730003,
+  "adjClose" : 105.730003,
+  "volume" : 40629500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631656800000,
+  "open" : 106.0,
+  "low" : 104.029999,
+  "high" : 106.32,
+  "close" : 105.599998,
+  "adjClose" : 105.599998,
+  "volume" : 37998900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631743200000,
+  "open" : 104.919998,
+  "low" : 103.760002,
+  "high" : 106.75,
+  "close" : 106.220001,
+  "adjClose" : 106.220001,
+  "volume" : 38150300,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1631829600000,
+  "open" : 105.559998,
+  "low" : 103.709999,
+  "high" : 105.980003,
+  "close" : 103.879997,
+  "adjClose" : 103.879997,
+  "volume" : 44528300,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632088800000,
+  "open" : 101.580002,
+  "low" : 99.510002,
+  "high" : 102.510002,
+  "close" : 101.550003,
+  "adjClose" : 101.550003,
+  "volume" : 45228400,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632175200000,
+  "open" : 102.150002,
+  "low" : 101.18,
+  "high" : 103.43,
+  "close" : 102.82,
+  "adjClose" : 102.82,
+  "volume" : 35481500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632261600000,
+  "open" : 102.82,
+  "low" : 102.209999,
+  "high" : 104.559998,
+  "close" : 104.379997,
+  "adjClose" : 104.379997,
+  "volume" : 34126300,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632348000000,
+  "open" : 104.889999,
+  "low" : 103.889999,
+  "high" : 106.860001,
+  "close" : 106.150002,
+  "adjClose" : 106.150002,
+  "volume" : 32816700,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632434400000,
+  "open" : 105.190002,
+  "low" : 104.68,
+  "high" : 106.050003,
+  "close" : 105.800003,
+  "adjClose" : 105.800003,
+  "volume" : 26482600,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632693600000,
+  "open" : 105.07,
+  "low" : 103.440002,
+  "high" : 108.440002,
+  "close" : 108.160004,
+  "adjClose" : 108.160004,
+  "volume" : 51944300,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632780000000,
+  "open" : 106.839996,
+  "low" : 101.419998,
+  "high" : 107.650002,
+  "close" : 101.519997,
+  "adjClose" : 101.519997,
+  "volume" : 74469000,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632866400000,
+  "open" : 102.300003,
+  "low" : 99.809998,
+  "high" : 102.660004,
+  "close" : 100.349998,
+  "adjClose" : 100.349998,
+  "volume" : 52224700,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1632952800000,
+  "open" : 102.080002,
+  "low" : 101.989998,
+  "high" : 104.440002,
+  "close" : 102.900002,
+  "adjClose" : 102.900002,
+  "volume" : 57588500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633039200000,
+  "open" : 102.599998,
+  "low" : 100.639999,
+  "high" : 103.0,
+  "close" : 102.449997,
+  "adjClose" : 102.449997,
+  "volume" : 41491600,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633298400000,
+  "open" : 101.739998,
+  "low" : 99.82,
+  "high" : 101.849998,
+  "close" : 100.339996,
+  "adjClose" : 100.339996,
+  "volume" : 41967100,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633384800000,
+  "open" : 100.919998,
+  "low" : 100.610001,
+  "high" : 102.870003,
+  "close" : 101.809998,
+  "adjClose" : 101.809998,
+  "volume" : 31455200,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633471200000,
+  "open" : 100.449997,
+  "low" : 100.349998,
+  "high" : 103.720001,
+  "close" : 103.639999,
+  "adjClose" : 103.639999,
+  "volume" : 39071700,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633557600000,
+  "open" : 104.599998,
+  "low" : 104.459999,
+  "high" : 107.949997,
+  "close" : 106.449997,
+  "adjClose" : 106.449997,
+  "volume" : 41543100,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633644000000,
+  "open" : 106.550003,
+  "low" : 104.889999,
+  "high" : 107.279999,
+  "close" : 105.059998,
+  "adjClose" : 105.059998,
+  "volume" : 30584900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633903200000,
+  "open" : 104.620003,
+  "low" : 104.019997,
+  "high" : 107.199997,
+  "close" : 104.68,
+  "adjClose" : 104.68,
+  "volume" : 31284400,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1633989600000,
+  "open" : 105.169998,
+  "low" : 104.339996,
+  "high" : 106.040001,
+  "close" : 105.040001,
+  "adjClose" : 105.040001,
+  "volume" : 34039900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634076000000,
+  "open" : 106.279999,
+  "low" : 106.25,
+  "high" : 109.879997,
+  "close" : 109.160004,
+  "adjClose" : 109.160004,
+  "volume" : 55631900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634162400000,
+  "open" : 110.5,
+  "low" : 109.629997,
+  "high" : 112.220001,
+  "close" : 111.989998,
+  "adjClose" : 111.989998,
+  "volume" : 46900200,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634248800000,
+  "open" : 112.510002,
+  "low" : 111.110001,
+  "high" : 112.839996,
+  "close" : 112.120003,
+  "adjClose" : 112.120003,
+  "volume" : 34177700,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634508000000,
+  "open" : 111.900002,
+  "low" : 111.370003,
+  "high" : 116.879997,
+  "close" : 116.43,
+  "adjClose" : 116.43,
+  "volume" : 47537800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634594400000,
+  "open" : 116.160004,
+  "low" : 114.470001,
+  "high" : 117.169998,
+  "close" : 116.330002,
+  "adjClose" : 116.330002,
+  "volume" : 39593900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634680800000,
+  "open" : 116.290001,
+  "low" : 115.419998,
+  "high" : 118.300003,
+  "close" : 116.389999,
+  "adjClose" : 116.389999,
+  "volume" : 34244800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634767200000,
+  "open" : 116.5,
+  "low" : 116.260002,
+  "high" : 119.68,
+  "close" : 119.330002,
+  "adjClose" : 119.330002,
+  "volume" : 34794900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1634853600000,
+  "open" : 120.830002,
+  "low" : 118.370003,
+  "high" : 121.559998,
+  "close" : 119.82,
+  "adjClose" : 119.82,
+  "volume" : 38992700,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635112800000,
+  "open" : 120.519997,
+  "low" : 118.599998,
+  "high" : 123.459999,
+  "close" : 122.360001,
+  "adjClose" : 122.360001,
+  "volume" : 47834100,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635199200000,
+  "open" : 122.989998,
+  "low" : 122.580002,
+  "high" : 127.199997,
+  "close" : 122.93,
+  "adjClose" : 122.93,
+  "volume" : 59458900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635285600000,
+  "open" : 121.629997,
+  "low" : 121.050003,
+  "high" : 128.080002,
+  "close" : 122.279999,
+  "adjClose" : 122.279999,
+  "volume" : 98245300,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635372000000,
+  "open" : 122.860001,
+  "low" : 120.260002,
+  "high" : 123.5,
+  "close" : 121.160004,
+  "adjClose" : 121.160004,
+  "volume" : 58002500,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635458400000,
+  "open" : 120.949997,
+  "low" : 119.879997,
+  "high" : 122.57,
+  "close" : 120.230003,
+  "adjClose" : 120.230003,
+  "volume" : 43289800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635721200000,
+  "open" : 119.449997,
+  "low" : 118.129997,
+  "high" : 125.669998,
+  "close" : 125.230003,
+  "adjClose" : 125.230003,
+  "volume" : 54559800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635807600000,
+  "open" : 124.980003,
+  "low" : 124.199997,
+  "high" : 128.460007,
+  "close" : 127.629997,
+  "adjClose" : 127.629997,
+  "volume" : 53491900,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635894000000,
+  "open" : 127.75,
+  "low" : 126.790001,
+  "high" : 130.600006,
+  "close" : 130.529999,
+  "adjClose" : 130.529999,
+  "volume" : 59537800,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1635980400000,
+  "open" : 132.009995,
+  "low" : 130.770004,
+  "high" : 139.0,
+  "close" : 137.5,
+  "adjClose" : 137.5,
+  "volume" : 84825200,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1636066800000,
+  "open" : 139.190002,
+  "low" : 134.419998,
+  "high" : 141.220001,
+  "close" : 136.339996,
+  "adjClose" : 136.339996,
+  "volume" : 64878000,
+  "invalid" : false
+}, {
+  "symbol" : "AMD",
+  "date" : 1641855600000,
+  "open" : 133.449997,
+  "low" : 131.589996,
+  "high" : 138.990005,
+  "close" : 137.309998,
+  "adjClose" : 137.309998,
+  "volume" : 77082500,
+  "invalid" : false
+} ],
+"averageTrueRange":3.5188688679245277,
+"stockAnalysis":{
+  "averageTrueRange" : 3.5188688679245277,
+  "longEntry" : 141.220001,
+  "longExit" : 106.25,
+  "longStop" : 130.0,
+  "shortEntry" : 99.510002,
+  "shortExit" : 141.220001,
+  "shortStop" : 144.0,
+  "investAmount" : 1562.0,
+  "high" : 140.57,
+  "low" : 135.79,
+  "stockName" : "Advanced Micro Devices, Inc.",
+  "currentPrice" : 137.3899
+}}

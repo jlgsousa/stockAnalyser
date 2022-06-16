@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "GOOG",
+  "date" : 1629756000000,
+  "open" : 2830.870117,
+  "low" : 2827.070068,
+  "high" : 2860.149902,
+  "close" : 2847.969971,
+  "adjClose" : 2847.969971,
+  "volume" : 756300,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1629842400000,
+  "open" : 2857.659912,
+  "low" : 2848.790039,
+  "high" : 2866.26001,
+  "close" : 2859.0,
+  "adjClose" : 2859.0,
+  "volume" : 641900,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1629928800000,
+  "open" : 2852.370117,
+  "low" : 2841.830078,
+  "high" : 2862.696045,
+  "close" : 2842.459961,
+  "adjClose" : 2842.459961,
+  "volume" : 746100,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630015200000,
+  "open" : 2842.25,
+  "low" : 2840.399902,
+  "high" : 2900.219971,
+  "close" : 2891.01001,
+  "adjClose" : 2891.01001,
+  "volume" : 1228100,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630274400000,
+  "open" : 2894.090088,
+  "low" : 2892.0,
+  "high" : 2929.790039,
+  "close" : 2909.389893,
+  "adjClose" : 2909.389893,
+  "volume" : 845800,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630360800000,
+  "open" : 2917.689941,
+  "low" : 2900.0,
+  "high" : 2922.23999,
+  "close" : 2909.23999,
+  "adjClose" : 2909.23999,
+  "volume" : 1337800,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630447200000,
+  "open" : 2913.0,
+  "low" : 2912.290039,
+  "high" : 2936.409912,
+  "close" : 2916.840088,
+  "adjClose" : 2916.840088,
+  "volume" : 791200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630533600000,
+  "open" : 2918.98999,
+  "low" : 2882.129883,
+  "high" : 2926.5,
+  "close" : 2884.379883,
+  "adjClose" : 2884.379883,
+  "volume" : 1092200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630620000000,
+  "open" : 2882.919922,
+  "low" : 2870.100098,
+  "high" : 2907.540039,
+  "close" : 2895.5,
+  "adjClose" : 2895.5,
+  "volume" : 955200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1630965600000,
+  "open" : 2894.98999,
+  "low" : 2890.820068,
+  "high" : 2916.47998,
+  "close" : 2910.379883,
+  "adjClose" : 2910.379883,
+  "volume" : 758500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631052000000,
+  "open" : 2907.870117,
+  "low" : 2884.0,
+  "high" : 2911.02002,
+  "close" : 2897.669922,
+  "adjClose" : 2897.669922,
+  "volume" : 774300,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631138400000,
+  "open" : 2897.669922,
+  "low" : 2888.679932,
+  "high" : 2913.389893,
+  "close" : 2898.27002,
+  "adjClose" : 2898.27002,
+  "volume" : 739900,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631224800000,
+  "open" : 2908.870117,
+  "low" : 2834.830078,
+  "high" : 2920.379883,
+  "close" : 2838.419922,
+  "adjClose" : 2838.419922,
+  "volume" : 1643500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631484000000,
+  "open" : 2864.02002,
+  "low" : 2845.649902,
+  "high" : 2883.820068,
+  "close" : 2869.300049,
+  "adjClose" : 2869.300049,
+  "volume" : 1008800,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631570400000,
+  "open" : 2883.219971,
+  "low" : 2858.110107,
+  "high" : 2894.550049,
+  "close" : 2868.120117,
+  "adjClose" : 2868.120117,
+  "volume" : 945800,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631656800000,
+  "open" : 2875.179932,
+  "low" : 2845.120117,
+  "high" : 2911.629883,
+  "close" : 2904.120117,
+  "adjClose" : 2904.120117,
+  "volume" : 1032400,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631743200000,
+  "open" : 2902.419922,
+  "low" : 2868.326904,
+  "high" : 2904.0,
+  "close" : 2887.469971,
+  "adjClose" : 2887.469971,
+  "volume" : 1014600,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1631829600000,
+  "open" : 2875.969971,
+  "low" : 2821.22998,
+  "high" : 2884.98999,
+  "close" : 2829.27002,
+  "adjClose" : 2829.27002,
+  "volume" : 3002000,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632088800000,
+  "open" : 2780.003906,
+  "low" : 2741.060059,
+  "high" : 2787.25,
+  "close" : 2780.340088,
+  "adjClose" : 2780.340088,
+  "volume" : 1745900,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632175200000,
+  "open" : 2802.340088,
+  "low" : 2778.110107,
+  "high" : 2816.231934,
+  "close" : 2792.929932,
+  "adjClose" : 2792.929932,
+  "volume" : 906500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632261600000,
+  "open" : 2801.01001,
+  "low" : 2789.435059,
+  "high" : 2831.669922,
+  "close" : 2818.77002,
+  "adjClose" : 2818.77002,
+  "volume" : 1103400,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632348000000,
+  "open" : 2832.189941,
+  "low" : 2821.929932,
+  "high" : 2845.049072,
+  "close" : 2836.530029,
+  "adjClose" : 2836.530029,
+  "volume" : 863600,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632434400000,
+  "open" : 2818.919922,
+  "low" : 2817.01001,
+  "high" : 2858.070068,
+  "close" : 2852.659912,
+  "adjClose" : 2852.659912,
+  "volume" : 747500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632693600000,
+  "open" : 2831.709961,
+  "low" : 2810.0,
+  "high" : 2850.0,
+  "close" : 2830.02002,
+  "adjClose" : 2830.02002,
+  "volume" : 942200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632780000000,
+  "open" : 2781.77002,
+  "low" : 2714.0,
+  "high" : 2792.129883,
+  "close" : 2723.679932,
+  "adjClose" : 2723.679932,
+  "volume" : 2109500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632866400000,
+  "open" : 2742.194092,
+  "low" : 2685.0,
+  "high" : 2747.969971,
+  "close" : 2690.419922,
+  "adjClose" : 2690.419922,
+  "volume" : 1316900,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1632952800000,
+  "open" : 2686.5,
+  "low" : 2660.0,
+  "high" : 2711.800049,
+  "close" : 2665.310059,
+  "adjClose" : 2665.310059,
+  "volume" : 1764700,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633039200000,
+  "open" : 2671.090088,
+  "low" : 2667.550049,
+  "high" : 2741.419922,
+  "close" : 2729.25,
+  "adjClose" : 2729.25,
+  "volume" : 1419400,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633298400000,
+  "open" : 2713.98999,
+  "low" : 2623.330078,
+  "high" : 2714.0,
+  "close" : 2675.300049,
+  "adjClose" : 2675.300049,
+  "volume" : 1576500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633384800000,
+  "open" : 2680.0,
+  "low" : 2680.0,
+  "high" : 2747.23999,
+  "close" : 2723.540039,
+  "adjClose" : 2723.540039,
+  "volume" : 1206300,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633471200000,
+  "open" : 2692.51001,
+  "low" : 2689.72998,
+  "high" : 2757.040039,
+  "close" : 2747.080078,
+  "adjClose" : 2747.080078,
+  "volume" : 988200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633557600000,
+  "open" : 2777.26001,
+  "low" : 2771.26001,
+  "high" : 2803.089111,
+  "close" : 2783.709961,
+  "adjClose" : 2783.709961,
+  "volume" : 912500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633644000000,
+  "open" : 2798.120117,
+  "low" : 2788.586914,
+  "high" : 2806.340088,
+  "close" : 2801.120117,
+  "adjClose" : 2801.120117,
+  "volume" : 946200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633903200000,
+  "open" : 2796.0,
+  "low" : 2776.129883,
+  "high" : 2815.272949,
+  "close" : 2776.949951,
+  "adjClose" : 2776.949951,
+  "volume" : 829200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1633989600000,
+  "open" : 2792.75,
+  "low" : 2725.0,
+  "high" : 2793.899902,
+  "close" : 2734.26001,
+  "adjClose" : 2734.26001,
+  "volume" : 1126800,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634076000000,
+  "open" : 2755.0,
+  "low" : 2739.530029,
+  "high" : 2771.0,
+  "close" : 2758.0,
+  "adjClose" : 2758.0,
+  "volume" : 819000,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634162400000,
+  "open" : 2799.040039,
+  "low" : 2786.780029,
+  "high" : 2833.030029,
+  "close" : 2828.23999,
+  "adjClose" : 2828.23999,
+  "volume" : 1071300,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634248800000,
+  "open" : 2844.0,
+  "low" : 2821.290039,
+  "high" : 2844.0,
+  "close" : 2833.5,
+  "adjClose" : 2833.5,
+  "volume" : 1062500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634508000000,
+  "open" : 2824.27002,
+  "low" : 2824.27002,
+  "high" : 2859.975098,
+  "close" : 2859.209961,
+  "adjClose" : 2859.209961,
+  "volume" : 828200,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634594400000,
+  "open" : 2865.830078,
+  "low" : 2861.919922,
+  "high" : 2882.139893,
+  "close" : 2876.439941,
+  "adjClose" : 2876.439941,
+  "volume" : 765800,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634680800000,
+  "open" : 2884.449951,
+  "low" : 2838.23999,
+  "high" : 2884.955078,
+  "close" : 2848.300049,
+  "adjClose" : 2848.300049,
+  "volume" : 897000,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634767200000,
+  "open" : 2843.840088,
+  "low" : 2832.73999,
+  "high" : 2856.98999,
+  "close" : 2855.610107,
+  "adjClose" : 2855.610107,
+  "volume" : 742500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1634853600000,
+  "open" : 2807.02002,
+  "low" : 2743.409912,
+  "high" : 2831.169922,
+  "close" : 2772.5,
+  "adjClose" : 2772.5,
+  "volume" : 1509100,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635112800000,
+  "open" : 2776.209961,
+  "low" : 2734.969971,
+  "high" : 2784.115967,
+  "close" : 2775.459961,
+  "adjClose" : 2775.459961,
+  "volume" : 1054100,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635199200000,
+  "open" : 2812.120117,
+  "low" : 2780.110107,
+  "high" : 2816.790039,
+  "close" : 2793.439941,
+  "adjClose" : 2793.439941,
+  "volume" : 1412900,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635285600000,
+  "open" : 2798.050049,
+  "low" : 2798.050049,
+  "high" : 2982.360107,
+  "close" : 2928.550049,
+  "adjClose" : 2928.550049,
+  "volume" : 2592500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635372000000,
+  "open" : 2945.97998,
+  "low" : 2895.27002,
+  "high" : 2948.48999,
+  "close" : 2922.580078,
+  "adjClose" : 2922.580078,
+  "volume" : 1620900,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635458400000,
+  "open" : 2910.399902,
+  "low" : 2903.330078,
+  "high" : 2972.26001,
+  "close" : 2965.409912,
+  "adjClose" : 2965.409912,
+  "volume" : 1447700,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635721200000,
+  "open" : 2963.300049,
+  "low" : 2871.590088,
+  "high" : 2967.98999,
+  "close" : 2875.47998,
+  "adjClose" : 2875.47998,
+  "volume" : 1613600,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635807600000,
+  "open" : 2896.187988,
+  "low" : 2892.820068,
+  "high" : 2938.409912,
+  "close" : 2917.26001,
+  "adjClose" : 2917.26001,
+  "volume" : 1057500,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635894000000,
+  "open" : 2925.5,
+  "low" : 2901.070068,
+  "high" : 2938.209961,
+  "close" : 2935.800049,
+  "adjClose" : 2935.800049,
+  "volume" : 894300,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1635980400000,
+  "open" : 2944.0,
+  "low" : 2932.699951,
+  "high" : 2999.0,
+  "close" : 2973.659912,
+  "adjClose" : 2973.659912,
+  "volume" : 1235000,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1636066800000,
+  "open" : 2987.070068,
+  "low" : 2973.040039,
+  "high" : 3011.415039,
+  "close" : 2984.820068,
+  "adjClose" : 2984.820068,
+  "volume" : 1019700,
+  "invalid" : false
+}, {
+  "symbol" : "GOOG",
+  "date" : 1641855600000,
+  "open" : 2763.610107,
+  "low" : 2736.27002,
+  "high" : 2806.590088,
+  "close" : 2800.350098,
+  "adjClose" : 2800.350098,
+  "volume" : 1174100,
+  "invalid" : false
+} ],
+"averageTrueRange":57.11580556603774,
+"stockAnalysis":{
+  "averageTrueRange" : 57.11580556603774,
+  "longEntry" : 3011.415039,
+  "longExit" : 2734.969971,
+  "longStop" : 2727.0,
+  "shortEntry" : 2623.330078,
+  "shortExit" : 3011.415039,
+  "shortStop" : 2956.0,
+  "investAmount" : 1990.0,
+  "high" : 2856.285,
+  "low" : 2822.24,
+  "stockName" : "Alphabet Inc.",
+  "currentPrice" : 2841.72
+}}

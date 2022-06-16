@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "GCM23.CMX",
+  "date" : 1629756000000,
+  "open" : 1827.400024,
+  "low" : 1827.400024,
+  "high" : 1827.400024,
+  "close" : 1827.400024,
+  "adjClose" : 1827.400024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1629842400000,
+  "open" : 1809.900024,
+  "low" : 1809.900024,
+  "high" : 1809.900024,
+  "close" : 1809.900024,
+  "adjClose" : 1809.900024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1629928800000,
+  "open" : 1814.300049,
+  "low" : 1814.300049,
+  "high" : 1814.300049,
+  "close" : 1814.300049,
+  "adjClose" : 1814.300049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630015200000,
+  "open" : 1838.599976,
+  "low" : 1838.599976,
+  "high" : 1838.599976,
+  "close" : 1838.599976,
+  "adjClose" : 1838.599976,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630274400000,
+  "open" : 1831.300049,
+  "low" : 1831.300049,
+  "high" : 1831.300049,
+  "close" : 1831.300049,
+  "adjClose" : 1831.300049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630360800000,
+  "open" : 1837.199951,
+  "low" : 1837.199951,
+  "high" : 1837.199951,
+  "close" : 1837.199951,
+  "adjClose" : 1837.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630447200000,
+  "open" : 1835.0,
+  "low" : 1835.0,
+  "high" : 1835.0,
+  "close" : 1835.0,
+  "adjClose" : 1835.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630533600000,
+  "open" : 1830.199951,
+  "low" : 1830.199951,
+  "high" : 1830.199951,
+  "close" : 1830.199951,
+  "adjClose" : 1830.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630620000000,
+  "open" : 1852.199951,
+  "low" : 1852.199951,
+  "high" : 1852.199951,
+  "close" : 1852.199951,
+  "adjClose" : 1852.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1630965600000,
+  "open" : 1817.099976,
+  "low" : 1817.099976,
+  "high" : 1820.0,
+  "close" : 1817.099976,
+  "adjClose" : 1817.099976,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631052000000,
+  "open" : 1812.199951,
+  "low" : 1812.199951,
+  "high" : 1812.199951,
+  "close" : 1812.199951,
+  "adjClose" : 1812.199951,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631138400000,
+  "open" : 1818.699951,
+  "low" : 1818.699951,
+  "high" : 1818.699951,
+  "close" : 1818.699951,
+  "adjClose" : 1818.699951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631224800000,
+  "open" : 1810.900024,
+  "low" : 1810.900024,
+  "high" : 1810.900024,
+  "close" : 1810.900024,
+  "adjClose" : 1810.900024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631484000000,
+  "open" : 1813.199951,
+  "low" : 1813.199951,
+  "high" : 1813.199951,
+  "close" : 1813.199951,
+  "adjClose" : 1813.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631570400000,
+  "open" : 1825.900024,
+  "low" : 1825.900024,
+  "high" : 1825.900024,
+  "close" : 1825.900024,
+  "adjClose" : 1825.900024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631656800000,
+  "open" : 1813.5,
+  "low" : 1813.5,
+  "high" : 1813.5,
+  "close" : 1813.5,
+  "adjClose" : 1813.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631743200000,
+  "open" : 1775.300049,
+  "low" : 1775.300049,
+  "high" : 1775.300049,
+  "close" : 1775.300049,
+  "adjClose" : 1775.300049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1631829600000,
+  "open" : 1769.699951,
+  "low" : 1769.699951,
+  "high" : 1769.699951,
+  "close" : 1769.699951,
+  "adjClose" : 1769.699951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632088800000,
+  "open" : 1782.300049,
+  "low" : 1782.300049,
+  "high" : 1782.300049,
+  "close" : 1782.300049,
+  "adjClose" : 1782.300049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632175200000,
+  "open" : 1796.900024,
+  "low" : 1796.900024,
+  "high" : 1796.900024,
+  "close" : 1796.900024,
+  "adjClose" : 1796.900024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632261600000,
+  "open" : 1797.800049,
+  "low" : 1797.800049,
+  "high" : 1797.800049,
+  "close" : 1797.800049,
+  "adjClose" : 1797.800049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632348000000,
+  "open" : 1768.599976,
+  "low" : 1768.599976,
+  "high" : 1768.599976,
+  "close" : 1768.599976,
+  "adjClose" : 1768.599976,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632434400000,
+  "open" : 1770.400024,
+  "low" : 1770.400024,
+  "high" : 1770.400024,
+  "close" : 1770.400024,
+  "adjClose" : 1770.400024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632693600000,
+  "open" : 1770.699951,
+  "low" : 1770.699951,
+  "high" : 1770.699951,
+  "close" : 1770.699951,
+  "adjClose" : 1770.699951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632780000000,
+  "open" : 1756.199951,
+  "low" : 1756.199951,
+  "high" : 1756.199951,
+  "close" : 1756.199951,
+  "adjClose" : 1756.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632866400000,
+  "open" : 1741.400024,
+  "low" : 1741.400024,
+  "high" : 1741.400024,
+  "close" : 1741.400024,
+  "adjClose" : 1741.400024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1632952800000,
+  "open" : 1774.5,
+  "low" : 1774.5,
+  "high" : 1774.5,
+  "close" : 1774.5,
+  "adjClose" : 1774.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633039200000,
+  "open" : 1776.199951,
+  "low" : 1776.199951,
+  "high" : 1776.199951,
+  "close" : 1776.199951,
+  "adjClose" : 1776.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633298400000,
+  "open" : 1785.099976,
+  "low" : 1785.099976,
+  "high" : 1785.099976,
+  "close" : 1785.099976,
+  "adjClose" : 1785.099976,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633384800000,
+  "open" : 1778.900024,
+  "low" : 1778.900024,
+  "high" : 1778.900024,
+  "close" : 1778.900024,
+  "adjClose" : 1778.900024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633471200000,
+  "open" : 1779.599976,
+  "low" : 1779.599976,
+  "high" : 1779.599976,
+  "close" : 1779.599976,
+  "adjClose" : 1779.599976,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633557600000,
+  "open" : 1777.800049,
+  "low" : 1777.800049,
+  "high" : 1777.800049,
+  "close" : 1777.800049,
+  "adjClose" : 1777.800049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633644000000,
+  "open" : 1776.199951,
+  "low" : 1776.199951,
+  "high" : 1776.199951,
+  "close" : 1776.199951,
+  "adjClose" : 1776.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633903200000,
+  "open" : 1774.699951,
+  "low" : 1774.699951,
+  "high" : 1774.699951,
+  "close" : 1774.699951,
+  "adjClose" : 1774.699951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1633989600000,
+  "open" : 1778.199951,
+  "low" : 1778.199951,
+  "high" : 1778.199951,
+  "close" : 1778.199951,
+  "adjClose" : 1778.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634076000000,
+  "open" : 1814.400024,
+  "low" : 1814.400024,
+  "high" : 1814.400024,
+  "close" : 1814.400024,
+  "adjClose" : 1814.400024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634162400000,
+  "open" : 1817.199951,
+  "low" : 1817.199951,
+  "high" : 1817.199951,
+  "close" : 1817.199951,
+  "adjClose" : 1817.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634248800000,
+  "open" : 1787.599976,
+  "low" : 1787.599976,
+  "high" : 1787.599976,
+  "close" : 1787.599976,
+  "adjClose" : 1787.599976,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634508000000,
+  "open" : 1785.300049,
+  "low" : 1785.300049,
+  "high" : 1785.300049,
+  "close" : 1785.300049,
+  "adjClose" : 1785.300049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634594400000,
+  "open" : 1790.199951,
+  "low" : 1790.199951,
+  "high" : 1790.199951,
+  "close" : 1790.199951,
+  "adjClose" : 1790.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634680800000,
+  "open" : 1804.199951,
+  "low" : 1804.199951,
+  "high" : 1804.199951,
+  "close" : 1804.199951,
+  "adjClose" : 1804.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634767200000,
+  "open" : 1801.5,
+  "low" : 1801.5,
+  "high" : 1801.5,
+  "close" : 1801.5,
+  "adjClose" : 1801.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1634853600000,
+  "open" : 1816.099976,
+  "low" : 1816.099976,
+  "high" : 1816.099976,
+  "close" : 1816.099976,
+  "adjClose" : 1816.099976,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635112800000,
+  "open" : 1826.300049,
+  "low" : 1826.300049,
+  "high" : 1826.300049,
+  "close" : 1826.300049,
+  "adjClose" : 1826.300049,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635199200000,
+  "open" : 1812.900024,
+  "low" : 1812.900024,
+  "high" : 1812.900024,
+  "close" : 1812.900024,
+  "adjClose" : 1812.900024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635285600000,
+  "open" : 1818.5,
+  "low" : 1818.5,
+  "high" : 1818.5,
+  "close" : 1818.5,
+  "adjClose" : 1818.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635372000000,
+  "open" : 1822.0,
+  "low" : 1822.0,
+  "high" : 1822.0,
+  "close" : 1822.0,
+  "adjClose" : 1822.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635458400000,
+  "open" : 1803.400024,
+  "low" : 1803.400024,
+  "high" : 1803.400024,
+  "close" : 1803.400024,
+  "adjClose" : 1803.400024,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635721200000,
+  "open" : 1814.5,
+  "low" : 1814.5,
+  "high" : 1814.5,
+  "close" : 1814.5,
+  "adjClose" : 1814.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635807600000,
+  "open" : 1808.0,
+  "low" : 1808.0,
+  "high" : 1808.0,
+  "close" : 1808.0,
+  "adjClose" : 1808.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635894000000,
+  "open" : 1782.199951,
+  "low" : 1782.199951,
+  "high" : 1782.199951,
+  "close" : 1782.199951,
+  "adjClose" : 1782.199951,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1635980400000,
+  "open" : 1812.0,
+  "low" : 1812.0,
+  "high" : 1812.0,
+  "close" : 1812.0,
+  "adjClose" : 1812.0,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1636066800000,
+  "open" : 1835.5,
+  "low" : 1835.5,
+  "high" : 1835.5,
+  "close" : 1835.5,
+  "adjClose" : 1835.5,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "GCM23.CMX",
+  "date" : 1641855600000,
+  "open" : 1838.5,
+  "low" : 1838.5,
+  "high" : 1838.5,
+  "close" : 1838.5,
+  "adjClose" : 1838.5,
+  "volume" : 0,
+  "invalid" : false
+} ],
+"averageTrueRange":11.692445094339616,
+"stockAnalysis":{
+  "averageTrueRange" : 11.692445094339616,
+  "longEntry" : 1852.199951,
+  "longExit" : 1782.199951,
+  "longStop" : 1808.0,
+  "shortEntry" : 1741.400024,
+  "shortExit" : 1838.5,
+  "shortStop" : 1855.0,
+  "investAmount" : 6265.0,
+  "high" : 1831.2,
+  "low" : 1824.9,
+  "stockName" : "Gold Jun 23",
+  "currentPrice" : 1831.2
+}}

@@ -1,0 +1,556 @@
+{ "historicalQuotes":[ {
+  "symbol" : "NIO",
+  "date" : 1629756000000,
+  "open" : 39.240002,
+  "low" : 38.630001,
+  "high" : 39.610001,
+  "close" : 38.939999,
+  "adjClose" : 38.939999,
+  "volume" : 37927500,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1629842400000,
+  "open" : 38.66,
+  "low" : 38.18,
+  "high" : 39.139999,
+  "close" : 38.950001,
+  "adjClose" : 38.950001,
+  "volume" : 25641300,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1629928800000,
+  "open" : 38.630001,
+  "low" : 37.82,
+  "high" : 39.740002,
+  "close" : 38.259998,
+  "adjClose" : 38.259998,
+  "volume" : 34432000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630015200000,
+  "open" : 38.23,
+  "low" : 37.830002,
+  "high" : 38.470001,
+  "close" : 38.049999,
+  "adjClose" : 38.049999,
+  "volume" : 23440900,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630274400000,
+  "open" : 38.169998,
+  "low" : 36.639999,
+  "high" : 38.279999,
+  "close" : 37.799999,
+  "adjClose" : 37.799999,
+  "volume" : 38128000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630360800000,
+  "open" : 38.240002,
+  "low" : 37.900002,
+  "high" : 39.389999,
+  "close" : 39.310001,
+  "adjClose" : 39.310001,
+  "volume" : 44942200,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630447200000,
+  "open" : 37.490002,
+  "low" : 37.200001,
+  "high" : 39.93,
+  "close" : 39.080002,
+  "adjClose" : 39.080002,
+  "volume" : 56911500,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630533600000,
+  "open" : 39.07,
+  "low" : 38.900002,
+  "high" : 41.02,
+  "close" : 40.349998,
+  "adjClose" : 40.349998,
+  "volume" : 43827700,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630620000000,
+  "open" : 40.110001,
+  "low" : 39.830002,
+  "high" : 40.970001,
+  "close" : 40.369999,
+  "adjClose" : 40.369999,
+  "volume" : 30353900,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1630965600000,
+  "open" : 40.849998,
+  "low" : 40.59,
+  "high" : 41.860001,
+  "close" : 40.59,
+  "adjClose" : 40.59,
+  "volume" : 35292600,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631052000000,
+  "open" : 39.169998,
+  "low" : 37.810001,
+  "high" : 39.43,
+  "close" : 38.139999,
+  "adjClose" : 38.139999,
+  "volume" : 51800000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631138400000,
+  "open" : 37.98,
+  "low" : 37.549999,
+  "high" : 38.849998,
+  "close" : 38.450001,
+  "adjClose" : 38.450001,
+  "volume" : 33812000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631224800000,
+  "open" : 38.619999,
+  "low" : 37.900002,
+  "high" : 39.52,
+  "close" : 37.98,
+  "adjClose" : 37.98,
+  "volume" : 29213500,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631484000000,
+  "open" : 38.009998,
+  "low" : 36.560001,
+  "high" : 38.389999,
+  "close" : 38.389999,
+  "adjClose" : 38.389999,
+  "volume" : 38410000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631570400000,
+  "open" : 38.490002,
+  "low" : 37.689999,
+  "high" : 39.400002,
+  "close" : 37.889999,
+  "adjClose" : 37.889999,
+  "volume" : 30857200,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631656800000,
+  "open" : 38.0,
+  "low" : 36.950001,
+  "high" : 38.150002,
+  "close" : 38.029999,
+  "adjClose" : 38.029999,
+  "volume" : 27049400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631743200000,
+  "open" : 37.540001,
+  "low" : 36.740002,
+  "high" : 37.669998,
+  "close" : 37.09,
+  "adjClose" : 37.09,
+  "volume" : 33023100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1631829600000,
+  "open" : 37.299999,
+  "low" : 36.970001,
+  "high" : 37.57,
+  "close" : 37.509998,
+  "adjClose" : 37.509998,
+  "volume" : 29557200,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632088800000,
+  "open" : 36.110001,
+  "low" : 34.540001,
+  "high" : 36.32,
+  "close" : 35.169998,
+  "adjClose" : 35.169998,
+  "volume" : 57611700,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632175200000,
+  "open" : 35.52,
+  "low" : 34.880001,
+  "high" : 35.82,
+  "close" : 34.900002,
+  "adjClose" : 34.900002,
+  "volume" : 31706600,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632261600000,
+  "open" : 35.209999,
+  "low" : 35.119999,
+  "high" : 35.830002,
+  "close" : 35.700001,
+  "adjClose" : 35.700001,
+  "volume" : 26608000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632348000000,
+  "open" : 36.200001,
+  "low" : 35.57,
+  "high" : 36.5,
+  "close" : 36.009998,
+  "adjClose" : 36.009998,
+  "volume" : 27152700,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632434400000,
+  "open" : 35.59,
+  "low" : 35.200001,
+  "high" : 36.07,
+  "close" : 35.380001,
+  "adjClose" : 35.380001,
+  "volume" : 23755100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632693600000,
+  "open" : 35.43,
+  "low" : 34.419998,
+  "high" : 36.860001,
+  "close" : 36.77,
+  "adjClose" : 36.77,
+  "volume" : 36093000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632780000000,
+  "open" : 36.279999,
+  "low" : 34.93,
+  "high" : 37.029999,
+  "close" : 35.049999,
+  "adjClose" : 35.049999,
+  "volume" : 37507900,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632866400000,
+  "open" : 35.439999,
+  "low" : 35.02,
+  "high" : 36.360001,
+  "close" : 35.130001,
+  "adjClose" : 35.130001,
+  "volume" : 33553400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1632952800000,
+  "open" : 35.630001,
+  "low" : 35.290001,
+  "high" : 35.98,
+  "close" : 35.630001,
+  "adjClose" : 35.630001,
+  "volume" : 25768500,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633039200000,
+  "open" : 36.630001,
+  "low" : 35.259998,
+  "high" : 36.669998,
+  "close" : 35.380001,
+  "adjClose" : 35.380001,
+  "volume" : 34919900,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633298400000,
+  "open" : 35.02,
+  "low" : 33.279999,
+  "high" : 35.02,
+  "close" : 33.400002,
+  "adjClose" : 33.400002,
+  "volume" : 40823100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633384800000,
+  "open" : 33.299999,
+  "low" : 33.27,
+  "high" : 34.310001,
+  "close" : 33.869999,
+  "adjClose" : 33.869999,
+  "volume" : 26441300,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633471200000,
+  "open" : 33.41,
+  "low" : 33.169998,
+  "high" : 34.16,
+  "close" : 33.66,
+  "adjClose" : 33.66,
+  "volume" : 22885100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633557600000,
+  "open" : 35.439999,
+  "low" : 34.91,
+  "high" : 36.639999,
+  "close" : 35.990002,
+  "adjClose" : 35.990002,
+  "volume" : 67945200,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633644000000,
+  "open" : 36.439999,
+  "low" : 35.830002,
+  "high" : 36.549999,
+  "close" : 35.830002,
+  "adjClose" : 35.830002,
+  "volume" : 31873400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633903200000,
+  "open" : 36.09,
+  "low" : 35.529999,
+  "high" : 36.52,
+  "close" : 35.639999,
+  "adjClose" : 35.639999,
+  "volume" : 25400100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1633989600000,
+  "open" : 35.700001,
+  "low" : 35.18,
+  "high" : 36.049999,
+  "close" : 35.509998,
+  "adjClose" : 35.509998,
+  "volume" : 26592000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634076000000,
+  "open" : 35.779999,
+  "low" : 35.470001,
+  "high" : 36.68,
+  "close" : 36.240002,
+  "adjClose" : 36.240002,
+  "volume" : 33439600,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634162400000,
+  "open" : 36.209999,
+  "low" : 35.599998,
+  "high" : 36.450001,
+  "close" : 36.279999,
+  "adjClose" : 36.279999,
+  "volume" : 29898400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634248800000,
+  "open" : 36.990002,
+  "low" : 36.939999,
+  "high" : 38.290001,
+  "close" : 37.709999,
+  "adjClose" : 37.709999,
+  "volume" : 48047300,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634508000000,
+  "open" : 37.490002,
+  "low" : 37.27,
+  "high" : 39.84,
+  "close" : 39.610001,
+  "adjClose" : 39.610001,
+  "volume" : 43499400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634594400000,
+  "open" : 40.27,
+  "low" : 39.560001,
+  "high" : 40.900002,
+  "close" : 40.029999,
+  "adjClose" : 40.029999,
+  "volume" : 37820000,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634680800000,
+  "open" : 39.970001,
+  "low" : 39.16,
+  "high" : 40.34,
+  "close" : 39.779999,
+  "adjClose" : 39.779999,
+  "volume" : 25120700,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634767200000,
+  "open" : 39.509998,
+  "low" : 39.369999,
+  "high" : 40.599998,
+  "close" : 39.970001,
+  "adjClose" : 39.970001,
+  "volume" : 25389100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1634853600000,
+  "open" : 39.959999,
+  "low" : 38.540001,
+  "high" : 40.389999,
+  "close" : 38.880001,
+  "adjClose" : 38.880001,
+  "volume" : 28015500,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635112800000,
+  "open" : 39.400002,
+  "low" : 39.240002,
+  "high" : 41.419998,
+  "close" : 41.27,
+  "adjClose" : 41.27,
+  "volume" : 46935600,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635199200000,
+  "open" : 41.290001,
+  "low" : 40.470001,
+  "high" : 42.610001,
+  "close" : 40.470001,
+  "adjClose" : 40.470001,
+  "volume" : 55875400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635285600000,
+  "open" : 40.900002,
+  "low" : 39.259998,
+  "high" : 41.279999,
+  "close" : 39.310001,
+  "adjClose" : 39.310001,
+  "volume" : 28750900,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635372000000,
+  "open" : 39.529999,
+  "low" : 39.189999,
+  "high" : 40.799999,
+  "close" : 40.790001,
+  "adjClose" : 40.790001,
+  "volume" : 32774200,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635458400000,
+  "open" : 40.25,
+  "low" : 39.209999,
+  "high" : 40.549999,
+  "close" : 39.41,
+  "adjClose" : 39.41,
+  "volume" : 33423100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635721200000,
+  "open" : 38.110001,
+  "low" : 38.110001,
+  "high" : 40.84,
+  "close" : 40.84,
+  "adjClose" : 40.84,
+  "volume" : 53062500,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635807600000,
+  "open" : 40.470001,
+  "low" : 40.200001,
+  "high" : 42.490002,
+  "close" : 41.299999,
+  "adjClose" : 41.299999,
+  "volume" : 46243600,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635894000000,
+  "open" : 41.98,
+  "low" : 40.630001,
+  "high" : 42.41,
+  "close" : 41.5,
+  "adjClose" : 41.5,
+  "volume" : 34202100,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1635980400000,
+  "open" : 42.759998,
+  "low" : 42.5,
+  "high" : 44.0,
+  "close" : 43.119999,
+  "adjClose" : 43.119999,
+  "volume" : 53634400,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1636066800000,
+  "open" : 43.52,
+  "low" : 41.82,
+  "high" : 43.52,
+  "close" : 42.290001,
+  "adjClose" : 42.290001,
+  "volume" : 33014600,
+  "invalid" : false
+}, {
+  "symbol" : "NIO",
+  "date" : 1641855600000,
+  "open" : 28.85,
+  "low" : 28.469999,
+  "high" : 30.440001,
+  "close" : 30.02,
+  "adjClose" : 30.02,
+  "volume" : 41430200,
+  "invalid" : false
+} ],
+"averageTrueRange":1.8486791132075466,
+"stockAnalysis":{
+  "averageTrueRange" : 1.8486791132075466,
+  "longEntry" : 44.0,
+  "longExit" : 28.469999,
+  "longStop" : 27.0,
+  "shortEntry" : 28.469999,
+  "shortExit" : 44.0,
+  "shortStop" : 35.0,
+  "investAmount" : 667.0,
+  "high" : 31.49,
+  "low" : 30.3405,
+  "stockName" : "NIO Inc.",
+  "currentPrice" : 30.83
+}}

@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "ETH-USD",
+  "date" : 1632866400000,
+  "open" : 2809.297607,
+  "low" : 2786.988281,
+  "high" : 2946.881348,
+  "close" : 2853.143311,
+  "adjClose" : 2853.143311,
+  "volume" : 15763456158,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1632952800000,
+  "open" : 2852.558838,
+  "low" : 2840.289551,
+  "high" : 3046.519531,
+  "close" : 3001.678955,
+  "adjClose" : 3001.678955,
+  "volume" : 17661065099,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633039200000,
+  "open" : 3001.129395,
+  "low" : 2978.654297,
+  "high" : 3329.853516,
+  "close" : 3307.516113,
+  "adjClose" : 3307.516113,
+  "volume" : 22307625573,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633125600000,
+  "open" : 3308.870361,
+  "low" : 3260.027588,
+  "high" : 3464.837402,
+  "close" : 3391.694336,
+  "adjClose" : 3391.694336,
+  "volume" : 19202671704,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633212000000,
+  "open" : 3390.767578,
+  "low" : 3348.120117,
+  "high" : 3484.605713,
+  "close" : 3418.358643,
+  "adjClose" : 3418.358643,
+  "volume" : 15516566862,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633298400000,
+  "open" : 3418.776367,
+  "low" : 3283.44873,
+  "high" : 3434.775391,
+  "close" : 3380.089111,
+  "adjClose" : 3380.089111,
+  "volume" : 17747154101,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633384800000,
+  "open" : 3381.784424,
+  "low" : 3365.817627,
+  "high" : 3541.45166,
+  "close" : 3518.518555,
+  "adjClose" : 3518.518555,
+  "volume" : 16632591670,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633471200000,
+  "open" : 3516.570313,
+  "low" : 3354.469727,
+  "high" : 3622.55127,
+  "close" : 3580.562012,
+  "adjClose" : 3580.562012,
+  "volume" : 21855226591,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633557600000,
+  "open" : 3576.814453,
+  "low" : 3479.90918,
+  "high" : 3650.013184,
+  "close" : 3587.974854,
+  "adjClose" : 3587.974854,
+  "volume" : 19090322927,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633644000000,
+  "open" : 3587.832764,
+  "low" : 3547.828125,
+  "high" : 3667.95752,
+  "close" : 3563.759277,
+  "adjClose" : 3563.759277,
+  "volume" : 16222029488,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633730400000,
+  "open" : 3559.997803,
+  "low" : 3544.640381,
+  "high" : 3628.237305,
+  "close" : 3575.716797,
+  "adjClose" : 3575.716797,
+  "volume" : 12707036942,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633816800000,
+  "open" : 3575.020508,
+  "low" : 3414.970947,
+  "high" : 3603.244873,
+  "close" : 3425.852783,
+  "adjClose" : 3425.852783,
+  "volume" : 16171746693,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633903200000,
+  "open" : 3419.726807,
+  "low" : 3385.761719,
+  "high" : 3622.289551,
+  "close" : 3545.354004,
+  "adjClose" : 3545.354004,
+  "volume" : 18579189588,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1633989600000,
+  "open" : 3546.477783,
+  "low" : 3407.338135,
+  "high" : 3546.477783,
+  "close" : 3492.573242,
+  "adjClose" : 3492.573242,
+  "volume" : 18109578443,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634076000000,
+  "open" : 3492.753662,
+  "low" : 3417.602051,
+  "high" : 3607.741699,
+  "close" : 3606.20166,
+  "adjClose" : 3606.20166,
+  "volume" : 16211275589,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634162400000,
+  "open" : 3604.958984,
+  "low" : 3590.275146,
+  "high" : 3819.258545,
+  "close" : 3786.01416,
+  "adjClose" : 3786.01416,
+  "volume" : 19443499909,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634248800000,
+  "open" : 3790.154297,
+  "low" : 3735.363525,
+  "high" : 3895.466309,
+  "close" : 3862.634766,
+  "adjClose" : 3862.634766,
+  "volume" : 20966841512,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634335200000,
+  "open" : 3865.666504,
+  "low" : 3805.885986,
+  "high" : 3962.453125,
+  "close" : 3830.38208,
+  "adjClose" : 3830.38208,
+  "volume" : 16578095629,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634421600000,
+  "open" : 3829.858887,
+  "low" : 3660.723389,
+  "high" : 3914.897949,
+  "close" : 3847.104492,
+  "adjClose" : 3847.104492,
+  "volume" : 15908090346,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634508000000,
+  "open" : 3847.72998,
+  "low" : 3686.750488,
+  "high" : 3888.209229,
+  "close" : 3748.760254,
+  "adjClose" : 3748.760254,
+  "volume" : 17386204158,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634594400000,
+  "open" : 3747.162842,
+  "low" : 3736.780273,
+  "high" : 3883.928711,
+  "close" : 3877.650879,
+  "adjClose" : 3877.650879,
+  "volume" : 15998757133,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634680800000,
+  "open" : 3877.730957,
+  "low" : 3833.288086,
+  "high" : 4167.472168,
+  "close" : 4155.992188,
+  "adjClose" : 4155.992188,
+  "volume" : 20338319988,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634767200000,
+  "open" : 4161.713379,
+  "low" : 4032.483887,
+  "high" : 4366.088379,
+  "close" : 4054.322754,
+  "adjClose" : 4054.322754,
+  "volume" : 28220661820,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634853600000,
+  "open" : 4055.686523,
+  "low" : 3908.340332,
+  "high" : 4162.975586,
+  "close" : 3970.181885,
+  "adjClose" : 3970.181885,
+  "volume" : 19432937968,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1634940000000,
+  "open" : 3971.356445,
+  "low" : 3944.631836,
+  "high" : 4171.663574,
+  "close" : 4171.663574,
+  "adjClose" : 4171.663574,
+  "volume" : 14781537792,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635026400000,
+  "open" : 4171.855957,
+  "low" : 3967.120361,
+  "high" : 4185.729492,
+  "close" : 4087.903076,
+  "adjClose" : 4087.903076,
+  "volume" : 14978083638,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635112800000,
+  "open" : 4084.425781,
+  "low" : 4072.034668,
+  "high" : 4236.666992,
+  "close" : 4217.876953,
+  "adjClose" : 4217.876953,
+  "volume" : 15995727040,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635199200000,
+  "open" : 4217.337891,
+  "low" : 4106.82373,
+  "high" : 4289.131348,
+  "close" : 4131.102051,
+  "adjClose" : 4131.102051,
+  "volume" : 17157714562,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635285600000,
+  "open" : 4132.17334,
+  "low" : 3930.257324,
+  "high" : 4299.152832,
+  "close" : 3930.257324,
+  "adjClose" : 3930.257324,
+  "volume" : 26219530404,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635372000000,
+  "open" : 3924.81543,
+  "low" : 3905.706055,
+  "high" : 4293.150879,
+  "close" : 4287.318848,
+  "adjClose" : 4287.318848,
+  "volume" : 25958154575,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635458400000,
+  "open" : 4288.686523,
+  "low" : 4271.70752,
+  "high" : 4455.735352,
+  "close" : 4414.746582,
+  "adjClose" : 4414.746582,
+  "volume" : 22967641914,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635544800000,
+  "open" : 4414.243652,
+  "low" : 4252.494141,
+  "high" : 4426.848633,
+  "close" : 4325.650391,
+  "adjClose" : 4325.650391,
+  "volume" : 14615490626,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635631200000,
+  "open" : 4322.744141,
+  "low" : 4179.016113,
+  "high" : 4394.449707,
+  "close" : 4288.074219,
+  "adjClose" : 4288.074219,
+  "volume" : 17498160238,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635721200000,
+  "open" : 4288.217285,
+  "low" : 4160.966797,
+  "high" : 4377.322266,
+  "close" : 4324.626953,
+  "adjClose" : 4324.626953,
+  "volume" : 17985288261,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635807600000,
+  "open" : 4322.500977,
+  "low" : 4288.686523,
+  "high" : 4599.948242,
+  "close" : 4584.798828,
+  "adjClose" : 4584.798828,
+  "volume" : 20794448222,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635894000000,
+  "open" : 4589.68457,
+  "low" : 4462.976074,
+  "high" : 4664.910156,
+  "close" : 4607.193848,
+  "adjClose" : 4607.193848,
+  "volume" : 21220463155,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1635980400000,
+  "open" : 4604.678711,
+  "low" : 4426.622559,
+  "high" : 4606.516113,
+  "close" : 4537.324219,
+  "adjClose" : 4537.324219,
+  "volume" : 18415244464,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636066800000,
+  "open" : 4537.42334,
+  "low" : 4447.487305,
+  "high" : 4570.895996,
+  "close" : 4486.243164,
+  "adjClose" : 4486.243164,
+  "volume" : 15086003586,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636153200000,
+  "open" : 4482.647949,
+  "low" : 4334.973633,
+  "high" : 4530.99707,
+  "close" : 4521.581055,
+  "adjClose" : 4521.581055,
+  "volume" : 14429076700,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636326000000,
+  "open" : 4631.728516,
+  "low" : 4624.581543,
+  "high" : 4759.159668,
+  "close" : 4737.630371,
+  "adjClose" : 4737.630371,
+  "volume" : 16699512832,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636066800000,
+  "open" : 4537.42334,
+  "low" : 4447.487305,
+  "high" : 4570.895996,
+  "close" : 4486.243164,
+  "adjClose" : 4486.243164,
+  "volume" : 15086003586,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636153200000,
+  "open" : 4482.647949,
+  "low" : 4334.973633,
+  "high" : 4530.99707,
+  "close" : 4521.581055,
+  "adjClose" : 4521.581055,
+  "volume" : 14429076700,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636326000000,
+  "open" : 4631.728516,
+  "low" : 4624.581543,
+  "high" : 4759.159668,
+  "close" : 4730.290527,
+  "adjClose" : 4730.290527,
+  "volume" : 16610484224,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636066800000,
+  "open" : 4537.42334,
+  "low" : 4447.487305,
+  "high" : 4570.895996,
+  "close" : 4486.243164,
+  "adjClose" : 4486.243164,
+  "volume" : 15086003586,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636153200000,
+  "open" : 4482.647949,
+  "low" : 4334.973633,
+  "high" : 4530.99707,
+  "close" : 4521.581055,
+  "adjClose" : 4521.581055,
+  "volume" : 14429076700,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636239600000,
+  "open" : null,
+  "low" : null,
+  "high" : null,
+  "close" : null,
+  "adjClose" : null,
+  "volume" : null,
+  "invalid" : true
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1636326000000,
+  "open" : 4631.728516,
+  "low" : 4624.581543,
+  "high" : 4759.159668,
+  "close" : 4733.133301,
+  "adjClose" : 4733.133301,
+  "volume" : 16573883392,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1641855600000,
+  "open" : 3082.990967,
+  "low" : 3061.140625,
+  "high" : 3247.511963,
+  "close" : 3238.111572,
+  "adjClose" : 3238.111572,
+  "volume" : 15211447193,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1641942000000,
+  "open" : 3245.801514,
+  "low" : 3217.026611,
+  "high" : 3377.3125,
+  "close" : 3351.355469,
+  "adjClose" : 3351.355469,
+  "volume" : 17799464960,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1641855600000,
+  "open" : 3082.990967,
+  "low" : 3061.140625,
+  "high" : 3247.511963,
+  "close" : 3238.111572,
+  "adjClose" : 3238.111572,
+  "volume" : 15211447193,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1641942000000,
+  "open" : 3245.801514,
+  "low" : 3217.026611,
+  "high" : 3377.3125,
+  "close" : 3356.570313,
+  "adjClose" : 3356.570313,
+  "volume" : 17695166464,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1641855600000,
+  "open" : 3082.990967,
+  "low" : 3061.140625,
+  "high" : 3247.511963,
+  "close" : 3238.111572,
+  "adjClose" : 3238.111572,
+  "volume" : 15211447193,
+  "invalid" : false
+}, {
+  "symbol" : "ETH-USD",
+  "date" : 1641942000000,
+  "open" : 3245.801514,
+  "low" : 3217.026611,
+  "high" : 3377.312500,
+  "close" : 3361.846436,
+  "adjClose" : 3361.846436,
+  "volume" : 17608148992,
+  "invalid" : false
+} ],
+"averageTrueRange":244.75660202083338,
+"stockAnalysis":{
+  "averageTrueRange" : 244.75660202083338,
+  "longEntry" : 4664.910156,
+  "longExit" : 3061.140625,
+  "longStop" : 2869.0,
+  "shortEntry" : 2840.289551,
+  "shortExit" : 4664.910156,
+  "shortStop" : 3848.0,
+  "investAmount" : 549.0,
+  "high" : 3377.3125,
+  "low" : 3217.0266,
+  "stockName" : "Ethereum USD",
+  "currentPrice" : 3358.065
+}}

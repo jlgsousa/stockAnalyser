@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "SILN22.CMX",
+  "date" : 1630965600000,
+  "open" : 24.525,
+  "low" : 24.469,
+  "high" : 24.525,
+  "close" : 24.469,
+  "adjClose" : 24.469,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631052000000,
+  "open" : 24.156,
+  "low" : 24.156,
+  "high" : 24.156,
+  "close" : 24.156,
+  "adjClose" : 24.156,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631138400000,
+  "open" : 24.282,
+  "low" : 24.282,
+  "high" : 24.282,
+  "close" : 24.282,
+  "adjClose" : 24.282,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631224800000,
+  "open" : 24.370001,
+  "low" : 23.995001,
+  "high" : 24.370001,
+  "close" : 24.007,
+  "adjClose" : 24.007,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631484000000,
+  "open" : 23.834999,
+  "low" : 23.525,
+  "high" : 23.975,
+  "close" : 23.905001,
+  "adjClose" : 23.905001,
+  "volume" : 12,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631570400000,
+  "open" : 23.594999,
+  "low" : 23.594999,
+  "high" : 23.999001,
+  "close" : 23.999001,
+  "adjClose" : 23.999001,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631656800000,
+  "open" : 23.913,
+  "low" : 23.913,
+  "high" : 23.913,
+  "close" : 23.913,
+  "adjClose" : 23.913,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631743200000,
+  "open" : 23.625,
+  "low" : 22.815001,
+  "high" : 23.625,
+  "close" : 22.909,
+  "adjClose" : 22.909,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1631829600000,
+  "open" : 23.110001,
+  "low" : 22.452999,
+  "high" : 23.110001,
+  "close" : 22.452999,
+  "adjClose" : 22.452999,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632088800000,
+  "open" : 22.549999,
+  "low" : 22.318001,
+  "high" : 22.549999,
+  "close" : 22.318001,
+  "adjClose" : 22.318001,
+  "volume" : 8,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632175200000,
+  "open" : 22.724001,
+  "low" : 22.724001,
+  "high" : 22.724001,
+  "close" : 22.724001,
+  "adjClose" : 22.724001,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632261600000,
+  "open" : 23.018999,
+  "low" : 22.795,
+  "high" : 23.190001,
+  "close" : 23.018999,
+  "adjClose" : 23.018999,
+  "volume" : 4,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632348000000,
+  "open" : 22.790001,
+  "low" : 22.790001,
+  "high" : 22.790001,
+  "close" : 22.790001,
+  "adjClose" : 22.790001,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632434400000,
+  "open" : 22.533001,
+  "low" : 22.533001,
+  "high" : 22.533001,
+  "close" : 22.533001,
+  "adjClose" : 22.533001,
+  "volume" : 0,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632693600000,
+  "open" : 22.57,
+  "low" : 22.57,
+  "high" : 22.9,
+  "close" : 22.802999,
+  "adjClose" : 22.802999,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632780000000,
+  "open" : 22.570999,
+  "low" : 22.549999,
+  "high" : 22.570999,
+  "close" : 22.570999,
+  "adjClose" : 22.570999,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632866400000,
+  "open" : 21.555,
+  "low" : 21.555,
+  "high" : 21.591,
+  "close" : 21.591,
+  "adjClose" : 21.591,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1632952800000,
+  "open" : 22.146,
+  "low" : 22.146,
+  "high" : 22.146,
+  "close" : 22.146,
+  "adjClose" : 22.146,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633039200000,
+  "open" : 22.643,
+  "low" : 22.643,
+  "high" : 22.643,
+  "close" : 22.643,
+  "adjClose" : 22.643,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633298400000,
+  "open" : 22.754,
+  "low" : 22.754,
+  "high" : 22.754,
+  "close" : 22.754,
+  "adjClose" : 22.754,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633384800000,
+  "open" : 22.718,
+  "low" : 22.718,
+  "high" : 22.718,
+  "close" : 22.718,
+  "adjClose" : 22.718,
+  "volume" : 2,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633471200000,
+  "open" : 22.65,
+  "low" : 22.65,
+  "high" : 22.65,
+  "close" : 22.65,
+  "adjClose" : 22.65,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633557600000,
+  "open" : 22.9,
+  "low" : 22.782,
+  "high" : 22.9,
+  "close" : 22.782,
+  "adjClose" : 22.782,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633644000000,
+  "open" : 22.826,
+  "low" : 22.826,
+  "high" : 22.826,
+  "close" : 22.826,
+  "adjClose" : 22.826,
+  "volume" : 10,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633903200000,
+  "open" : 22.790001,
+  "low" : 22.790001,
+  "high" : 22.790001,
+  "close" : 22.790001,
+  "adjClose" : 22.790001,
+  "volume" : 7,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1633989600000,
+  "open" : 22.815001,
+  "low" : 22.638,
+  "high" : 22.815001,
+  "close" : 22.638,
+  "adjClose" : 22.638,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634076000000,
+  "open" : 22.969999,
+  "low" : 22.969999,
+  "high" : 23.290001,
+  "close" : 23.290001,
+  "adjClose" : 23.290001,
+  "volume" : 21,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634162400000,
+  "open" : 23.594,
+  "low" : 23.594,
+  "high" : 23.594,
+  "close" : 23.594,
+  "adjClose" : 23.594,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634248800000,
+  "open" : 23.695,
+  "low" : 23.395,
+  "high" : 23.695,
+  "close" : 23.462999,
+  "adjClose" : 23.462999,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634508000000,
+  "open" : 23.4,
+  "low" : 23.382,
+  "high" : 23.4,
+  "close" : 23.382,
+  "adjClose" : 23.382,
+  "volume" : 16,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634594400000,
+  "open" : 23.809999,
+  "low" : 23.809999,
+  "high" : 23.993,
+  "close" : 23.993,
+  "adjClose" : 23.993,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634680800000,
+  "open" : 23.77,
+  "low" : 23.77,
+  "high" : 24.552,
+  "close" : 24.552,
+  "adjClose" : 24.552,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634767200000,
+  "open" : 24.299999,
+  "low" : 24.284,
+  "high" : 24.299999,
+  "close" : 24.284,
+  "adjClose" : 24.284,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1634853600000,
+  "open" : 24.549999,
+  "low" : 24.51,
+  "high" : 24.985001,
+  "close" : 24.568001,
+  "adjClose" : 24.568001,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635112800000,
+  "open" : 24.702999,
+  "low" : 24.702999,
+  "high" : 24.702999,
+  "close" : 24.702999,
+  "adjClose" : 24.702999,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635199200000,
+  "open" : 24.4,
+  "low" : 24.1,
+  "high" : 24.4,
+  "close" : 24.204,
+  "adjClose" : 24.204,
+  "volume" : 6,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635285600000,
+  "open" : 24.313,
+  "low" : 24.313,
+  "high" : 24.313,
+  "close" : 24.313,
+  "adjClose" : 24.313,
+  "volume" : 23,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635372000000,
+  "open" : 24.205999,
+  "low" : 24.205999,
+  "high" : 24.205999,
+  "close" : 24.205999,
+  "adjClose" : 24.205999,
+  "volume" : 26,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635458400000,
+  "open" : 24.0,
+  "low" : 23.92,
+  "high" : 24.02,
+  "close" : 24.02,
+  "adjClose" : 24.02,
+  "volume" : 26,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635721200000,
+  "open" : 24.155001,
+  "low" : 24.155001,
+  "high" : 24.155001,
+  "close" : 24.155001,
+  "adjClose" : 24.155001,
+  "volume" : 28,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635807600000,
+  "open" : 24.18,
+  "low" : 23.57,
+  "high" : 24.18,
+  "close" : 23.584,
+  "adjClose" : 23.584,
+  "volume" : 24,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635894000000,
+  "open" : 23.6,
+  "low" : 23.289,
+  "high" : 23.74,
+  "close" : 23.289,
+  "adjClose" : 23.289,
+  "volume" : 15,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1635980400000,
+  "open" : 23.67,
+  "low" : 23.67,
+  "high" : 24.110001,
+  "close" : 23.993,
+  "adjClose" : 23.993,
+  "volume" : 15,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1636066800000,
+  "open" : 23.780001,
+  "low" : 23.780001,
+  "high" : 24.273001,
+  "close" : 24.273001,
+  "adjClose" : 24.273001,
+  "volume" : 11,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1636326000000,
+  "open" : 24.504999,
+  "low" : 24.504999,
+  "high" : 24.504999,
+  "close" : 24.504999,
+  "adjClose" : 24.504999,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1636066800000,
+  "open" : 23.780001,
+  "low" : 23.780001,
+  "high" : 24.273001,
+  "close" : 24.273001,
+  "adjClose" : 24.273001,
+  "volume" : 11,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1636326000000,
+  "open" : 24.504999,
+  "low" : 24.504999,
+  "high" : 24.504999,
+  "close" : 24.504999,
+  "adjClose" : 24.504999,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1636066800000,
+  "open" : 23.780001,
+  "low" : 23.780001,
+  "high" : 24.273001,
+  "close" : 24.273001,
+  "adjClose" : 24.273001,
+  "volume" : 11,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1636326000000,
+  "open" : 24.504999,
+  "low" : 24.504999,
+  "high" : 24.504999,
+  "close" : 24.504999,
+  "adjClose" : 24.504999,
+  "volume" : 1,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1641855600000,
+  "open" : 22.719999,
+  "low" : 22.629999,
+  "high" : 22.889,
+  "close" : 22.889,
+  "adjClose" : 22.889,
+  "volume" : 13,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1641942000000,
+  "open" : 23.0,
+  "low" : 23.0,
+  "high" : 23.15,
+  "close" : 23.15,
+  "adjClose" : 23.15,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1641855600000,
+  "open" : 22.719999,
+  "low" : 22.629999,
+  "high" : 22.889,
+  "close" : 22.889,
+  "adjClose" : 22.889,
+  "volume" : 13,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1641942000000,
+  "open" : 23.0,
+  "low" : 23.0,
+  "high" : 23.15,
+  "close" : 23.15,
+  "adjClose" : 23.15,
+  "volume" : 3,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1641855600000,
+  "open" : 22.719999,
+  "low" : 22.629999,
+  "high" : 22.889000,
+  "close" : 22.889000,
+  "adjClose" : 22.889000,
+  "volume" : 13,
+  "invalid" : false
+}, {
+  "symbol" : "SILN22.CMX",
+  "date" : 1641942000000,
+  "open" : 23.000000,
+  "low" : 23.000000,
+  "high" : 23.150000,
+  "close" : 23.150000,
+  "adjClose" : 23.150000,
+  "volume" : 3,
+  "invalid" : false
+} ],
+"averageTrueRange":0.40433312962962975,
+"stockAnalysis":{
+  "averageTrueRange" : 0.40433312962962975,
+  "longEntry" : 24.985001,
+  "longExit" : 22.629999,
+  "longStop" : 22.0,
+  "shortEntry" : 21.555,
+  "shortExit" : 24.504999,
+  "shortStop" : 24.0,
+  "investAmount" : 2290.0,
+  "high" : 23.15,
+  "low" : 23.0,
+  "stockName" : "Micro Silver Futures,Jul-2022",
+  "currentPrice" : 23.15
+}}

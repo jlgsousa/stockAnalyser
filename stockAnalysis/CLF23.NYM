@@ -1,0 +1,566 @@
+{ "historicalQuotes":[ {
+  "symbol" : "CLF23.NYM",
+  "date" : 1630274400000,
+  "open" : 62.959999,
+  "low" : 62.959999,
+  "high" : 62.959999,
+  "close" : 62.959999,
+  "adjClose" : 62.959999,
+  "volume" : 313,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1630360800000,
+  "open" : 62.740002,
+  "low" : 62.740002,
+  "high" : 62.740002,
+  "close" : 62.740002,
+  "adjClose" : 62.740002,
+  "volume" : 305,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1630447200000,
+  "open" : 63.0,
+  "low" : 62.799999,
+  "high" : 63.080002,
+  "close" : 63.029999,
+  "adjClose" : 63.029999,
+  "volume" : 235,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1630533600000,
+  "open" : 64.110001,
+  "low" : 64.110001,
+  "high" : 64.110001,
+  "close" : 64.110001,
+  "adjClose" : 64.110001,
+  "volume" : 515,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1630620000000,
+  "open" : 63.740002,
+  "low" : 63.740002,
+  "high" : 63.740002,
+  "close" : 63.740002,
+  "adjClose" : 63.740002,
+  "volume" : 209,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1630965600000,
+  "open" : 63.400002,
+  "low" : 63.18,
+  "high" : 63.400002,
+  "close" : 63.18,
+  "adjClose" : 63.18,
+  "volume" : 3566,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631052000000,
+  "open" : 63.720001,
+  "low" : 63.41,
+  "high" : 63.720001,
+  "close" : 63.5,
+  "adjClose" : 63.5,
+  "volume" : 3566,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631138400000,
+  "open" : 63.23,
+  "low" : 62.75,
+  "high" : 63.23,
+  "close" : 62.75,
+  "adjClose" : 62.75,
+  "volume" : 5658,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631224800000,
+  "open" : 64.0,
+  "low" : 64.0,
+  "high" : 64.32,
+  "close" : 64.019997,
+  "adjClose" : 64.019997,
+  "volume" : 5143,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631484000000,
+  "open" : 64.199997,
+  "low" : 64.199997,
+  "high" : 64.919998,
+  "close" : 64.419998,
+  "adjClose" : 64.419998,
+  "volume" : 11599,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631570400000,
+  "open" : 64.279999,
+  "low" : 64.059998,
+  "high" : 64.730003,
+  "close" : 64.279999,
+  "adjClose" : 64.279999,
+  "volume" : 6658,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631656800000,
+  "open" : 65.139999,
+  "low" : 65.139999,
+  "high" : 65.139999,
+  "close" : 65.139999,
+  "adjClose" : 65.139999,
+  "volume" : 915,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631743200000,
+  "open" : 65.150002,
+  "low" : 65.150002,
+  "high" : 65.150002,
+  "close" : 65.150002,
+  "adjClose" : 65.150002,
+  "volume" : 317,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1631829600000,
+  "open" : 64.550003,
+  "low" : 64.550003,
+  "high" : 64.550003,
+  "close" : 64.550003,
+  "adjClose" : 64.550003,
+  "volume" : 317,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632088800000,
+  "open" : 63.880001,
+  "low" : 63.200001,
+  "high" : 63.880001,
+  "close" : 63.23,
+  "adjClose" : 63.23,
+  "volume" : 1119,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632175200000,
+  "open" : 63.720001,
+  "low" : 63.720001,
+  "high" : 63.720001,
+  "close" : 63.720001,
+  "adjClose" : 63.720001,
+  "volume" : 894,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632261600000,
+  "open" : 64.919998,
+  "low" : 64.919998,
+  "high" : 64.919998,
+  "close" : 64.919998,
+  "adjClose" : 64.919998,
+  "volume" : 513,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632348000000,
+  "open" : 65.669998,
+  "low" : 65.660004,
+  "high" : 65.720001,
+  "close" : 65.699997,
+  "adjClose" : 65.699997,
+  "volume" : 2302,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632434400000,
+  "open" : 65.720001,
+  "low" : 65.660004,
+  "high" : 66.489998,
+  "close" : 66.089996,
+  "adjClose" : 66.089996,
+  "volume" : 2302,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632693600000,
+  "open" : 66.75,
+  "low" : 66.75,
+  "high" : 67.580002,
+  "close" : 67.480003,
+  "adjClose" : 67.480003,
+  "volume" : 1375,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632780000000,
+  "open" : 67.269997,
+  "low" : 67.269997,
+  "high" : 67.269997,
+  "close" : 67.269997,
+  "adjClose" : 67.269997,
+  "volume" : 1375,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632866400000,
+  "open" : 67.0,
+  "low" : 67.0,
+  "high" : 67.269997,
+  "close" : 67.260002,
+  "adjClose" : 67.260002,
+  "volume" : 927,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1632952800000,
+  "open" : 66.290001,
+  "low" : 66.040001,
+  "high" : 67.769997,
+  "close" : 67.150002,
+  "adjClose" : 67.150002,
+  "volume" : 2305,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633039200000,
+  "open" : 68.260002,
+  "low" : 68.260002,
+  "high" : 68.260002,
+  "close" : 68.260002,
+  "adjClose" : 68.260002,
+  "volume" : 2305,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633298400000,
+  "open" : 68.279999,
+  "low" : 68.279999,
+  "high" : 69.5,
+  "close" : 69.480003,
+  "adjClose" : 69.480003,
+  "volume" : 679,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633384800000,
+  "open" : 70.199997,
+  "low" : 70.120003,
+  "high" : 70.870003,
+  "close" : 70.5,
+  "adjClose" : 70.5,
+  "volume" : 1559,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633471200000,
+  "open" : 69.510002,
+  "low" : 69.089996,
+  "high" : 69.620003,
+  "close" : 69.150002,
+  "adjClose" : 69.150002,
+  "volume" : 3541,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633557600000,
+  "open" : 68.639999,
+  "low" : 68.510002,
+  "high" : 69.919998,
+  "close" : 69.830002,
+  "adjClose" : 69.830002,
+  "volume" : 8566,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633644000000,
+  "open" : 70.650002,
+  "low" : 70.110001,
+  "high" : 71.290001,
+  "close" : 70.169998,
+  "adjClose" : 70.169998,
+  "volume" : 5306,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633903200000,
+  "open" : 71.290001,
+  "low" : 70.839996,
+  "high" : 71.290001,
+  "close" : 71.239998,
+  "adjClose" : 71.239998,
+  "volume" : 6046,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1633989600000,
+  "open" : 71.139999,
+  "low" : 71.139999,
+  "high" : 71.510002,
+  "close" : 71.379997,
+  "adjClose" : 71.379997,
+  "volume" : 5764,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634076000000,
+  "open" : 71.389999,
+  "low" : 70.93,
+  "high" : 71.529999,
+  "close" : 71.459999,
+  "adjClose" : 71.459999,
+  "volume" : 4314,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634162400000,
+  "open" : 71.699997,
+  "low" : 71.370003,
+  "high" : 72.129997,
+  "close" : 71.940002,
+  "adjClose" : 71.940002,
+  "volume" : 1040,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634248800000,
+  "open" : 72.32,
+  "low" : 72.019997,
+  "high" : 72.32,
+  "close" : 72.089996,
+  "adjClose" : 72.089996,
+  "volume" : 1040,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634508000000,
+  "open" : 72.989998,
+  "low" : 71.339996,
+  "high" : 72.989998,
+  "close" : 71.760002,
+  "adjClose" : 71.760002,
+  "volume" : 1000,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634594400000,
+  "open" : 71.440002,
+  "low" : 71.440002,
+  "high" : 72.43,
+  "close" : 72.029999,
+  "adjClose" : 72.029999,
+  "volume" : 702,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634680800000,
+  "open" : 71.150002,
+  "low" : 71.150002,
+  "high" : 72.870003,
+  "close" : 72.870003,
+  "adjClose" : 72.870003,
+  "volume" : 702,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634767200000,
+  "open" : 71.160004,
+  "low" : 71.160004,
+  "high" : 71.540001,
+  "close" : 71.510002,
+  "adjClose" : 71.510002,
+  "volume" : 1392,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1634853600000,
+  "open" : 71.279999,
+  "low" : 71.279999,
+  "high" : 71.459999,
+  "close" : 71.400002,
+  "adjClose" : 71.400002,
+  "volume" : 1392,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635112800000,
+  "open" : 72.220001,
+  "low" : 72.050003,
+  "high" : 72.220001,
+  "close" : 72.050003,
+  "adjClose" : 72.050003,
+  "volume" : 4068,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635199200000,
+  "open" : 72.5,
+  "low" : 72.32,
+  "high" : 72.519997,
+  "close" : 72.389999,
+  "adjClose" : 72.389999,
+  "volume" : 4068,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635285600000,
+  "open" : 71.239998,
+  "low" : 71.239998,
+  "high" : 71.239998,
+  "close" : 71.239998,
+  "adjClose" : 71.239998,
+  "volume" : 5288,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635372000000,
+  "open" : 70.440002,
+  "low" : 70.120003,
+  "high" : 71.07,
+  "close" : 71.07,
+  "adjClose" : 71.07,
+  "volume" : 1693,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635458400000,
+  "open" : 70.599998,
+  "low" : 70.599998,
+  "high" : 71.169998,
+  "close" : 70.699997,
+  "adjClose" : 70.699997,
+  "volume" : 1693,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635721200000,
+  "open" : 71.209999,
+  "low" : 71.050003,
+  "high" : 71.370003,
+  "close" : 71.199997,
+  "adjClose" : 71.199997,
+  "volume" : 594,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635807600000,
+  "open" : 70.900002,
+  "low" : 70.900002,
+  "high" : 71.349998,
+  "close" : 71.349998,
+  "adjClose" : 71.349998,
+  "volume" : 947,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635894000000,
+  "open" : 70.010002,
+  "low" : 68.900002,
+  "high" : 70.010002,
+  "close" : 69.580002,
+  "adjClose" : 69.580002,
+  "volume" : 2239,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1635980400000,
+  "open" : 71.0,
+  "low" : 69.209999,
+  "high" : 71.290001,
+  "close" : 69.470001,
+  "adjClose" : 69.470001,
+  "volume" : 2239,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1636066800000,
+  "open" : 71.919998,
+  "low" : 71.239998,
+  "high" : 72.080002,
+  "close" : 71.449997,
+  "adjClose" : 71.449997,
+  "volume" : 843,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1641855600000,
+  "open" : 71.550003,
+  "low" : 71.550003,
+  "high" : 73.629997,
+  "close" : 73.580002,
+  "adjClose" : 73.580002,
+  "volume" : 4112,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1641942000000,
+  "open" : 73.75,
+  "low" : 73.440002,
+  "high" : 74.139999,
+  "close" : 74.110001,
+  "adjClose" : 74.110001,
+  "volume" : 2807,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1641855600000,
+  "open" : 71.550003,
+  "low" : 71.550003,
+  "high" : 73.629997,
+  "close" : 73.580002,
+  "adjClose" : 73.580002,
+  "volume" : 4112,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1641942000000,
+  "open" : 73.75,
+  "low" : 73.440002,
+  "high" : 74.150002,
+  "close" : 74.150002,
+  "adjClose" : 74.150002,
+  "volume" : 2809,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1641855600000,
+  "open" : 71.550003,
+  "low" : 71.550003,
+  "high" : 73.629997,
+  "close" : 73.580002,
+  "adjClose" : 73.580002,
+  "volume" : 4112,
+  "invalid" : false
+}, {
+  "symbol" : "CLF23.NYM",
+  "date" : 1641942000000,
+  "open" : 73.750000,
+  "low" : 73.440002,
+  "high" : 74.150002,
+  "close" : 74.150002,
+  "adjClose" : 74.150002,
+  "volume" : 2809,
+  "invalid" : false
+} ],
+"averageTrueRange":1.0414813333333328,
+"stockAnalysis":{
+  "averageTrueRange" : 1.0414813333333328,
+  "longEntry" : 74.150002,
+  "longExit" : 68.900002,
+  "longStop" : 72.0,
+  "shortEntry" : 62.740002,
+  "shortExit" : 74.150002,
+  "shortStop" : 76.0,
+  "investAmount" : 2848.0,
+  "high" : 74.15,
+  "low" : 73.44,
+  "stockName" : "Crude Oil Jan 23",
+  "currentPrice" : 74.15
+}}
